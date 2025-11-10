@@ -9,11 +9,17 @@ Offical repository for "StoryVideoQA: Scaling Deep Video Understanding with a La
 
 ![StoryMindv2](./assets/StoryMindv2.png)
 
-**StoryMindv2 consists of 4 stage:**
+#### **Environment Requirements (This project work in StoryMindv2 directory):**
 
-- Data Preparation
+```bash
+cd StoryMindv2
+pip install -r requirements.txt
+```
 
-  - The final result of script-subtitle alignment are directly stored in `StoryMindv2/aligned_script`,  i.e., 
+#### **StoryMindv2 consists of 4 stage:**
+
+- **Data Preparation**
+- The final result of script-subtitle alignment are directly stored in `StoryMindv2/aligned_script`,  i.e., 
 
 ```bash
 StoryMindv2/
@@ -26,9 +32,8 @@ StoryMindv2/
         └── video_length.json # Different video length of TV series/Movie in StoryVideoQA    
 ```
 
-- QAs Generation
-
-  -  This stage can be executed by running the script `sh sh/QAsGen.sh` directly, i.e., 
+- **QAs Generation**
+-  This stage can be executed by running the script `sh sh/QAsGen.sh` directly, i.e., 
 
 ```bash
 # Run the QAsGen script with specified parameters
@@ -40,9 +45,8 @@ CUDA_VISIBLE_DEVICES=0 python QAsGen.py \
         --vid_dir Friends                        # The script will use data from aligned_script/{vid_dir}
 ```
 
-- QAs Filtration
-
-  - This stage can be executed by running the script `sh sh/QAsFil.sh` directly, i.e., 
+- **QAs Filtration**
+- This stage can be executed by running the script `sh sh/QAsFil.sh` directly, i.e., 
 
 ```bash
 python QAsFil.py --openai_model gpt-4.1-2025-04-14 \
@@ -56,13 +60,13 @@ python QAsFil.py --openai_model gpt-4.1-2025-04-14 \
                  --claude_proxy "Replace with your Claude proxy address" \ 
                  --vid_dir Friends \   # The script will use data from aligned_script/{vid_dir} for Reviewer
                  --start 0 \           # Start index of generated csv
-                 --end 100             # End index of generated csv
+                 --end 999             # End index of generated csv
 
 python export.py --vid_dir Friends \                           # Filter QAs based on Filtration result
                  --output_path json/filter_QAs.json \          # output path of filtered QAs
 ```
 
-- Difficulty Measure
+- **Difficulty Measure**
   - This stage can be executed by running the script `sh sh/QAsDiff.sh` directly, i.e., 
 
 
@@ -70,10 +74,6 @@ python export.py --vid_dir Friends \                           # Filter QAs base
 python diff_measure.py --questions_path json/filter_QAs.json \               # path of filtered QAs
           --output_path "json/all_questions_info_with_difficulty.json"       # output QAs with diff score
 ```
-
-
-
-
 
 
 

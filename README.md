@@ -28,7 +28,6 @@ StoryMindv2/
         ├── Friends           # Aligned script-subtitle files of TV series: Friends
         ├── GOT               # Aligned script-subtitle files of TV series: GOT
         ├── Movie             # Aligned script-subtitle files of Movies from IMDB and Douban
-        ├── Movie_ini         # Aligned script-subtitle files of Movies with Chinese file name
         └── video_length.json # Different video length of TV series/Movie in StoryVideoQA    
 ```
 

@@ -1,6 +1,17 @@
 # StoryVideoQA: Scaling Deep Video Understanding with a Large-Scale, Multi-Genre and Auto-Generated Dataset
 Offical repository for "StoryVideoQA: Scaling Deep Video Understanding with a Large-Scale, Multi-Genre and Auto-Generated Dataset"
 
+------
+
+### StoryVideoQA Datasets
+
+Due to the large scale of the StoryVideo dataset, we have made it available on the Hugging Face platform for better management and accessibility. The StoryVideoQA dataset includes Question-Answer pairs (QAs) and a character face repository, enabling researchers and developers to easily engage in deep video understanding tasks.
+
+You can access the datasets via the following links:
+
+- 🤗[StoryVideoQA Dataset - QAs](#)
+- 🤗[Character Face Repository](#)
+
 
 
 ------
@@ -19,7 +30,8 @@ pip install -r requirements.txt
 #### **StoryMindv2 consists of 4 stage:**
 
 - **Data Preparation**
-- The final result of script-subtitle alignment are directly stored in `StoryMindv2/aligned_script`,  i.e., 
+  - The final result of script-subtitle alignment are directly stored in `StoryMindv2/aligned_script`,  i.e., 
+
 
 ```bash
 StoryMindv2/
@@ -32,7 +44,8 @@ StoryMindv2/
 ```
 
 - **QAs Generation**
--  This stage can be executed by running the script `sh sh/QAsGen.sh` directly, i.e., 
+  - This stage can be executed by running the script `sh sh/QAsGen.sh` directly, i.e., 
+
 
 ```bash
 # Run the QAsGen script with specified parameters
@@ -45,7 +58,8 @@ CUDA_VISIBLE_DEVICES=0 python QAsGen.py \
 ```
 
 - **QAs Filtration**
-- This stage can be executed by running the script `sh sh/QAsFil.sh` directly, i.e., 
+  - This stage can be executed by running the script `sh sh/QAsFil.sh` directly, i.e., 
+
 
 ```bash
 python QAsFil.py --openai_model gpt-4.1-2025-04-14 \

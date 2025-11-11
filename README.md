@@ -1,9 +1,10 @@
 # StoryVideoQA: Scaling Deep Video Understanding with a Large-Scale, Multi-Genre and Auto-Generated Dataset
+
 Offical repository for "StoryVideoQA: Scaling Deep Video Understanding with a Large-Scale, Multi-Genre and Auto-Generated Dataset"
 
 ------
 
-### StoryVideoQA Datasets
+## StoryVideoQA Datasets
 
 Due to the large scale of the StoryVideo dataset, we have made it available on the Hugging Face platform for better management and accessibility. The StoryVideoQA dataset includes Question-Answer pairs (QAs) and a character face repository, enabling researchers and developers to easily engage in deep video understanding tasks.
 
@@ -15,18 +16,18 @@ You can access the datasets via the following links:
 
 ------
 
-### StoryMindv2 for the construction of StoryVideoQA
+## StoryMindv2 for the construction of StoryVideoQA
 
 ![StoryMindv2](./assets/StoryMindv2.png)
 
-#### **Environment Setup (This project work in StoryMindv2 directory):**
+### **Environment Setup (This project work in StoryMindv2 directory):**
 
 ```bash
 cd StoryMindv2
 pip install -r requirements.txt
 ```
 
-#### **StoryMindv2 consists of 4 stage:**
+### **StoryMindv2 consists of 4 stage:**
 
 1. **Data Preparation**
 
@@ -94,13 +95,13 @@ python diff_measure.py --questions_path json/filter_QAs.json \               # p
 
 ------
 
-### PlotTree for Deep Video Understanding Task
+## PlotTree for Deep Video Understanding Task
 
 ![PlotTree](./assets/PlotTree.png)
 
 
 
-#### Environment Setup
+### Environment Setup
 
 Before running the code, please make sure to prepare the Python environment properly.
 
@@ -128,7 +129,7 @@ Before running the code, please make sure to prepare the Python environment prop
    pip install --editable .
    ```
 
-#### Video Data Preparation
+### Video Data Preparation
 
 - Due to copyright restrictions associated with TV series and movies, researchers are therefore required to **obtain the relevant videos independently** and place them in the `data/video` directory. In addition, please download and unzip the character library from [Character.zip · ZQFive/StoryVideoQA](https://huggingface.co/datasets/ZQFive/StoryVideoQA/blob/main/Character.zip)  to  `data/Character` directory.
 - Once the videos are prepared, you can extract keyframes using the script `data_extraction/extract_images.py`, which samples frames at a default rate of `1 fps`.
@@ -138,7 +139,7 @@ For convenience, we have provided **pre-generated plot captioning results** for 
 
 
 
-#### PlotTree Construction and PlotTreeQA
+### PlotTree Construction and PlotTreeQA
 
 1. **PlotTree Construction**
 

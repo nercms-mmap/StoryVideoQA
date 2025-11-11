@@ -1,0 +1,1880 @@
+1
+00:00:06,870 --> 00:00:09,500
+Here's the problem with teleportation.
+
+2
+00:00:12,840 --> 00:00:14,700
+Lay it on me.
+
+3
+00:00:14,870 --> 00:00:16,820
+Assuming a device could be invented
+
+4
+00:00:16,830 --> 00:00:18,670
+Which would identify the quantum state of matter
+
+5
+00:00:18,680 --> 00:00:20,410
+Of an individual in one location
+
+6
+00:00:20,420 --> 00:00:23,950
+And transmit that pattern to a distant location for reassembly,
+
+7
+00:00:23,950 --> 00:00:26,010
+You would not have actually transported the individual.
+
+8
+00:00:26,020 --> 00:00:28,240
+You would have destroyed him in one location
+
+9
+00:00:28,250 --> 00:00:30,660
+And recreated him in another.
+
+10
+00:00:32,280 --> 00:00:34,050
+How about that.
+
+11
+00:00:35,030 --> 00:00:36,910
+Personally, I would never use a transporter,
+
+12
+00:00:36,920 --> 00:00:39,000
+Because the original sheldon would have to be
+
+13
+00:00:39,010 --> 00:00:42,070
+Disintegrated in order to create a new sheldon.
+
+14
+00:00:43,080 --> 00:00:44,590
+Would the new sheldon be in any way
+
+15
+00:00:44,600 --> 00:00:47,070
+An improvement on the old sheldon?
+
+16
+00:00:48,130 --> 00:00:50,470
+No, he would be exactly the same.
+
+17
+00:00:50,580 --> 00:00:52,300
+That is a problem.
+
+18
+00:00:52,720 --> 00:00:54,510
+So you see it too.
+
+19
+00:00:54,780 --> 00:00:55,790
+Dr. hofstadter.
+
+20
+00:00:55,800 --> 00:00:56,980
+Dr. cooper.
+
+21
+00:00:56,990 --> 00:00:58,550
+Dr. gablehauser. dr. gablehauser.
+
+22
+00:00:58,560 --> 00:01:01,010
+Gentlemen, I'd like you to meet dennis kim.
+
+23
+00:01:01,020 --> 00:01:04,300
+Dennis is a highly sought-after doctoral candidate,
+
+24
+00:01:04,300 --> 00:01:06,190
+And we're hopingto have him do his graduate work here.
+
+25
+00:01:06,200 --> 00:01:07,720
+Graduate work. very impressive.
+
+26
+00:01:07,730 --> 00:01:09,770
+And he's only 15 years old.
+
+27
+00:01:09,780 --> 00:01:13,630
+Not bad-- i, myself, started graduate school at 14.
+
+28
+00:01:13,640 --> 00:01:15,530
+Well, I lost a year while my family
+
+29
+00:01:15,540 --> 00:01:17,880
+Was tunneling out of north korea.
+
+30
+00:01:19,730 --> 00:01:22,720
+Advantage Kim.
+
+31
+00:01:23,020 --> 00:01:24,070
+I thought maybe you boys
+
+32
+00:01:24,080 --> 00:01:25,330
+Could show dennis around.
+
+33
+00:01:25,340 --> 00:01:26,360
+Let him see why we're
+
+34
+00:01:26,370 --> 00:01:28,800
+The best physics research facility in the country.
+
+35
+00:01:28,810 --> 00:01:30,070
+I already know you're not.
+
+36
+00:01:30,080 --> 00:01:31,920
+You don't have an open science grid computer
+
+37
+00:01:31,930 --> 00:01:34,660
+Or a free electron laser, and the string theory research
+
+38
+00:01:34,670 --> 00:01:36,390
+Being done here is nothing but a dead end.
+
+39
+00:01:36,400 --> 00:01:38,130
+Excuse me, that is my research,
+
+40
+00:01:38,140 --> 00:01:40,050
+And it is by no means a dead end.
+
+41
+00:01:40,060 --> 00:01:41,920
+Well, obviously you don't see it yet,
+
+42
+00:01:41,930 --> 00:01:43,900
+But trust me, you will.
+
+43
+00:01:45,960 --> 00:01:47,660
+Dennis, we've discussed this.
+
+44
+00:01:47,670 --> 00:01:50,230
+We're in the process of updating our equipment,
+
+45
+00:01:50,240 --> 00:01:52,410
+And we welcome your input on our research goals,
+
+46
+00:01:52,420 --> 00:01:54,340
+And we've agreed to look the other way if you want
+
+47
+00:01:54,350 --> 00:01:56,360
+To use up to 20% of the grant money you attract
+
+48
+00:01:56,370 --> 00:01:59,030
+To smuggle your grandfather out of pyongyang.
+
+49
+00:02:00,400 --> 00:02:02,600
+We want him here, boys.
+
+50
+00:02:02,610 --> 00:02:03,770
+Make it happen.
+
+51
+00:02:03,780 --> 00:02:04,520
+Yes, sir.
+
+52
+00:02:04,530 --> 00:02:05,640
+You can count on us.
+
+53
+00:02:05,650 --> 00:02:06,450
+We're on it.
+
+54
+00:02:06,460 --> 00:02:08,750
+What the hell do you mean, "dead end"?
+
+55
+00:02:09,030 --> 00:02:11,460
+I mean, the whole landscape of false vacuums
+
+56
+00:02:11,470 --> 00:02:13,030
+In string theory could be as large as ten
+
+57
+00:02:13,040 --> 00:02:14,550
+To the five hundredth power.
+
+58
+00:02:14,560 --> 00:02:17,950
+In addition-- ooh, look, chocolate milk.
+
+59
+00:02:20,200 --> 00:02:22,600
+I sense a disturbance in the force.
+
+60
+00:02:23,360 --> 00:02:25,240
+A bad feeling I have about this.
+
+61
+00:02:45,560 --> 00:02:48,560
+The.Jerusalem.Duality
+
+62
+00:02:52,010 --> 00:02:53,800
+So, dennis, how long have you been in america?
+
+63
+00:02:53,810 --> 00:02:54,870
+A year and a half.
+
+64
+00:02:54,880 --> 00:02:55,600
+No kidding.
+
+65
+00:02:55,610 --> 00:02:56,720
+You speak english really well.
+
+66
+00:02:56,730 --> 00:02:58,350
+So do you.
+
+67
+00:02:59,210 --> 00:03:00,580
+Except for your tendency to end
+
+68
+00:03:00,590 --> 00:03:03,060
+Sentences with prepositions.
+
+69
+00:03:03,840 --> 00:03:05,620
+What are you talking about?
+
+70
+00:03:07,290 --> 00:03:08,790
+That.
+
+71
+00:03:09,530 --> 00:03:11,310
+He's not wrong.
+
+72
+00:03:11,870 --> 00:03:12,890
+All right...
+
+73
+00:03:12,900 --> 00:03:14,180
+And this is my office.
+
+74
+00:03:14,190 --> 00:03:15,140
+Is this part of the tour?
+
+75
+00:03:15,150 --> 00:03:17,010
+Nope. good-bye.
+
+76
+00:03:17,850 --> 00:03:19,910
+Come on, sheldon, we've hardly shown him anything.
+
+77
+00:03:19,920 --> 00:03:21,420
+All right.
+
+78
+00:03:21,430 --> 00:03:22,850
+This is my desk.
+
+79
+00:03:22,860 --> 00:03:24,930
+These are my books; this is my door.
+
+80
+00:03:24,940 --> 00:03:27,450
+Please close it behind you. good-bye.
+
+81
+00:03:28,790 --> 00:03:30,010
+Looks like you're doing work
+
+82
+00:03:30,020 --> 00:03:31,340
+In quantum loop corrections.
+
+83
+00:03:31,350 --> 00:03:32,370
+Keen observation.
+
+84
+00:03:32,380 --> 00:03:34,150
+Good-bye.
+
+85
+00:03:34,180 --> 00:03:36,600
+You see where you went wrong, don't you?
+
+86
+00:03:36,830 --> 00:03:38,360
+Leonard?
+
+87
+00:03:38,370 --> 00:03:39,970
+Yeah?
+
+88
+00:03:40,160 --> 00:03:41,940
+Get him out.
+
+89
+00:03:41,950 --> 00:03:42,740
+Come on, dennis.
+
+90
+00:03:42,750 --> 00:03:43,940
+I'll show you the recreation center.
+
+91
+00:03:43,950 --> 00:03:45,290
+They've got nautilus equipment.
+
+92
+00:03:45,300 --> 00:03:47,740
+Do I look like I lift weights?
+
+93
+00:03:48,200 --> 00:03:50,270
+Not heavy ones.
+
+94
+00:03:50,740 --> 00:03:52,430
+It's startling to me you haven't considered
+
+95
+00:03:52,440 --> 00:03:55,490
+A lorentz invariant or field theory approach.
+
+96
+00:03:55,540 --> 00:03:57,240
+You think I haven't considered it?
+
+97
+00:03:57,250 --> 00:03:59,420
+You really think I haven't considered it?
+
+98
+00:03:59,430 --> 00:04:01,280
+Have you considered it?
+
+99
+00:04:02,180 --> 00:04:03,250
+Get him out, leonard.
+
+100
+00:04:03,260 --> 00:04:04,660
+Come on, dennis.
+
+101
+00:04:04,670 --> 00:04:06,870
+I'll show you the radiation lab.
+
+102
+00:04:07,650 --> 00:04:10,100
+Wow, you won the stevenson award?
+
+103
+00:04:10,110 --> 00:04:11,030
+Yes.
+
+104
+00:04:11,040 --> 00:04:14,460
+In fact, I am the youngest person ever to win it.
+
+105
+00:04:14,470 --> 00:04:16,610
+Really? how old?
+
+106
+00:04:16,620 --> 00:04:18,570
+Fourteen and a half.
+
+107
+00:04:18,580 --> 00:04:21,480
+Hm, you were the youngest person ever to win it.
+
+108
+00:04:24,270 --> 00:04:25,500
+It's like looking into an obnoxious
+
+109
+00:04:25,510 --> 00:04:28,220
+Little mirror, isn't it?
+
+110
+00:04:31,840 --> 00:04:34,380
+This is really delicious, isn't it?
+
+111
+00:04:37,700 --> 00:04:40,770
+Still can't talk to me unless you're drunk, huh?
+
+112
+00:04:41,990 --> 00:04:46,050
+Oh, sweetie, you are so damaged.
+
+113
+00:04:47,090 --> 00:04:49,500
+Hey, I'm damaged, too.
+
+114
+00:04:49,950 --> 00:04:52,090
+How about a hug for howie?
+
+115
+00:04:52,660 --> 00:04:55,290
+Sure. raj, hug howard.
+
+116
+00:04:59,840 --> 00:05:02,030
+Something you'd like to share?
+
+117
+00:05:02,470 --> 00:05:05,220
+A tale of woe, perhaps?
+
+118
+00:05:05,280 --> 00:05:06,980
+Fifteen years old.
+
+119
+00:05:06,990 --> 00:05:10,990
+Dennis Kim's 15 years old, and he's already correcting my work.
+
+120
+00:05:11,000 --> 00:05:14,810
+Today, I went from being wolfgang amadeus mozart, to...
+
+121
+00:05:14,820 --> 00:05:16,210
+You know, that other guy.
+
+122
+00:05:16,220 --> 00:05:18,220
+Antonio salieri?
+
+123
+00:05:18,470 --> 00:05:21,940
+Oh god, now even you're smarter than me.
+
+124
+00:05:22,330 --> 00:05:23,350
+You know, sheldon, you don't have
+
+125
+00:05:23,360 --> 00:05:24,880
+So many friends that you can afford
+
+126
+00:05:24,890 --> 00:05:27,020
+To start insulting them.
+
+127
+00:05:27,770 --> 00:05:29,710
+Just eat, sheldon, you'll feel better.
+
+128
+00:05:29,720 --> 00:05:31,230
+Why waste food?
+
+129
+00:05:31,240 --> 00:05:32,760
+In texas, when a cow goes dry,
+
+130
+00:05:32,770 --> 00:05:34,860
+They don't keep feeding it, they just take her out
+
+131
+00:05:34,870 --> 00:05:37,020
+And shoot her between the eyes.
+
+132
+00:05:37,580 --> 00:05:38,580
+I'm confused.
+
+133
+00:05:38,590 --> 00:05:40,950
+Did sheldon stop giving milk?
+
+134
+00:05:42,090 --> 00:05:43,990
+You can't let this kid get to you.
+
+135
+00:05:44,000 --> 00:05:46,180
+You always knew that someday someone would come along
+
+136
+00:05:46,190 --> 00:05:47,510
+Who was younger and smarter.
+
+137
+00:05:47,520 --> 00:05:49,420
+Yes, but I assumed I would've been dead
+
+138
+00:05:49,430 --> 00:05:51,080
+Hundreds of years and that there'd be
+
+139
+00:05:51,090 --> 00:05:54,370
+An asterisk by his name because he'd be a cyborg.
+
+140
+00:05:55,340 --> 00:05:56,860
+So you've got a little competition.
+
+141
+00:05:56,870 --> 00:05:58,700
+I really don't see what the big deal is.
+
+142
+00:05:58,710 --> 00:05:59,850
+Well, of course you don't.
+
+143
+00:05:59,860 --> 00:06:02,450
+You've never excelled at anything.
+
+144
+00:06:03,960 --> 00:06:05,510
+I don't understand-- exactly how
+
+145
+00:06:05,520 --> 00:06:07,840
+Did he get any friends in the first place?
+
+146
+00:06:08,560 --> 00:06:10,740
+We liked leonard.
+
+147
+00:06:12,550 --> 00:06:14,710
+Well, what are you gonna do, sheldon, just give up?
+
+148
+00:06:14,720 --> 00:06:16,060
+Yes.
+
+149
+00:06:16,070 --> 00:06:17,480
+It's what a rational person does
+
+150
+00:06:17,490 --> 00:06:19,560
+When his entire life's work is invalidated
+
+151
+00:06:19,570 --> 00:06:22,340
+By a postpubescent asian wunderkind.
+
+152
+00:06:23,230 --> 00:06:24,990
+He ceases his fruitless efforts,
+
+153
+00:06:25,000 --> 00:06:27,830
+He donates his body to scientific research,
+
+154
+00:06:27,840 --> 00:06:29,800
+And he waits to die.
+
+155
+00:06:31,280 --> 00:06:32,380
+You know, I'm confused again.
+
+156
+00:06:32,390 --> 00:06:33,910
+Is he waiting, or do we get
+
+157
+00:06:33,920 --> 00:06:36,140
+To shoot him between the eyes?
+
+158
+00:06:40,980 --> 00:06:42,300
+I've decided you're right.
+
+159
+00:06:42,310 --> 00:06:44,100
+My career is not over.
+
+160
+00:06:44,110 --> 00:06:44,980
+Great!
+
+161
+00:06:44,990 --> 00:06:46,530
+But since the arrival of dennis kim
+
+162
+00:06:46,540 --> 00:06:48,160
+Has rendered my research pointless,
+
+163
+00:06:48,170 --> 00:06:50,740
+I just have to find something else to focus on.
+
+164
+00:06:50,750 --> 00:06:51,690
+Great!
+
+165
+00:06:51,700 --> 00:06:55,140
+So I've decided I'm going to collaborate with you.
+
+166
+00:06:57,840 --> 00:06:59,480
+Great.
+
+167
+00:06:59,490 --> 00:07:02,210
+So what exactly is it you do?
+
+168
+00:07:02,500 --> 00:07:04,370
+I know you chatter on about it all the time,
+
+169
+00:07:04,380 --> 00:07:06,600
+But I've never really paid attention.
+
+170
+00:07:07,220 --> 00:07:09,400
+Okay, well, right now I'm designing an experiment
+
+171
+00:07:09,410 --> 00:07:11,410
+To study the soft component of cosmic radiation
+
+172
+00:07:11,420 --> 00:07:13,360
+At sea level, but I really don't need any help.
+
+173
+00:07:13,370 --> 00:07:15,230
+Oh, sure you do.
+
+174
+00:07:15,950 --> 00:07:17,610
+Now, see, what's this here in the schematic?
+
+175
+00:07:17,620 --> 00:07:18,890
+Is that a laser array?
+
+176
+00:07:18,900 --> 00:07:21,120
+Yes. now, hm...
+
+177
+00:07:23,770 --> 00:07:25,640
+What happens if you use argon lasers
+
+178
+00:07:25,650 --> 00:07:27,320
+Instead of helium-neon?
+
+179
+00:07:27,330 --> 00:07:28,800
+It would blow up.
+
+180
+00:07:28,810 --> 00:07:31,070
+Are you sure? pretty sure.
+
+181
+00:07:31,080 --> 00:07:32,730
+"pretty sure" is not very scientific.
+
+182
+00:07:32,740 --> 00:07:34,180
+Is this how you normally work?
+
+183
+00:07:34,190 --> 00:07:36,880
+Just hunches and guesses and stuff?
+
+184
+00:07:37,320 --> 00:07:40,250
+Okay, sheldon, I understand that you're
+
+185
+00:07:40,260 --> 00:07:41,920
+Going through a bit of a career crisis,
+
+186
+00:07:41,930 --> 00:07:43,630
+You're searching for some other area
+
+187
+00:07:43,640 --> 00:07:45,860
+Where you can feel valuable and productive,
+
+188
+00:07:45,870 --> 00:07:47,060
+But I need to tell you something,
+
+189
+00:07:47,070 --> 00:07:48,520
+And I want you to listen carefully.
+
+190
+00:07:48,530 --> 00:07:49,420
+All right.
+
+191
+00:07:49,430 --> 00:07:51,570
+Go away.
+
+192
+00:07:54,140 --> 00:07:55,770
+If you're concerned about sharing credit with me,
+
+193
+00:07:55,780 --> 00:07:58,140
+Your name can go first-- I'm going.
+
+194
+00:08:02,770 --> 00:08:05,440
+It's a small, brown paper bag, ma!
+
+195
+00:08:05,450 --> 00:08:07,530
+I'm looking in it right now.
+
+196
+00:08:08,510 --> 00:08:09,820
+Why would I make that up?
+
+197
+00:08:09,830 --> 00:08:12,670
+There's no ding dong in it.
+
+198
+00:08:15,020 --> 00:08:18,990
+How are two ding dongs tomorrow gonna help me today?
+
+199
+00:08:20,570 --> 00:08:21,990
+So...
+
+200
+00:08:22,000 --> 00:08:23,960
+This is engineering, huh?
+
+201
+00:08:23,970 --> 00:08:25,770
+I'll talk to you later.
+
+202
+00:08:25,780 --> 00:08:27,270
+Engineering.
+
+203
+00:08:27,280 --> 00:08:29,340
+Where the noble semiskilled laborers
+
+204
+00:08:29,350 --> 00:08:32,250
+Execute the vision of those who think and dream.
+
+205
+00:08:33,120 --> 00:08:35,570
+Hello, oompah loompahs of science.
+
+206
+00:08:37,660 --> 00:08:40,070
+Sheldon, what are you doing here?
+
+207
+00:08:40,080 --> 00:08:41,880
+I just came by to say hello.
+
+208
+00:08:41,890 --> 00:08:43,510
+I've been in this lab for three years.
+
+209
+00:08:43,520 --> 00:08:44,970
+You've never come by to say hello.
+
+210
+00:08:44,980 --> 00:08:48,050
+Well, up until now, I've had better things to do.
+
+211
+00:08:48,610 --> 00:08:50,760
+So, what are we making today?
+
+212
+00:08:50,770 --> 00:08:53,110
+A small payload support structure
+
+213
+00:08:53,120 --> 00:08:55,130
+For a european science experimental package
+
+214
+00:08:55,140 --> 00:08:56,800
+That's going up on the next space shuttle.
+
+215
+00:08:56,810 --> 00:08:58,800
+Really? how does it work?
+
+216
+00:08:58,810 --> 00:09:00,370
+When this is done, it will be attached
+
+217
+00:09:00,380 --> 00:09:02,470
+To the payload bay, and the sensor apparatus
+
+218
+00:09:02,480 --> 00:09:04,380
+Will rest on it.
+
+219
+00:09:06,800 --> 00:09:08,880
+So it's a shelf.
+
+220
+00:09:12,320 --> 00:09:14,730
+No, you don't understand-- during acceleration,
+
+221
+00:09:14,740 --> 00:09:17,050
+It needs to stay perfectly level and provide...
+
+222
+00:09:17,060 --> 00:09:19,270
+Yeah, okay, it's a shelf.
+
+223
+00:09:19,330 --> 00:09:20,990
+Now, I notice you're using titanium.
+
+224
+00:09:21,000 --> 00:09:23,770
+Did you give any consideration to carbon nanotubes?
+
+225
+00:09:23,780 --> 00:09:26,530
+They're lighter, cheaper, and have twice the tensile strength.
+
+226
+00:09:26,540 --> 00:09:27,750
+Sheldon,
+
+227
+00:09:27,760 --> 00:09:29,470
+There's a diploma in my office
+
+228
+00:09:29,480 --> 00:09:32,340
+That says I have a master's in engineering.
+
+229
+00:09:32,350 --> 00:09:33,620
+And you also have a note from your mother
+
+230
+00:09:33,630 --> 00:09:35,970
+That says, "i love you, bubula."
+
+231
+00:09:38,130 --> 00:09:39,810
+But neither of those is a cogent argument
+
+232
+00:09:39,820 --> 00:09:42,060
+For titanium over nanotubes.
+
+233
+00:09:42,960 --> 00:09:43,850
+Sheldon? yes?
+
+234
+00:09:43,860 --> 00:09:46,140
+Go away!
+
+235
+00:09:46,840 --> 00:09:48,950
+Did leonard tell you to say that?
+
+236
+00:09:48,960 --> 00:09:51,410
+No, I thought of it all by myself.
+
+237
+00:09:52,320 --> 00:09:55,970
+That can't be a coincidence.
+
+238
+00:09:55,980 --> 00:09:59,130
+There must be some causal link I'm missing.
+
+239
+00:10:01,670 --> 00:10:04,290
+Go away!
+
+240
+00:10:12,060 --> 00:10:14,740
+Curiouser and curiouser.
+
+241
+00:10:18,950 --> 00:10:19,940
+Is he here?
+
+242
+00:10:19,950 --> 00:10:22,080
+If he were, I wouldn't be.
+
+243
+00:10:22,870 --> 00:10:24,010
+Do you know what he did?
+
+244
+00:10:24,020 --> 00:10:25,380
+He watched me work for ten minutes,
+
+245
+00:10:25,390 --> 00:10:26,860
+And then started to design a simple piece
+
+246
+00:10:26,870 --> 00:10:29,200
+Of software that could replace me.
+
+247
+00:10:30,720 --> 00:10:32,300
+Is that even possible?
+
+248
+00:10:32,310 --> 00:10:34,350
+As it turns out, yes.
+
+249
+00:10:35,960 --> 00:10:37,870
+Something's got to be done about him, leonard.
+
+250
+00:10:37,880 --> 00:10:38,890
+Like what?
+
+251
+00:10:38,900 --> 00:10:40,380
+He'll never be able to cope with the fact
+
+252
+00:10:40,390 --> 00:10:42,120
+That some 15-year-old kid is smarter
+
+253
+00:10:42,130 --> 00:10:44,580
+And more accomplished than he is.
+
+254
+00:10:44,590 --> 00:10:46,220
+Well, what if something were to happen to this boy
+
+255
+00:10:46,230 --> 00:10:48,750
+So he was no longer a threat to sheldon?
+
+256
+00:10:50,150 --> 00:10:52,470
+Then our problem would be solved.
+
+257
+00:10:52,970 --> 00:10:56,810
+Hang on, are we talking about murdering dennis kim?
+
+258
+00:10:57,310 --> 00:10:59,340
+I'm not saying no.
+
+259
+00:11:00,080 --> 00:11:01,440
+We don't have to go that far.
+
+260
+00:11:01,450 --> 00:11:03,030
+There are other means available.
+
+261
+00:11:03,040 --> 00:11:05,510
+We can't send him back to north korea.
+
+262
+00:11:05,720 --> 00:11:07,630
+He knows how to get out.
+
+263
+00:11:09,570 --> 00:11:10,620
+The only thing we need to do
+
+264
+00:11:10,630 --> 00:11:12,570
+Is make this kim kid lose his focus.
+
+265
+00:11:12,580 --> 00:11:13,600
+Won't happen.
+
+266
+00:11:13,610 --> 00:11:15,860
+He is not interested in anything but physics.
+
+267
+00:11:15,870 --> 00:11:17,120
+What about biology?
+
+268
+00:11:17,130 --> 00:11:20,580
+What? you know, biology.
+
+269
+00:11:20,910 --> 00:11:22,960
+The one thing that can completely derail
+
+270
+00:11:22,970 --> 00:11:24,170
+A world-class mind.
+
+271
+00:11:24,180 --> 00:11:25,610
+Howard, he's 15.
+
+272
+00:11:25,620 --> 00:11:26,420
+Yeah, so?
+
+273
+00:11:26,430 --> 00:11:28,140
+When I was 15, I met denise palmeri
+
+274
+00:11:28,150 --> 00:11:31,690
+And my grade point average fell from a 5.0 to a 1.8.
+
+275
+00:11:32,710 --> 00:11:34,240
+She was sleeping with you?
+
+276
+00:11:34,250 --> 00:11:36,920
+No, I just wasted a lot of time
+
+277
+00:11:36,930 --> 00:11:39,450
+Thinking about what it would be like if she did.
+
+278
+00:11:40,340 --> 00:11:41,860
+Oh, good, you're all here.
+
+279
+00:11:41,870 --> 00:11:44,160
+Look, I've decided that if the three of you
+
+280
+00:11:44,170 --> 00:11:46,220
+Drop whatever it is you're working on and join me,
+
+281
+00:11:46,230 --> 00:11:48,380
+We could lick cold fusion in less than a decade.
+
+282
+00:11:48,390 --> 00:11:50,400
+12 years, tops.
+
+283
+00:11:53,170 --> 00:11:55,020
+Go away?
+
+284
+00:11:58,460 --> 00:12:00,210
+Could it be me?
+
+285
+00:12:03,780 --> 00:12:04,720
+Oh, hey guys, what's up?
+
+286
+00:12:04,730 --> 00:12:06,420
+We need a hot 15-year-old asian girl
+
+287
+00:12:06,430 --> 00:12:08,490
+With a thing for smart guys.
+
+288
+00:12:09,290 --> 00:12:10,090
+What?
+
+289
+00:12:10,100 --> 00:12:11,140
+Howard, that's racist.
+
+290
+00:12:11,150 --> 00:12:14,230
+Any 15-year-old girl will do the trick.
+
+291
+00:12:20,120 --> 00:12:22,670
+It's possible she may have misunderstood us.
+
+292
+00:12:29,130 --> 00:12:30,030
+Dr. cooper.
+
+293
+00:12:30,040 --> 00:12:31,120
+Oh, are we interrupting?
+
+294
+00:12:31,130 --> 00:12:32,340
+No, no. please come in.
+
+295
+00:12:32,350 --> 00:12:34,070
+Yeah, I think you'll appreciate this.
+
+296
+00:12:34,080 --> 00:12:35,040
+This is very exciting.
+
+297
+00:12:35,050 --> 00:12:35,940
+Oh, what are you working on?
+
+298
+00:12:35,950 --> 00:12:37,130
+Something remarkable.
+
+299
+00:12:37,140 --> 00:12:39,650
+Since my prospects for the nobel prize in physics
+
+300
+00:12:39,660 --> 00:12:40,430
+Have disappeared--
+
+301
+00:12:40,440 --> 00:12:42,760
+Thank you very much-- I've decided
+
+302
+00:12:42,770 --> 00:12:45,590
+To refocus my efforts and use my people skills
+
+303
+00:12:45,600 --> 00:12:46,970
+To win the nobel peace prize.
+
+304
+00:12:46,980 --> 00:12:47,840
+Look.
+
+305
+00:12:47,850 --> 00:12:49,730
+I'm going to solve the middle east crisis
+
+306
+00:12:49,740 --> 00:12:51,990
+By building an exact replica of jerusalem
+
+307
+00:12:52,000 --> 00:12:54,310
+In the middle of the mexican desert.
+
+308
+00:12:55,430 --> 00:12:56,590
+To what end?
+
+309
+00:12:56,600 --> 00:12:58,250
+You know, it's like the baseball movie.
+
+310
+00:12:58,260 --> 00:13:00,430
+"build it and they will come."
+
+311
+00:13:01,750 --> 00:13:03,010
+Who will come?
+
+312
+00:13:03,020 --> 00:13:04,960
+The jewish people.
+
+313
+00:13:05,080 --> 00:13:06,410
+What if they don't come?
+
+314
+00:13:06,420 --> 00:13:08,740
+We'll make it nice, put out a spread.
+
+315
+00:13:09,760 --> 00:13:10,980
+Okay, well, um...
+
+316
+00:13:10,990 --> 00:13:12,110
+Speaking of spreads,
+
+317
+00:13:12,120 --> 00:13:13,610
+We're having a small welcoming party
+
+318
+00:13:13,620 --> 00:13:15,550
+This afternoon for mr. kim who's agreed
+
+319
+00:13:15,560 --> 00:13:17,090
+To join us here at the university.
+
+320
+00:13:17,100 --> 00:13:18,950
+Of course he has.
+
+321
+00:13:18,960 --> 00:13:20,070
+The oracle told us
+
+322
+00:13:20,080 --> 00:13:22,320
+Little neo was the one.
+
+323
+00:13:24,200 --> 00:13:26,070
+You can see the matrix, can't you?
+
+324
+00:13:26,080 --> 00:13:29,270
+Okay, well, obviously you're very busy
+
+325
+00:13:29,280 --> 00:13:31,120
+With your, uh, um...
+
+326
+00:13:31,130 --> 00:13:32,910
+Come, dennis.
+
+327
+00:13:33,870 --> 00:13:35,450
+You'll have to excuse dr. cooper.
+
+328
+00:13:35,460 --> 00:13:37,800
+He's been under a lot of, um...
+
+329
+00:13:37,810 --> 00:13:39,650
+He's nuts.
+
+330
+00:13:51,590 --> 00:13:52,320
+I really don't understand
+
+331
+00:13:52,330 --> 00:13:53,950
+Your objections, professor goldfarb.
+
+332
+00:13:53,960 --> 00:13:55,510
+Why wouldn't the sonora desert
+
+333
+00:13:55,520 --> 00:13:57,890
+Make a perfectly good promised land?
+
+334
+00:13:58,700 --> 00:14:00,890
+Go away.
+
+335
+00:14:01,520 --> 00:14:04,440
+We could call it nuevo jerusalem.
+
+336
+00:14:05,050 --> 00:14:06,910
+Please go away.
+
+337
+00:14:07,620 --> 00:14:10,020
+Said pharaoh to moses.
+
+338
+00:14:11,010 --> 00:14:13,030
+Why are all these young women here?
+
+339
+00:14:13,040 --> 00:14:15,210
+It's take your daughter to work day.
+
+340
+00:14:15,220 --> 00:14:16,140
+Really?
+
+341
+00:14:16,150 --> 00:14:17,340
+I was not aware of that.
+
+342
+00:14:17,350 --> 00:14:19,820
+Oh, yes. there was a very official e-mail
+
+343
+00:14:19,830 --> 00:14:21,030
+That was sent to everyone
+
+344
+00:14:21,040 --> 00:14:22,610
+Whose insurance files indicated
+
+345
+00:14:22,620 --> 00:14:25,970
+They had daughters between the ages of 14 and 16.
+
+346
+00:14:26,690 --> 00:14:28,750
+Smooth. thank you.
+
+347
+00:14:30,340 --> 00:14:32,790
+There's the man of the hour.
+
+348
+00:14:33,850 --> 00:14:36,380
+Okay, so we now have a socially-awkward genius
+
+349
+00:14:36,390 --> 00:14:38,820
+In a room full of attractive, age-appropriate women.
+
+350
+00:14:38,830 --> 00:14:41,370
+All he has to do now is hook up with one of them.
+
+351
+00:14:49,300 --> 00:14:51,790
+Anyone else see the flaw in this plan?
+
+352
+00:14:53,200 --> 00:14:54,600
+We need a social catalyst.
+
+353
+00:14:54,610 --> 00:14:55,630
+Like what?
+
+354
+00:14:55,640 --> 00:14:58,400
+We can't get 15-year-old girls drunk.
+
+355
+00:14:58,570 --> 00:14:59,150
+Or can we?
+
+356
+00:14:59,160 --> 00:15:01,130
+No, we can't.
+
+357
+00:15:01,640 --> 00:15:02,870
+I don't think you mean "we can't."
+
+358
+00:15:02,880 --> 00:15:04,760
+I think you mean "we shouldn't."
+
+359
+00:15:04,770 --> 00:15:07,600
+Hey, howard, you're a jew.
+
+360
+00:15:07,710 --> 00:15:09,310
+If there was another wailing wall
+
+361
+00:15:09,320 --> 00:15:10,900
+Exactly like the one in jerusalem
+
+362
+00:15:10,910 --> 00:15:13,650
+But close to taco stands and cheap prescription drugs,
+
+363
+00:15:13,660 --> 00:15:16,090
+Would you still be able to wail at it?
+
+364
+00:15:17,690 --> 00:15:20,470
+Okay, it's definitely me.
+
+365
+00:15:22,160 --> 00:15:23,860
+Okay, we cannot leave this to chance.
+
+366
+00:15:23,870 --> 00:15:25,330
+Let's pick a girl and figure out
+
+367
+00:15:25,340 --> 00:15:26,840
+How to get her together with dennis.
+
+368
+00:15:26,850 --> 00:15:30,090
+Okay, how about that one?
+
+369
+00:15:30,280 --> 00:15:31,680
+Uh-uh. I know the type.
+
+370
+00:15:31,690 --> 00:15:34,100
+Cheerleader, student council, goes out with the jocks,
+
+371
+00:15:34,110 --> 00:15:36,180
+Won't even look at anybody in the gifted program.
+
+372
+00:15:36,190 --> 00:15:37,610
+And if, after two years of begging,
+
+373
+00:15:37,620 --> 00:15:38,740
+She does agree to go out with you,
+
+374
+00:15:38,750 --> 00:15:39,640
+It turns out to be a setup and you're in the backseat
+
+375
+00:15:39,650 --> 00:15:41,200
+Of your mom's car with your pants off
+
+376
+00:15:41,210 --> 00:15:44,030
+While the whole football team laughs at y...
+
+377
+00:15:46,720 --> 00:15:47,810
+Are you crying?
+
+378
+00:15:47,820 --> 00:15:50,360
+No, I have allergies.
+
+379
+00:15:51,270 --> 00:15:54,520
+Okay, um, oh, hey, how about her?
+
+380
+00:15:55,460 --> 00:15:57,530
+Sure, if he wants to spend a couple years
+
+381
+00:15:57,540 --> 00:15:59,310
+Doing her homework while she drinks herself
+
+382
+00:15:59,320 --> 00:16:01,770
+Into a stupor with nonfat white russians.
+
+383
+00:16:01,780 --> 00:16:02,870
+And you're the one holding her head
+
+384
+00:16:02,880 --> 00:16:04,330
+Out of the toilet while she's puking
+
+385
+00:16:04,340 --> 00:16:06,660
+And telling you she wishes "more guys were like you."
+
+386
+00:16:06,670 --> 00:16:08,740
+And then she gets into cornell because you wrote her essay
+
+387
+00:16:08,750 --> 00:16:10,570
+For her and you drive up to visit her one weekend
+
+388
+00:16:10,580 --> 00:16:13,050
+And she acts like she doesn't even know you.
+
+389
+00:16:16,120 --> 00:16:18,110
+Okay, so not her, either.
+
+390
+00:16:19,360 --> 00:16:21,020
+Oh, hey, how about her?
+
+391
+00:16:21,030 --> 00:16:22,560
+Oh, interesting, kind of pretty,
+
+392
+00:16:22,570 --> 00:16:25,090
+A little chubby, so probably low self-esteem.
+
+393
+00:16:25,100 --> 00:16:26,280
+I think that's our girl.
+
+394
+00:16:26,290 --> 00:16:28,080
+One of us should go talk to her.
+
+395
+00:16:28,090 --> 00:16:29,830
+I can't talk to her-- you do it.
+
+396
+00:16:29,840 --> 00:16:32,120
+I can't just go up and talk to her.
+
+397
+00:16:32,130 --> 00:16:33,950
+Howard, you talk to her.
+
+398
+00:16:34,180 --> 00:16:35,730
+I don't know, she'll never go for the kid
+
+399
+00:16:35,740 --> 00:16:37,850
+Once she gets a peek at this.
+
+400
+00:16:40,040 --> 00:16:41,630
+You know, if we were in india, this would be simpler.
+
+401
+00:16:41,640 --> 00:16:43,850
+Five minutes with her dad, 20 goats and a laptop,
+
+402
+00:16:43,860 --> 00:16:45,700
+And we'd be done.
+
+403
+00:16:45,710 --> 00:16:47,110
+Well, we're not in india.
+
+404
+00:16:47,120 --> 00:16:48,970
+All right, why don't we do it your way then?
+
+405
+00:16:48,980 --> 00:16:49,780
+We'll arrange for this girl
+
+406
+00:16:49,790 --> 00:16:51,370
+To move in across the hall from dennis
+
+407
+00:16:51,380 --> 00:16:54,640
+So he can pathetically moon over her for months on end.
+
+408
+00:16:56,310 --> 00:16:57,310
+Okay, that was uncalled for.
+
+409
+00:16:57,320 --> 00:16:59,170
+You started it, dude.
+
+410
+00:17:00,230 --> 00:17:03,070
+Could I have everyone's attention, please?
+
+411
+00:17:03,080 --> 00:17:06,490
+What a wonderful occasion this is,
+
+412
+00:17:06,500 --> 00:17:08,280
+And how fortunate that it should happen to fall
+
+413
+00:17:08,290 --> 00:17:10,580
+On take your daughter to work day.
+
+414
+00:17:11,470 --> 00:17:12,550
+We're here to welcome
+
+415
+00:17:12,560 --> 00:17:15,770
+Mr. dennis kim to our little family.
+
+416
+00:17:15,780 --> 00:17:17,780
+Welcome, dennis kim.
+
+417
+00:17:18,740 --> 00:17:19,740
+Mr. kim
+
+418
+00:17:19,750 --> 00:17:23,210
+Was not only the valedictorian at stanford university,
+
+419
+00:17:23,220 --> 00:17:25,720
+He is also the youngest recipient
+
+420
+00:17:25,730 --> 00:17:28,170
+Of the prestigious stevenson award.
+
+421
+00:17:28,180 --> 00:17:30,750
+Youngest till the cyborgs rise up!
+
+422
+00:17:31,650 --> 00:17:33,610
+And now, without any further ado,
+
+423
+00:17:33,620 --> 00:17:35,870
+Let me introduce the man of the hour,
+
+424
+00:17:35,880 --> 00:17:38,760
+Mr. dennis kim.
+
+425
+00:17:40,430 --> 00:17:42,250
+Dennis?
+
+426
+00:17:42,380 --> 00:17:43,740
+Dennis!
+
+427
+00:17:43,750 --> 00:17:45,500
+What?!
+
+428
+00:17:46,340 --> 00:17:47,410
+Would you like to tell us
+
+429
+00:17:47,420 --> 00:17:49,250
+A little bit about your upcoming research?
+
+430
+00:17:49,260 --> 00:17:50,230
+No, thanks.
+
+431
+00:17:50,240 --> 00:17:52,100
+I'm going to the mall with emma.
+
+432
+00:17:57,700 --> 00:17:59,440
+The kid got a girl.
+
+433
+00:18:00,480 --> 00:18:02,250
+Unbelievable.
+
+434
+00:18:02,370 --> 00:18:05,500
+Did anyone see how he did it?
+
+435
+00:18:06,510 --> 00:18:08,490
+Don't worry, I've got this.
+
+436
+00:18:08,500 --> 00:18:10,480
+Ladies and gentlemen,
+
+437
+00:18:10,490 --> 00:18:13,770
+Honored daughters, while mr. kim,
+
+438
+00:18:13,780 --> 00:18:15,810
+By virtue of his youth and naivete,
+
+439
+00:18:15,820 --> 00:18:17,960
+Has fallen prey to the inexplicable need
+
+440
+00:18:17,970 --> 00:18:20,100
+For human contact, let me step in
+
+441
+00:18:20,110 --> 00:18:23,190
+And assure you that my research will go on uninterrupted,
+
+442
+00:18:23,200 --> 00:18:26,030
+And that social relationships will continue to baffle
+
+443
+00:18:26,040 --> 00:18:28,150
+And repulse me.
+
+444
+00:18:28,870 --> 00:18:30,880
+Thank you.
+
+445
+00:18:33,000 --> 00:18:33,810
+He's back.
+
+446
+00:18:33,820 --> 00:18:35,250
+Yeah, mission accomplished.
+
+447
+00:18:35,260 --> 00:18:36,060
+Forget the mission.
+
+448
+00:18:36,070 --> 00:18:39,210
+How did that little yutz get a girl on his own?
+
+449
+00:18:39,290 --> 00:18:41,650
+I guess times have changed since we were young.
+
+450
+00:18:41,660 --> 00:18:44,250
+Smart is the new sexy.
+
+451
+00:18:44,500 --> 00:18:46,240
+Then why do we go home alone every night?
+
+452
+00:18:46,250 --> 00:18:47,910
+We're still smart.
+
+453
+00:18:47,920 --> 00:18:49,690
+Maybe we're too smart.
+
+454
+00:18:49,700 --> 00:18:51,940
+So smart it's off-putting.
+
+455
+00:18:52,790 --> 00:18:54,930
+Yeah, let's go with that.
+
+456
+00:18:59,250 --> 00:19:00,660
+Unbelievable.
+
+457
+00:19:00,670 --> 00:19:01,830
+Components I built
+
+458
+00:19:01,840 --> 00:19:04,100
+Are on the international space station and I get a ticket
+
+459
+00:19:04,110 --> 00:19:06,330
+For launching a model rocket in the park.
+
+460
+00:19:06,340 --> 00:19:07,330
+I don't know if the ticket was
+
+461
+00:19:07,340 --> 00:19:08,700
+So much for the launch as it was
+
+462
+00:19:08,710 --> 00:19:10,260
+For you telling the policewoman,
+
+463
+00:19:10,270 --> 00:19:11,370
+"you have to frisk me.
+
+464
+00:19:11,380 --> 00:19:14,230
+I have another rocket in my pants."
+
+465
+00:19:14,230 --> 00:19:15,950
+Hey, look at that.
+
+466
+00:19:17,480 --> 00:19:19,190
+It's dennis kim.
+
+467
+00:19:19,820 --> 00:19:22,290
+Wow, I almost didn't recognize him.
+
+468
+00:19:22,420 --> 00:19:25,270
+You know, I kind of feel bad about what we did to him.
+
+469
+00:19:28,810 --> 00:19:31,330
+Yeah, we really ruined his life.
+
+470
+00:19:32,330 --> 00:19:35,330
+Screw him-- he was weak.
+

@@ -1,0 +1,1924 @@
+1
+00:00:04,430 --> 00:00:06,060
+Ma, Ma, calm down.
+
+2
+00:00:06,060 --> 00:00:07,010
+Listen to me.
+
+3
+00:00:07,010 --> 00:00:08,210
+I know it says click with the mouse,
+
+4
+00:00:08,210 --> 00:00:11,160
+but on a laptop, the trackpad is the mouse.
+
+5
+00:00:11,750 --> 00:00:13,660
+Now, put your finger on it.
+
+6
+00:00:14,310 --> 00:00:16,640
+Doesn't matter which finger.
+
+7
+00:00:17,940 --> 00:00:19,510
+Good choice.
+
+8
+00:00:20,140 --> 00:00:22,680
+Now move it down to your e-mail icon.
+
+9
+00:00:22,680 --> 00:00:25,040
+Yeah, the little envelope.
+
+10
+00:00:25,680 --> 00:00:27,090
+What do you mean, "What does it look like?"
+
+11
+00:00:27,090 --> 00:00:29,120
+It looks like an envelope!
+
+12
+00:00:29,390 --> 00:00:30,600
+Fine, you don't like the computer,
+
+13
+00:00:30,600 --> 00:00:31,870
+don't use it!
+
+14
+00:00:32,500 --> 00:00:36,190
+Sure, we can exchange it for a salad spinner. Good-bye!
+
+15
+00:00:38,950 --> 00:00:41,690
+That's a Hanukkah present you're regretting, huh?
+
+16
+00:00:42,510 --> 00:00:45,290
+I won't say that all senior citizens
+
+17
+00:00:45,290 --> 00:00:48,740
+who can't master technology should be publicly flogged,
+
+18
+00:00:48,740 --> 00:00:50,810
+but if we made an example of one or two,
+
+19
+00:00:50,810 --> 00:00:53,600
+it might give the others incentive to try harder.
+
+20
+00:00:55,190 --> 00:00:57,020
+I had a great idea.
+
+21
+00:00:57,020 --> 00:00:58,070
+You know how we're always having
+
+22
+00:00:58,070 --> 00:01:00,400
+to stop and solve differential equations,
+
+23
+00:01:00,400 --> 00:01:02,070
+like when you're doing Fourier analysis,
+
+24
+00:01:02,070 --> 00:01:04,050
+or using the Schr dinger equation?
+
+25
+00:01:04,050 --> 00:01:06,890
+Howard doesn't. He's only an engineer.
+
+26
+00:01:07,900 --> 00:01:10,930
+I was thinking, we could write a little app
+
+27
+00:01:10,930 --> 00:01:12,490
+that would use handwriting recognition,
+
+28
+00:01:12,490 --> 00:01:14,840
+and then run it through a symbolic evaluation engine.
+
+29
+00:01:14,840 --> 00:01:16,310
+You just use your smartphone,
+
+30
+00:01:16,310 --> 00:01:18,620
+take a picture of the equation and bam!
+
+31
+00:01:18,620 --> 00:01:22,780
+You know what's a great app? The one that makes fart noises.
+
+32
+00:01:27,620 --> 00:01:29,220
+You know, Leonard,
+
+33
+00:01:29,220 --> 00:01:31,200
+that's actually a valid idea.
+
+34
+00:01:31,200 --> 00:01:33,030
+Very good.
+
+35
+00:01:33,450 --> 00:01:35,990
+Can you say that and not make it sound like I'm a cat
+
+36
+00:01:35,990 --> 00:01:38,330
+who learned how to use the toilet?
+
+37
+00:01:39,200 --> 00:01:40,720
+No.
+
+38
+00:01:40,720 --> 00:01:42,600
+The two achievements are equally surprising
+
+39
+00:01:42,600 --> 00:01:43,950
+and equally admirable,
+
+40
+00:01:43,950 --> 00:01:44,970
+though if pressed,
+
+41
+00:01:44,970 --> 00:01:47,640
+I'd have to give a slight edge to the cat.
+
+42
+00:01:47,640 --> 00:01:49,670
+I'll save you the pain and nervousness
+
+43
+00:01:49,670 --> 00:01:51,400
+of waiting for the answer.
+
+44
+00:01:51,400 --> 00:01:54,860
+I agree to be part of your project. Congratulations.
+
+45
+00:01:55,390 --> 00:01:57,360
+Oh, yay for me.
+
+46
+00:01:58,590 --> 00:01:59,370
+What about you guys?
+
+47
+00:01:59,370 --> 00:02:00,450
+I can't promise anything,
+
+48
+00:02:00,450 --> 00:02:02,920
+but people do make money off stuff like this.
+
+49
+00:02:02,920 --> 00:02:04,830
+A few extra bucks would be nice.
+
+50
+00:02:04,830 --> 00:02:06,980
+I could finally move out of my mother's house.
+
+51
+00:02:06,980 --> 00:02:07,860
+Where would you go?
+
+52
+00:02:07,860 --> 00:02:08,760
+I always dreamed about
+
+53
+00:02:08,760 --> 00:02:11,970
+building a little place of my own over the garage
+
+54
+00:02:13,120 --> 00:02:15,400
+You know, if I made more money, I could take time off from work
+
+55
+00:02:15,400 --> 00:02:18,090
+and give pretty girls submarine rides.
+
+56
+00:02:18,090 --> 00:02:18,820
+What's that?
+
+57
+00:02:18,820 --> 00:02:20,950
+Some weird sex thing?
+
+58
+00:02:22,360 --> 00:02:23,130
+No.
+
+59
+00:02:23,130 --> 00:02:24,380
+You take pretty girls underwater
+
+60
+00:02:24,380 --> 00:02:27,150
+in your private submarine, and you show them fish.
+
+61
+00:02:27,740 --> 00:02:30,170
+Why does everything have to be dirty with you?
+
+62
+00:02:30,820 --> 00:02:33,160
+I was thinking we could work on this at night,
+
+63
+00:02:33,160 --> 00:02:34,660
+and then maybe in a couple of weeks,
+
+64
+00:02:34,660 --> 00:02:36,510
+we'll have ourselves an app to sell.
+
+65
+00:02:36,510 --> 00:02:38,020
+Sounds like we're in business.
+
+66
+00:02:38,020 --> 00:02:40,120
+I think we should take a picture to capture this moment.
+
+67
+00:02:40,120 --> 00:02:41,800
+- Yeah. - Oh!
+
+68
+00:02:47,240 --> 00:02:50,250
+Was that the best 99 cents I ever spent, or what?
+
+69
+00:03:16,000 --> 00:03:17,130
+I checked the App Store.
+
+70
+00:03:17,130 --> 00:03:18,050
+No one is doing
+
+71
+00:03:18,050 --> 00:03:20,640
+handwriting-recognition differential equation solving.
+
+72
+00:03:20,640 --> 00:03:22,980
+Oh, dear Lord, shush.
+
+73
+00:03:24,290 --> 00:03:25,010
+What?
+
+74
+00:03:25,010 --> 00:03:27,690
+You have so few good ideas, Leonard.
+
+75
+00:03:27,690 --> 00:03:28,980
+And you're just going to spill the beans
+
+76
+00:03:28,980 --> 00:03:31,350
+in front of an outsider?
+
+77
+00:03:38,060 --> 00:03:39,390
+Who, me?
+
+78
+00:03:39,690 --> 00:03:41,530
+Sheldon, I don't think Penny cares
+
+79
+00:03:41,530 --> 00:03:43,820
+about handwriting-recognition based differential...
+
+80
+00:03:43,820 --> 00:03:46,470
+*The stars at night are big and bright*
+
+81
+00:03:46,470 --> 00:03:48,920
+*Deep in the heart of Texas*
+
+82
+00:03:49,430 --> 00:03:51,540
+She's not going to steal our idea.
+
+83
+00:03:51,540 --> 00:03:53,110
+- What idea? - We're gonna write an application...
+
+84
+00:03:53,110 --> 00:03:55,810
+*The prairie sky is wide and high*
+
+85
+00:03:55,810 --> 00:03:56,850
+*Deep in the heart...*
+
+86
+00:03:56,850 --> 00:03:58,450
+Okay, stop, stop!
+
+87
+00:03:58,450 --> 00:03:59,970
+*Of Texas*
+
+88
+00:04:00,890 --> 00:04:01,900
+Whatever your secret is,
+
+89
+00:04:01,900 --> 00:04:04,110
+I'm sure it's boring, so I'm not interested.
+
+90
+00:04:04,110 --> 00:04:06,310
+It's not boring at all.
+
+91
+00:04:06,310 --> 00:04:07,620
+You see, in higher order mathematics,
+
+92
+00:04:07,620 --> 00:04:08,470
+there are certain sets
+
+93
+00:04:08,470 --> 00:04:10,450
+- of equations that... - Bored.
+
+94
+00:04:11,280 --> 00:04:12,240
+Satisfied?
+
+95
+00:04:12,240 --> 00:04:13,110
+Hardly.
+
+96
+00:04:13,110 --> 00:04:16,190
+Consider this unlikely but very plausible scenario.
+
+97
+00:04:16,190 --> 00:04:19,160
+A young woman alone in the big city.
+
+98
+00:04:19,160 --> 00:04:20,390
+Her ridiculous dream
+
+99
+00:04:20,390 --> 00:04:23,240
+of becoming an actress lies shattered about her.
+
+100
+00:04:23,670 --> 00:04:24,850
+Hey, wait a minute.
+
+101
+00:04:24,850 --> 00:04:26,560
+Well, hang on. Let's see where he's going.
+
+102
+00:04:27,160 --> 00:04:28,300
+Then it hits her.
+
+103
+00:04:28,300 --> 00:04:29,990
+How is she going to survive?
+
+104
+00:04:29,990 --> 00:04:33,390
+I mean, she has no prospects, no marketable skills.
+
+105
+00:04:33,390 --> 00:04:34,940
+And then one day,
+
+106
+00:04:34,940 --> 00:04:37,220
+she meets a group of geniuses
+
+107
+00:04:37,220 --> 00:04:39,320
+and their friend Howard.
+
+108
+00:04:42,270 --> 00:04:42,850
+Hey, I...
+
+109
+00:04:42,850 --> 00:04:44,790
+Hang on. Let's see where he's going.
+
+110
+00:04:46,240 --> 00:04:48,860
+She befriends them, and then lies in wait
+
+111
+00:04:48,860 --> 00:04:51,260
+until they reveal a marketable idea,
+
+112
+00:04:51,260 --> 00:04:54,510
+which she steals and sells to the highest bidder.
+
+113
+00:04:54,510 --> 00:04:56,650
+- That is ridiculous. - Oh, is it?
+
+114
+00:04:56,650 --> 00:04:58,260
+Let's see you come up with an explanation
+
+115
+00:04:58,260 --> 00:05:00,880
+as to why this woman hangs out with us all the time.
+
+116
+00:05:05,040 --> 00:05:05,840
+Oh, great. You know what?
+
+117
+00:05:05,840 --> 00:05:07,280
+I've already mooched dinner off you guys.
+
+118
+00:05:07,280 --> 00:05:08,920
+I don't need to listen to this.
+
+119
+00:05:09,400 --> 00:05:11,440
+There's your answer-- free food.
+
+120
+00:05:12,570 --> 00:05:14,420
+All right, I've taken the liberty
+
+121
+00:05:14,420 --> 00:05:16,050
+of drafting these workflow charts
+
+122
+00:05:16,050 --> 00:05:19,150
+which outline our various duties and the path we will follow
+
+123
+00:05:19,150 --> 00:05:21,560
+as we develop our ground-breaking new app.
+
+124
+00:05:23,030 --> 00:05:25,550
+Hey, why am I in charge of phone support?
+
+125
+00:05:28,120 --> 00:05:30,050
+Seems a bit racist.
+
+126
+00:05:30,050 --> 00:05:31,830
+A customer service representative
+
+127
+00:05:31,830 --> 00:05:34,190
+with an Indian accent will create the impression
+
+128
+00:05:34,190 --> 00:05:37,890
+we're a vast enterprise that uses overseas call centers.
+
+129
+00:05:37,890 --> 00:05:39,000
+Oh.
+
+130
+00:05:39,000 --> 00:05:40,040
+Very clever.
+
+131
+00:05:40,040 --> 00:05:41,840
+But still racist.
+
+132
+00:05:42,100 --> 00:05:45,220
+Duly noted, Steve from Wichita.
+
+133
+00:05:46,650 --> 00:05:49,540
+Why am I listed as your executive assistant?
+
+134
+00:05:49,540 --> 00:05:53,220
+Because the word "Secretary" has fallen into disrepute.
+
+135
+00:05:53,650 --> 00:05:55,870
+FYI, my mother's birthday is coming up.
+
+136
+00:05:55,870 --> 00:05:58,390
+I'm going to need you to pick up a present.
+
+137
+00:05:59,150 --> 00:06:01,140
+Okay, we need to stop for a minute.
+
+138
+00:06:01,140 --> 00:06:03,190
+Leonard, please, we can talk during our break.
+
+139
+00:06:03,190 --> 00:06:04,460
+We have one coming up at midnight.
+
+140
+00:06:04,460 --> 00:06:06,340
+We'll need snacks.
+
+141
+00:06:06,340 --> 00:06:08,230
+Sheldon, you're not in charge.
+
+142
+00:06:08,230 --> 00:06:09,740
+It's my idea. I'm in charge.
+
+143
+00:06:09,740 --> 00:06:10,880
+Oh, of course you are.
+
+144
+00:06:10,880 --> 00:06:12,250
+Look at the organizational chart.
+
+145
+00:06:12,250 --> 00:06:14,300
+You're clearly listed as founder.
+
+146
+00:06:14,300 --> 00:06:17,910
+Well, yes, and you're listed as Chief Executive Officer,
+
+147
+00:06:17,910 --> 00:06:21,450
+Chief Financial Officer and Chief Operating Officer.
+
+148
+00:06:21,450 --> 00:06:23,130
+You missed Chief Science Officer,
+
+149
+00:06:23,130 --> 00:06:25,540
+Chairman of the Board, and Head of the Secret Santa Committee.
+
+150
+00:06:25,540 --> 00:06:26,720
+Okay.
+
+151
+00:06:27,940 --> 00:06:29,830
+You need to get clear on this right now.
+
+152
+00:06:29,830 --> 00:06:32,700
+I am in charge of this project.
+
+153
+00:06:33,190 --> 00:06:36,860
+Ooh. Leonard's going all alpha nerd on Sheldon's ass...
+
+154
+00:06:37,940 --> 00:06:39,950
+All right. All right, I'm not going to argue with you.
+
+155
+00:06:39,950 --> 00:06:42,400
+Sheldon Cooper is nothing if not a team player.
+
+156
+00:06:42,400 --> 00:06:45,040
+Dr. Hofstadter, you have the conn.
+
+157
+00:06:47,150 --> 00:06:48,310
+Thank you.
+
+158
+00:06:49,410 --> 00:06:51,750
+I thought we might start by talking about the user interface.
+
+159
+00:06:51,750 --> 00:06:53,560
+Oh, dear Lord, we're doomed.
+
+160
+00:06:55,910 --> 00:06:57,760
+So this button here
+
+161
+00:06:57,760 --> 00:06:59,850
+will allow you to scan a new equation,
+
+162
+00:06:59,850 --> 00:07:01,530
+but over here, you can press this,
+
+163
+00:07:01,530 --> 00:07:04,320
+and just substitute new values for the coefficients.
+
+164
+00:07:04,320 --> 00:07:06,050
+Good one, boss.
+
+165
+00:07:10,120 --> 00:07:11,000
+What?
+
+166
+00:07:11,000 --> 00:07:12,370
+This diagram.
+
+167
+00:07:12,370 --> 00:07:14,920
+I assume you were opening with a joke.
+
+168
+00:07:15,220 --> 00:07:18,440
+It certainly buoyed up this employee's esprit de corps.
+
+169
+00:07:19,910 --> 00:07:22,170
+It's not a joke. It's the real design.
+
+170
+00:07:22,600 --> 00:07:25,140
+In that case, may I offer 27 little tweaks
+
+171
+00:07:25,140 --> 00:07:27,440
+to make it slightly less embarrassing?
+
+172
+00:07:28,140 --> 00:07:29,540
+Sheldon, I think this will work.
+
+173
+00:07:29,540 --> 00:07:31,200
+Let's just try it my way.
+
+174
+00:07:31,200 --> 00:07:32,530
+Oh, I'm-I'm sorry.
+
+175
+00:07:32,530 --> 00:07:33,520
+I assumed that you wanted
+
+176
+00:07:33,520 --> 00:07:35,550
+candid truth-telling from your employees,
+
+177
+00:07:35,550 --> 00:07:38,120
+but I realize now, you want the mindless nattering
+
+178
+00:07:38,120 --> 00:07:40,300
+of complacent yes-men.
+
+179
+00:07:41,470 --> 00:07:42,210
+Are you done?
+
+180
+00:07:42,210 --> 00:07:43,820
+If you say so, boss.
+
+181
+00:07:46,420 --> 00:07:48,020
+So right now, this button-press event
+
+182
+00:07:48,020 --> 00:07:49,980
+is just triggering a dummy procedure call...
+
+183
+00:07:49,980 --> 00:07:52,400
+How about this for the app name?
+
+184
+00:07:52,400 --> 00:07:55,000
+The Surprisingly Helpful Equation-Linked
+
+185
+00:07:55,000 --> 00:07:58,310
+Differential Optimized Numerator.
+
+186
+00:07:59,190 --> 00:08:01,930
+So it spells "Sheldon."
+
+187
+00:08:03,010 --> 00:08:04,090
+Does it?
+
+188
+00:08:04,090 --> 00:08:06,150
+A happy accident.
+
+189
+00:08:07,150 --> 00:08:10,070
+We're not doing names now. Howard?
+
+190
+00:08:10,070 --> 00:08:12,470
+Like I was saying, right now it's just a dummy procedure,
+
+191
+00:08:12,470 --> 00:08:13,920
+but eventually, it will drop us into...
+
+192
+00:08:13,920 --> 00:08:15,840
+All right, fine. If we're not going to give it a name,
+
+193
+00:08:15,840 --> 00:08:18,640
+can we at least give it a secret code designation?
+
+194
+00:08:19,020 --> 00:08:20,360
+- No. - Hear me out.
+
+195
+00:08:20,360 --> 00:08:22,630
+The atomic bomb was The Manhattan Project.
+
+196
+00:08:22,630 --> 00:08:25,280
+Windows 95 was originally Project Chicago.
+
+197
+00:08:25,280 --> 00:08:29,750
+For our app, I would humbly suggest Project Nodlehs.
+
+198
+00:08:30,860 --> 00:08:33,260
+That's just "Sheldon" Backwards.
+
+199
+00:08:33,760 --> 00:08:35,620
+Another happy accident.
+
+200
+00:08:36,200 --> 00:08:39,190
+We're not wasting time with names right now.
+
+201
+00:08:39,190 --> 00:08:40,540
+I see.
+
+202
+00:08:41,170 --> 00:08:43,120
+Is that decision open for discussion?
+
+203
+00:08:43,120 --> 00:08:44,460
+No.
+
+204
+00:08:44,460 --> 00:08:46,590
+Is the decision to not discuss it open for discussion?
+
+205
+00:08:46,590 --> 00:08:47,900
+No.
+
+206
+00:08:48,470 --> 00:08:49,420
+Again,
+
+207
+00:08:49,420 --> 00:08:51,760
+right now it's just a dummy procedure,
+
+208
+00:08:51,760 --> 00:08:53,260
+but eventually, it will drop us into...
+
+209
+00:08:53,260 --> 00:08:54,810
+I call for a vote of no confidence
+
+210
+00:08:54,810 --> 00:08:56,510
+and an immediate change in leadership.
+
+211
+00:08:56,510 --> 00:08:57,620
+Sheldon, stop it.
+
+212
+00:08:57,620 --> 00:09:00,250
+When in the course of human events, it becomes necessary
+
+213
+00:09:00,250 --> 00:09:03,080
+to dissolve the bonds that tie three competent scientists together...
+
+214
+00:09:03,080 --> 00:09:05,070
+- That's enough, Sheldon. - All right, let's get right to the vote.
+
+215
+00:09:05,070 --> 00:09:06,710
+Show of hands-- all those opposed
+
+216
+00:09:06,710 --> 00:09:09,170
+to Leonard and his reign of tyranny.
+
+217
+00:09:11,000 --> 00:09:13,080
+Okay, that's it, you're fired.
+
+218
+00:09:13,590 --> 00:09:15,120
+Really?
+
+219
+00:09:15,640 --> 00:09:17,110
+Why?
+
+220
+00:09:18,220 --> 00:09:21,390
+Because you're impossible to work with.
+
+221
+00:09:21,390 --> 00:09:22,830
+I see.
+
+222
+00:09:26,550 --> 00:09:28,210
+And is that open for discussion?
+
+223
+00:09:34,340 --> 00:09:35,650
+What are you doing?
+
+224
+00:09:35,650 --> 00:09:38,720
+Oh. Good morning, shoemaker.
+
+225
+00:09:39,180 --> 00:09:40,200
+I think you'll be pleased
+
+226
+00:09:40,200 --> 00:09:42,900
+with what the elves were up to last night.
+
+227
+00:09:43,360 --> 00:09:44,500
+I fired you.
+
+228
+00:09:44,500 --> 00:09:47,490
+Oh, I know. I'm now an independent contractor.
+
+229
+00:09:48,260 --> 00:09:50,090
+No, you are now nothing.
+
+230
+00:09:50,090 --> 00:09:53,460
+You have no connection to this project whatsoever.
+
+231
+00:09:53,460 --> 00:09:55,450
+But I made it better.
+
+232
+00:09:55,450 --> 00:09:58,400
+I don't want it better. I want it my way.
+
+233
+00:09:58,400 --> 00:10:00,540
+Well, that speaks volumes, doesn't it?
+
+234
+00:10:01,380 --> 00:10:05,580
+All right, I suppose I'll go put on my bus pants.
+
+235
+00:10:05,580 --> 00:10:07,370
+What the hell are bus pants?
+
+236
+00:10:07,370 --> 00:10:09,880
+They are pants one wears over one's regular pants
+
+237
+00:10:09,880 --> 00:10:11,290
+when one sits on bus seats
+
+238
+00:10:11,290 --> 00:10:13,570
+that other people have previously sat on.
+
+239
+00:10:14,710 --> 00:10:16,930
+But perhaps from your lofty heights
+
+240
+00:10:16,930 --> 00:10:19,060
+atop the corporate ladder, you've lost touch
+
+241
+00:10:19,060 --> 00:10:21,760
+with the struggles of the common man.
+
+242
+00:10:22,670 --> 00:10:25,290
+Look, I'm still happy to drive you to work.
+
+243
+00:10:25,290 --> 00:10:26,750
+Nothing's changed in that regard.
+
+244
+00:10:26,750 --> 00:10:29,310
+We're still roommates, we're still friends.
+
+245
+00:10:29,310 --> 00:10:32,210
+Except you identified me, your best friend,
+
+246
+00:10:32,210 --> 00:10:34,740
+as a gangrenous limb that needed to be severed
+
+247
+00:10:34,740 --> 00:10:37,140
+from the organism and tossed away.
+
+248
+00:10:37,140 --> 00:10:39,040
+The desperate act of a little man
+
+249
+00:10:39,040 --> 00:10:41,560
+with a big Napoleon complex.
+
+250
+00:10:43,790 --> 00:10:45,080
+You know what?
+
+251
+00:10:45,080 --> 00:10:47,100
+Go put on your bus pants.
+
+252
+00:10:52,990 --> 00:10:54,500
+Mm. Last night, I had a dream
+
+253
+00:10:54,500 --> 00:10:56,440
+we got so rich from the app,
+
+254
+00:10:56,440 --> 00:10:59,600
+you and I bought matching side-by-side mansions.
+
+255
+00:11:00,270 --> 00:11:00,950
+But...
+
+256
+00:11:00,950 --> 00:11:02,140
+there was a secret tunnel
+
+257
+00:11:02,140 --> 00:11:05,750
+connecting your front yard to my back yard.
+
+258
+00:11:10,340 --> 00:11:12,420
+What do you think that means?
+
+259
+00:11:13,210 --> 00:11:16,970
+It means after we play handball, I'm showering at home.
+
+260
+00:11:20,020 --> 00:11:22,110
+Good morning, Friend Howard.
+
+261
+00:11:22,110 --> 00:11:23,380
+Friend Raj.
+
+262
+00:11:23,380 --> 00:11:26,280
+I see you gentlemen are enjoying beverages.
+
+263
+00:11:26,280 --> 00:11:30,100
+Perhaps they would taste better out of these.
+
+264
+00:11:30,910 --> 00:11:32,540
+"World's Greatest Astrophysicist"?
+
+265
+00:11:32,540 --> 00:11:35,350
+Don't thank me. You earned it.
+
+266
+00:11:36,890 --> 00:11:39,260
+"Howard Wolowitz."
+
+267
+00:11:41,440 --> 00:11:43,910
+Why not "World's Greatest Engineer"?
+
+268
+00:11:43,910 --> 00:11:44,760
+I'm sorry.
+
+269
+00:11:44,760 --> 00:11:46,630
+I typed that into the label maker,
+
+270
+00:11:46,630 --> 00:11:48,880
+but I just couldn't press enter.
+
+271
+00:11:48,880 --> 00:11:50,280
+Now down to business.
+
+272
+00:11:50,280 --> 00:11:53,050
+What would it take for you to abandon Leonard
+
+273
+00:11:53,050 --> 00:11:55,110
+and join me in a rival company?
+
+274
+00:11:55,110 --> 00:11:57,180
+Unless, of course, the mugs are sufficient,
+
+275
+00:11:57,180 --> 00:11:59,530
+in which case, welcome aboard.
+
+276
+00:12:00,170 --> 00:12:01,720
+We're not quitting on Leonard.
+
+277
+00:12:01,720 --> 00:12:04,730
+I understand. Your loyalty is admirable.
+
+278
+00:12:04,730 --> 00:12:08,700
+But what if I were to up the ante?
+
+279
+00:12:09,190 --> 00:12:10,820
+What are you talking about?
+
+280
+00:12:10,820 --> 00:12:12,800
+Monogrammed key chains
+
+281
+00:12:12,800 --> 00:12:15,070
+with a built-in laser pointer.
+
+282
+00:12:19,160 --> 00:12:20,560
+No?
+
+283
+00:12:21,410 --> 00:12:23,150
+How about can cozies
+
+284
+00:12:23,150 --> 00:12:26,270
+emblazoned with our university mascot?
+
+285
+00:12:27,590 --> 00:12:29,330
+Go, Beavers.
+
+286
+00:12:31,950 --> 00:12:33,660
+I'll be back.
+
+287
+00:12:35,440 --> 00:12:37,610
+Okay, let's try this one.
+
+288
+00:12:40,110 --> 00:12:41,970
+"Spherical Hankel function."
+
+289
+00:12:41,970 --> 00:12:43,480
+Hold on.
+
+290
+00:12:43,760 --> 00:12:44,810
+That's it!
+
+291
+00:12:44,810 --> 00:12:45,870
+Eureka!
+
+292
+00:12:45,870 --> 00:12:47,440
+Hey, we agreed when it was "Eureka" Time,
+
+293
+00:12:47,440 --> 00:12:49,630
+we were all gonna say it together.
+
+294
+00:12:50,290 --> 00:12:51,780
+Fine. Let's say it together.
+
+295
+00:12:51,780 --> 00:12:53,850
+No. The moment has passed.
+
+296
+00:12:54,950 --> 00:12:56,960
+Greetings, gentlemen.
+
+297
+00:12:56,960 --> 00:12:58,740
+How goes your little project?
+
+298
+00:12:58,740 --> 00:13:01,380
+You mean, "Project Lenwoloppali"?
+
+299
+00:13:02,170 --> 00:13:05,120
+Ah, a combination of all your names.
+
+300
+00:13:05,120 --> 00:13:06,330
+Very clever.
+
+301
+00:13:06,330 --> 00:13:09,660
+I assume "Koothranardowitz" Was taken?
+
+302
+00:13:10,970 --> 00:13:13,420
+We're actually scanning equations and getting good results.
+
+303
+00:13:13,420 --> 00:13:15,920
+Oh, well then, by all means, carry on.
+
+304
+00:13:15,920 --> 00:13:17,930
+I wouldn't want to impede your progress.
+
+305
+00:13:17,930 --> 00:13:20,380
+Howard, did you solve the install time problem yet?
+
+306
+00:13:20,380 --> 00:13:22,010
+No. It's a little tricky.
+
+307
+00:13:22,010 --> 00:13:24,290
+I'm gonna try having it pick up the libraries dyn...
+
+308
+00:13:31,750 --> 00:13:33,420
+What are you doing?!
+
+309
+00:13:34,250 --> 00:13:36,040
+Playing the theremin.
+
+310
+00:13:38,270 --> 00:13:41,580
+No. I mean, what are you doing with a theremin?
+
+311
+00:13:42,380 --> 00:13:44,030
+Playing it.
+
+312
+00:13:45,180 --> 00:13:47,270
+I've loved the theremin from the first moment
+
+313
+00:13:47,270 --> 00:13:49,350
+I heard the original Star Trek theme.
+
+314
+00:13:49,350 --> 00:13:50,680
+And it's been killing me
+
+315
+00:13:50,680 --> 00:13:53,780
+that it just sits in my closet, gathering dust.
+
+316
+00:14:08,170 --> 00:14:10,600
+Sheldon! We're working here!
+
+317
+00:14:10,600 --> 00:14:11,620
+That's all right.
+
+318
+00:14:11,620 --> 00:14:13,770
+I can barely hear you over my theremin.
+
+319
+00:14:21,570 --> 00:14:23,660
+Well, that was a little uncalled for.
+
+320
+00:14:23,660 --> 00:14:27,000
+No, that was completely called for. We need quiet.
+
+321
+00:14:27,000 --> 00:14:29,140
+So, your project is more important than mine?
+
+322
+00:14:29,140 --> 00:14:33,300
+Well, seeing as your project is to sabotage my project, yes.
+
+323
+00:14:33,300 --> 00:14:34,960
+Don't beat around the bush, Leonard.
+
+324
+00:14:34,960 --> 00:14:35,880
+If you don't want me here,
+
+325
+00:14:35,880 --> 00:14:37,960
+just say the word, and I'll leave.
+
+326
+00:14:42,890 --> 00:14:45,190
+Could have beaten around the bush a little.
+
+327
+00:14:49,580 --> 00:14:53,210
+Nobody knows
+
+328
+00:14:53,210 --> 00:14:56,000
+The trouble I've seen
+
+329
+00:14:56,710 --> 00:15:02,100
+Nobody knows my sorrow ?
+
+330
+00:15:06,040 --> 00:15:07,100
+What you doing?
+
+331
+00:15:07,100 --> 00:15:09,370
+Trying to contact your home planet?
+
+332
+00:15:10,260 --> 00:15:12,240
+I'm practicing my theremin.
+
+333
+00:15:13,330 --> 00:15:16,250
+Nobody knows
+
+334
+00:15:16,250 --> 00:15:19,100
+The trouble I've seen
+
+335
+00:15:19,100 --> 00:15:23,430
+Glory, hallelujah.
+
+336
+00:15:24,850 --> 00:15:27,160
+Something got you down, there, Sheldon?
+
+337
+00:15:27,580 --> 00:15:29,920
+Leonard kicked me out of my own apartment.
+
+338
+00:15:29,920 --> 00:15:31,610
+And his app team.
+
+339
+00:15:31,610 --> 00:15:33,280
+Oh, honey, I'm sorry.
+
+340
+00:15:33,280 --> 00:15:34,910
+He wouldn't drive me to work today.
+
+341
+00:15:34,910 --> 00:15:36,810
+I had to wear my bus pants.
+
+342
+00:15:37,710 --> 00:15:39,230
+- Is that so? - Yes.
+
+343
+00:15:39,230 --> 00:15:40,510
+And they're still sticky.
+
+344
+00:15:41,810 --> 00:15:43,790
+Probably going to have to throw them away.
+
+345
+00:15:46,160 --> 00:15:48,420
+Hey, you don't need Leonard and his app.
+
+346
+00:15:48,420 --> 00:15:50,110
+You can make one with me.
+
+347
+00:15:50,110 --> 00:15:51,770
+With you?
+
+348
+00:15:53,440 --> 00:15:55,450
+Seriously, I have a great idea for one.
+
+349
+00:15:55,450 --> 00:15:57,850
+Is it better than your idea to move to Los Angeles
+
+350
+00:15:57,850 --> 00:15:59,730
+and become a famous actress?
+
+351
+00:16:01,880 --> 00:16:02,430
+Okay, look...
+
+352
+00:16:02,430 --> 00:16:04,110
+when you see someone wearing shoes you like,
+
+353
+00:16:04,110 --> 00:16:05,730
+you just snap a picture of them,
+
+354
+00:16:05,730 --> 00:16:07,130
+and the app goes on the Internet
+
+355
+00:16:07,130 --> 00:16:09,530
+to find out where you can buy them.
+
+356
+00:16:09,530 --> 00:16:11,040
+That's your app idea?
+
+357
+00:16:11,040 --> 00:16:11,940
+Well, you don't like it?
+
+358
+00:16:11,940 --> 00:16:14,800
+I didn't say that. But no, I don't.
+
+359
+00:16:15,670 --> 00:16:16,550
+Why not?
+
+360
+00:16:16,550 --> 00:16:18,290
+Oh, Penny, where do I begin?
+
+361
+00:16:18,290 --> 00:16:20,450
+The simple-mindedness of your idea
+
+362
+00:16:20,450 --> 00:16:24,100
+is exceeded only by its crass consumerism and banality.
+
+363
+00:16:24,720 --> 00:16:25,890
+And Leonard didn't want to work with you?
+
+364
+00:16:25,890 --> 00:16:27,580
+Imagine that.
+
+365
+00:16:27,580 --> 00:16:30,110
+I know, it's baffling.
+
+366
+00:16:31,080 --> 00:16:34,700
+Nobody knows
+
+367
+00:16:34,700 --> 00:16:37,490
+The trouble I've seen...
+
+368
+00:16:38,170 --> 00:16:39,550
+Sheldon, I'm gonna make some cocoa.
+
+369
+00:16:39,550 --> 00:16:40,850
+Do you want some?
+
+370
+00:16:41,490 --> 00:16:43,010
+Do you make it with milk or water?
+
+371
+00:16:43,010 --> 00:16:44,690
+- Milk. - Real cocoa?
+
+372
+00:16:44,690 --> 00:16:46,540
+That's what it says on the packet.
+
+373
+00:16:47,430 --> 00:16:48,830
+Do you have those little marshmallows?
+
+374
+00:16:48,830 --> 00:16:50,700
+No, sorry.
+
+375
+00:16:50,700 --> 00:16:52,660
+Well, I suppose it's appropriate.
+
+376
+00:16:52,660 --> 00:16:53,450
+What does that mean?
+
+377
+00:16:53,450 --> 00:16:56,630
+A disappointing drink for a disappointing day.
+
+378
+00:17:00,150 --> 00:17:01,140
+Hey, look at this.
+
+379
+00:17:01,140 --> 00:17:03,110
+20 people from the university have already signed up
+
+380
+00:17:03,110 --> 00:17:04,710
+for our private beta.
+
+381
+00:17:04,710 --> 00:17:05,990
+I'm telling you,
+
+382
+00:17:05,990 --> 00:17:08,100
+the Lenwoloppali Differential Equation Scanner
+
+383
+00:17:08,100 --> 00:17:10,800
+meets a real need. We've got a hit.
+
+384
+00:17:11,330 --> 00:17:12,700
+What do you think we should sell it for?
+
+385
+00:17:12,700 --> 00:17:14,890
+Well, based on the fact that our potential market
+
+386
+00:17:14,890 --> 00:17:16,890
+is about 70 or 80 guys,
+
+387
+00:17:16,890 --> 00:17:17,960
+and you want a submarine,
+
+388
+00:17:17,960 --> 00:17:20,210
+I'd say about a million dollars a pop.
+
+389
+00:17:21,150 --> 00:17:23,430
+Well, what if we put out a lite version for half a million?
+
+390
+00:17:23,430 --> 00:17:25,370
+You know, get the word of mouth going.
+
+391
+00:17:26,790 --> 00:17:28,180
+Hi. I'm sorry to bother you guys,
+
+392
+00:17:28,180 --> 00:17:30,760
+but you've got to come take your Sheldon back.
+
+393
+00:17:30,760 --> 00:17:32,010
+What's he doing in your apartment?
+
+394
+00:17:32,010 --> 00:17:34,550
+Well, he was moping down in the lobby, so I invited him over.
+
+395
+00:17:34,550 --> 00:17:35,730
+Now I regret it.
+
+396
+00:17:35,730 --> 00:17:38,460
+Why do you regret... Uh, never mind, stupid question.
+
+397
+00:17:38,460 --> 00:17:41,290
+Look, can't you just let him play with you until bedtime?
+
+398
+00:17:42,750 --> 00:17:43,810
+We're not playing.
+
+399
+00:17:43,810 --> 00:17:45,050
+This is real work.
+
+400
+00:17:45,050 --> 00:17:46,970
+We're going to be hundred-aires.
+
+401
+00:17:47,870 --> 00:17:52,080
+Okay. What if I got him to apologize and promise to behave?
+
+402
+00:17:54,510 --> 00:17:57,060
+Then I guess we would let him back on the app team,
+
+403
+00:17:57,060 --> 00:17:59,470
+and while we're doing that, you could take an aerial tour
+
+404
+00:17:59,470 --> 00:18:02,170
+of L.A. on your flying pig.
+
+405
+00:18:03,250 --> 00:18:04,720
+Okay. Wait right here.
+
+406
+00:18:06,620 --> 00:18:08,890
+I'll tell you one thing. If I get rich enough,
+
+407
+00:18:08,890 --> 00:18:09,960
+that's the kind of girl I want to take
+
+408
+00:18:09,960 --> 00:18:11,900
+on a submarine ride.
+
+409
+00:18:13,000 --> 00:18:15,750
+And yes, that time, I meant it to be dirty.
+
+410
+00:18:18,490 --> 00:18:19,820
+Really?
+
+411
+00:18:19,820 --> 00:18:21,290
+Leonard wants me back?
+
+412
+00:18:21,290 --> 00:18:24,940
+Oh, yes. He says they are lost without you.
+
+413
+00:18:25,670 --> 00:18:27,890
+Well, we sure saw that coming.
+
+414
+00:18:28,620 --> 00:18:29,520
+That's right.
+
+415
+00:18:29,520 --> 00:18:30,880
+You know what I'm going to do?
+
+416
+00:18:30,880 --> 00:18:34,990
+I am going to sit here and just let them stew.
+
+417
+00:18:38,330 --> 00:18:39,310
+No, no, no. You know,
+
+418
+00:18:39,310 --> 00:18:40,750
+they have suffered enough.
+
+419
+00:18:40,750 --> 00:18:43,600
+Everybody's suffered enough.
+
+420
+00:18:44,160 --> 00:18:46,390
+The thing is, you're going to have to offer him
+
+421
+00:18:46,390 --> 00:18:49,140
+a face-saving way out of this.
+
+422
+00:18:49,140 --> 00:18:50,090
+How?
+
+423
+00:18:50,090 --> 00:18:51,180
+Say you're sorry.
+
+424
+00:18:51,180 --> 00:18:52,380
+Oh, no.
+
+425
+00:18:52,380 --> 00:18:55,670
+Mrs. Mary Cooper didn't raise her no liars.
+
+426
+00:18:57,310 --> 00:18:59,460
+Okay. Um...
+
+427
+00:18:59,460 --> 00:19:00,990
+How about this? You know how you're always trying
+
+428
+00:19:00,990 --> 00:19:02,530
+to learn about sarcasm?
+
+429
+00:19:02,530 --> 00:19:04,240
+- No.  - No?
+
+430
+00:19:04,240 --> 00:19:06,200
+I was being sarcastic.
+
+431
+00:19:07,030 --> 00:19:08,750
+Oh. Good for you.
+
+432
+00:19:08,750 --> 00:19:10,140
+So all you have to do here is say
+
+433
+00:19:10,140 --> 00:19:11,290
+you're sorry to Leonard,
+
+434
+00:19:11,290 --> 00:19:13,520
+but say it sarcastically.
+
+435
+00:19:13,520 --> 00:19:15,240
+Of course.
+
+436
+00:19:15,650 --> 00:19:18,290
+He will hear it as an attempt to mend fences,
+
+437
+00:19:18,290 --> 00:19:20,420
+as opposed to the withering condemnation
+
+438
+00:19:20,420 --> 00:19:22,550
+you and I will know it to be.
+
+439
+00:19:23,330 --> 00:19:24,770
+Yeah. Yeah, that was my plan.
+
+440
+00:19:24,770 --> 00:19:25,980
+All right. Come on. Let's go.
+
+441
+00:19:25,980 --> 00:19:27,770
+Oh, by the way, thank you
+
+442
+00:19:27,770 --> 00:19:29,490
+for the delicious cocoa.
+
+443
+00:19:29,490 --> 00:19:31,140
+Oh, you're welcome.
+
+444
+00:19:31,140 --> 00:19:33,370
+Boy, I'm getting good at this.
+
+445
+00:19:35,790 --> 00:19:37,680
+Okay, now that you're back on the team,
+
+446
+00:19:37,680 --> 00:19:39,080
+let's get you caught up.
+
+447
+00:19:39,080 --> 00:19:41,330
+Before you begin, let me say again
+
+448
+00:19:41,330 --> 00:19:44,630
+how deeply sorry I am for my earlier behavior
+
+449
+00:19:44,630 --> 00:19:49,020
+and how much I respect and admire your leadership.
+
+450
+00:19:50,390 --> 00:19:52,030
+Thank you.
+
+451
+00:19:56,290 --> 00:19:57,970
+So as you can see,
+
+452
+00:19:57,970 --> 00:20:00,760
+not only can you store your favorite equations,
+
+453
+00:20:00,760 --> 00:20:03,040
+but you can forward them to your friends
+
+454
+00:20:03,040 --> 00:20:06,650
+or post them on Facebook right from the app.
+
+455
+00:20:06,650 --> 00:20:08,850
+Well, I must say, I am impressed.
+
+456
+00:20:08,850 --> 00:20:09,530
+Thanks.
+
+457
+00:20:09,530 --> 00:20:12,050
+You all have clearly put in a lot of hard work.
+
+458
+00:20:12,050 --> 00:20:12,930
+We have.
+
+459
+00:20:12,930 --> 00:20:13,840
+As a result, you have taken
+
+460
+00:20:13,840 --> 00:20:16,480
+the most important step on the road to success:
+
+461
+00:20:16,480 --> 00:20:17,860
+learning what not to do.
+
+462
+00:20:17,860 --> 00:20:19,660
+Now, let's start fresh.
+
+463
+00:20:20,760 --> 00:20:22,770
+Howard, we're going to need some tea.
+
+464
+00:20:29,030 --> 00:20:32,140
+Okay, these are Uggs.
+
+465
+00:20:32,140 --> 00:20:34,950
+These are Crocs.
+
+466
+00:20:34,950 --> 00:20:36,930
+These are knockoff Manolo Blahniks.
+
+467
+00:20:36,930 --> 00:20:38,440
+Bored.
+
+468
+00:20:39,130 --> 00:20:41,300
+Look, you said it yourself, we have to create a database
+
+469
+00:20:41,300 --> 00:20:43,460
+before you can write an alga-thingy.
+
+470
+00:20:43,460 --> 00:20:44,960
+Algorithm.
+
+471
+00:20:44,960 --> 00:20:47,420
+You see, Penny, Alan Turing defined an algorithm...
+
+472
+00:20:47,420 --> 00:20:48,910
+Bored.
+
+473
+00:20:49,480 --> 00:20:50,050
+Okay.
+
+474
+00:20:50,050 --> 00:20:51,850
+These are Steve Maddens.
+
+475
+00:20:51,850 --> 00:20:53,770
+These are Nine West.
+
+476
+00:20:53,770 --> 00:20:56,800
+These are Target. Oh, but don't they look like Chanel?
+
+477
+00:20:57,770 --> 00:20:58,630
+These are Michael Kors...
+
+478
+00:20:58,630 --> 00:21:00,790
+Nobody knows...
+
+479
+00:21:00,790 --> 00:21:02,860
+the trouble I've seen
+
+480
+00:21:02,860 --> 00:21:04,880
+Nobody knows...
+
+481
+00:21:04,880 --> 00:21:06,010
+my sorrows
+

@@ -9,7 +9,7 @@ Due to the large scale of the StoryVideo dataset, we have made it available on t
 
 You can access the datasets via the following links:
 
-- 🤗[StoryVideoQA Dataset - QAs](https://huggingface.co/datasets/ZQFive/StoryVideoQA)
+- 🤗[StoryVideoQA Dataset](https://huggingface.co/datasets/ZQFive/StoryVideoQA)
 
 
 
@@ -19,7 +19,7 @@ You can access the datasets via the following links:
 
 ![StoryMindv2](./assets/StoryMindv2.png)
 
-#### **Environment Requirements (This project work in StoryMindv2 directory):**
+#### **Environment Setup (This project work in StoryMindv2 directory):**
 
 ```bash
 cd StoryMindv2
@@ -28,8 +28,9 @@ pip install -r requirements.txt
 
 #### **StoryMindv2 consists of 4 stage:**
 
-- **Data Preparation**
-  - The final result of script-subtitle alignment are directly stored in `StoryMindv2/aligned_script`,  i.e., 
+1. **Data Preparation**
+
+   The final result of script-subtitle alignment are directly stored in `StoryMindv2/aligned_script`,  i.e., 
 
 
 ```bash
@@ -42,9 +43,9 @@ StoryMindv2/
         └── video_length.json # Different video length of TV series/Movie in StoryVideoQA    
 ```
 
-- **QAs Generation**
-  - This stage can be executed by running the script `sh sh/QAsGen.sh` directly, i.e., 
+2. **QAs Generation**
 
+   This stage can be executed by running the script `sh sh/QAsGen.sh` directly, i.e., 
 
 ```bash
 # Run the QAsGen script with specified parameters
@@ -55,8 +56,9 @@ CUDA_VISIBLE_DEVICES=0 python QAsGen.py --gemini_model gemini-2.0-flash \
            --vid_dir Friends                        # The script will use data from aligned_script/{vid_dir}
 ```
 
-- **QAs Filtration**
-  - This stage can be executed by running the script `sh sh/QAsFil.sh` directly, i.e., 
+3.  **QAs Filtration**
+  
+  This stage can be executed by running the script `sh sh/QAsFil.sh` directly, i.e., 
 
 
 ```bash
@@ -77,8 +79,9 @@ python export.py --vid_dir Friends \                           # Filter QAs base
                  --output_path json/filter_QAs.json \          # output path of filtered QAs
 ```
 
-- **Difficulty Measure**
-  - This stage can be executed by running the script `sh sh/QAsDiff.sh` directly, i.e., 
+4. **Difficulty Measure**
+    
+    This stage can be executed by running the script `sh sh/QAsDiff.sh` directly, i.e., 
 
 
 ```bash
@@ -95,3 +98,96 @@ python diff_measure.py --questions_path json/filter_QAs.json \               # p
 
 ![PlotTree](./assets/PlotTree.png)
 
+
+
+#### Environment Setup
+
+Before running the code, please make sure to prepare the Python environment properly.
+
+1. **Install dependencies**
+
+   We recommend creating a clean virtual environment (e.g., via `conda` or `venv`) and then installing the required dependencies:
+
+   ```bash
+   cd PlotTree
+   pip install -r requirements.txt
+   ```
+
+2. **Update `kmeans-pytorch` library  (Since we revise the distance for K-means)**
+
+   ```bash
+   git clone https://github.com/subhadarship/kmeans_pytorch
+   cd kmeans_pytorch
+   ```
+
+   Replace the `__init__.py` file in the `kmeans_pytorch` directory with the modified version provided in `./kmeans_pytorch` of this repository.
+
+   Then, install the updated package locally:
+
+   ```bash
+   pip install --editable .
+   ```
+
+#### Video Data Preparation
+
+- Due to copyright restrictions associated with TV series and movies, researchers are therefore required to **obtain the relevant videos independently** and place them in the `data/video` directory.
+- Once the videos are prepared, you can extract keyframes using the script `data_extraction/extract_images.py`, which samples frames at a default rate of 1 fps.
+-  After obtaining keyframes, you can perform plot captioning using the provided shell script `sh/cap.sh`.
+
+For convenience, we have provided **pre-generated plot captioning results** for the *StoryVideoQA-G* subset in the `data/captions` directory.
+
+#### PlotTree Construction and PlotTreeQA
+
+1. **PlotTree Construction**
+
+   This stage can be executed by running the script `sh sh/plotTree.sh` directly, i.e.,
+
+   ```bash
+   SHARED_PARAMS="--output_base_dir results/PlotTree \
+                  --llm_model Gemini-2.0-flash \
+                  --openai_model gemini-2.0-flash \
+                  --openai_key "Replace with your LLM API Key" \
+                  --openai_proxy "Replace with your LLM API Proxy" \
+                  --compression_factor 36 \    # compression rate between two layers
+                  --temporal_weight 10 \       # scaling factor of distance function for K-means
+                  --min_nodes_in_cluster 2"
+   
+   
+   CUDA_VISIBLE_DEVICES=0 python plotTree.py --captions_path data/captions/Friends_PlotTree.json $SHARED_PARAMS
+   CUDA_VISIBLE_DEVICES=0 python plotTree.py --captions_path data/captions/BigBang_PlotTree.json $SHARED_PARAMS
+   CUDA_VISIBLE_DEVICES=0 python plotTree.py --captions_path data/captions/GOT_PlotTree.json $SHARED_PARAMS
+   CUDA_VISIBLE_DEVICES=0 python plotTree.py --captions_path data/captions/Movie_PlotTree.json $SHARED_PARAMS
+   ```
+
+2. **PlotTree QA**
+
+   This stage can be executed by running the script `sh sh/plotTreeqa.sh` directly, i.e.,
+
+   ```bash
+   SHARED_PARAMS="--plotTree_name PlotTree \
+                  --description_type full \
+                  --tree_output_base_dir results/PlotTree \
+                  --llm_model Gemini-2.0-flash \
+                  --compression_factor 36  \   # compression rate between two layers
+                  --temporal_weight 10 \       # scaling factor of distance function for K-means
+                  --max_rag_nodes 32 \         # rag node on PlotTree
+                  --openai_model gemini-2.0-flash \
+                  --openai_key "Replace with your LLM API Key" \
+                  --openai_proxy "Replace with your LLM API Proxy" \
+                  --json_ouput_dir results/QA"
+   
+   CUDA_VISIBLE_DEVICES=0 python plotTreeqa.py --vid_dir Friends $SHARED_PARAMS
+   CUDA_VISIBLE_DEVICES=0 python plotTreeqa.py --vid_dir BigBang $SHARED_PARAMS
+   CUDA_VISIBLE_DEVICES=0 python plotTreeqa.py --vid_dir GOT $SHARED_PARAMS
+   CUDA_VISIBLE_DEVICES=0 python plotTreeqa.py --vid_dir Movie $SHARED_PARAMS
+   ```
+
+3. Calculate Metrics 
+
+   If use our default setting of PlotTree, you can directly use following script to calculate metrics for PlotTree
+
+   ```bash
+   python metrics.py
+   ```
+
+   

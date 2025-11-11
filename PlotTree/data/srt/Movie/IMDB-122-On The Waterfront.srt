@@ -1,0 +1,5184 @@
+1
+00:00:00,000 --> 00:00:10,000
+m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0
+
+2
+00:00:00,000 --> 00:00:10,000
+m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35
+
+3
+00:00:00,000 --> 00:00:10,000
+m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60
+
+4
+00:02:07,800 --> 00:02:09,760
+Now you take it easy, slugger.
+
+5
+00:02:25,560 --> 00:02:26,610
+Joey!
+
+6
+00:02:31,400 --> 00:02:32,820
+Joe Doyle!
+
+7
+00:02:37,030 --> 00:02:38,990
+All right! What do you want?
+
+8
+00:02:39,200 --> 00:02:40,620
+I got one of your birds.
+
+9
+00:02:40,700 --> 00:02:43,290
+I recognised him by the band.
+
+10
+00:02:43,370 --> 00:02:46,500
+It must be Danny-boy. I lost him in the last race.
+
+11
+00:02:47,210 --> 00:02:48,840
+He flew into my coop.
+
+12
+00:02:48,920 --> 00:02:52,090
+-You want him? -I got to watch myself these days.
+
+13
+00:02:52,720 --> 00:02:54,010
+You know what I mean?
+
+14
+00:02:54,090 --> 00:02:55,220
+Don't worry.
+
+15
+00:02:55,300 --> 00:02:59,310
+-I'll take him up to your loft. -Okay, I'll see you on the roof.
+
+16
+00:03:24,370 --> 00:03:25,580
+How goes?
+
+17
+00:03:26,620 --> 00:03:27,960
+He's up on the roof.
+
+18
+00:03:28,040 --> 00:03:29,210
+The pigeon?
+
+19
+00:03:30,130 --> 00:03:31,460
+Yeah, it worked.
+
+20
+00:03:36,630 --> 00:03:38,800
+I think somebody fell off the roof.
+
+21
+00:03:45,310 --> 00:03:48,770
+He thought he'd sing to the Crime Commission. He won't.
+
+22
+00:03:48,940 --> 00:03:50,650
+I thought they'd talk to him.
+
+23
+00:03:50,730 --> 00:03:51,980
+That's the idea.
+
+24
+00:03:52,070 --> 00:03:54,820
+I thought they'd talk to him and get him to dummy up.
+
+25
+00:03:54,900 --> 00:03:56,610
+Maybe he gave them an argument.
+
+26
+00:03:56,700 --> 00:04:00,280
+I figured the worst they was gonna do was lean on him a little bit.
+
+27
+00:04:00,370 --> 00:04:02,120
+Maybe he gave them an argument.
+
+28
+00:04:02,200 --> 00:04:05,710
+He's been giving Johnny the Boss a lot of arguments lately.
+
+29
+00:04:07,170 --> 00:04:08,960
+He wasn't a bad kid, that Joey.
+
+30
+00:04:09,040 --> 00:04:10,210
+A canary.
+
+31
+00:04:10,290 --> 00:04:12,840
+Maybe he could sing, but he couldn't fly.
+
+32
+00:04:19,090 --> 00:04:21,430
+Come on, I'll buy you a drink.
+
+33
+00:04:24,390 --> 00:04:26,520
+I'll be in there later and....
+
+34
+00:04:36,690 --> 00:04:38,280
+Father Barry is here.
+
+35
+00:04:42,160 --> 00:04:44,620
+Same thing happened to my Andy five years ago.
+
+36
+00:04:44,700 --> 00:04:46,950
+-You're the boy's father? -That's right.
+
+37
+00:04:47,040 --> 00:04:49,790
+Looks like he fell off the roof, or maybe he was pushed.
+
+38
+00:04:49,870 --> 00:04:51,040
+-Any ideas? -No.
+
+39
+00:04:51,130 --> 00:04:55,090
+He was the only longshoreman that had the guts to talk to the crime investigators.
+
+40
+00:04:55,170 --> 00:04:57,010
+-Who asked you? -Everybody knows that.
+
+41
+00:04:57,090 --> 00:04:57,840
+Shut up.
+
+42
+00:04:57,920 --> 00:05:01,010
+-lf he took my advice he wouldn't be---Everyone knows that.
+
+43
+00:05:01,090 --> 00:05:02,140
+I said, "Shut up!"
+
+44
+00:05:02,220 --> 00:05:05,010
+I know how you feel about cops, but if you give me...
+
+45
+00:05:05,100 --> 00:05:06,520
+some leads I could
+
+46
+00:05:06,600 --> 00:05:08,730
+I kept telling him, "Don't say nothing.
+
+47
+00:05:08,810 --> 00:05:10,810
+"Keep quiet, you'll live longer."
+
+48
+00:05:12,150 --> 00:05:16,070
+I've been on the docks all my life, boy, and there's one thing I learned.
+
+49
+00:05:16,150 --> 00:05:19,400
+You don't ask no questions, you don't answer no questions...
+
+50
+00:05:19,490 --> 00:05:21,990
+unless you want to wind up like that.
+
+51
+00:05:25,330 --> 00:05:27,500
+Edie, come here.
+
+52
+00:05:28,500 --> 00:05:30,120
+I want to talk to you.
+
+53
+00:05:31,750 --> 00:05:34,000
+Father, who'd want to kill Joey?
+
+54
+00:05:37,510 --> 00:05:40,010
+Stay away from him! Stay away from him!
+
+55
+00:05:40,430 --> 00:05:41,930
+Edie, listen!
+
+56
+00:05:42,010 --> 00:05:44,140
+Remember time and faith are great healers.
+
+57
+00:05:44,220 --> 00:05:47,270
+Father, my brother is dead and you talk about time and faith.
+
+58
+00:05:47,350 --> 00:05:50,890
+My brother was the best kid in the neighbourhood and everybody said so.
+
+59
+00:05:50,980 --> 00:05:53,310
+I'm in the church if you need me.
+
+60
+00:05:54,650 --> 00:05:56,480
+You're in the church if I need you?
+
+61
+00:05:56,570 --> 00:05:59,400
+Did you ever hear of a saint hiding in a church?
+
+62
+00:06:00,950 --> 00:06:03,320
+I want to know who killed my brother!
+
+63
+00:06:04,410 --> 00:06:06,580
+What's the matter with you, punk?
+
+64
+00:06:13,620 --> 00:06:16,250
+Boss, Packy wants another drink on the cuff.
+
+65
+00:06:16,920 --> 00:06:18,340
+Give it to him.
+
+66
+00:06:19,090 --> 00:06:21,050
+And here's the cut on the shape-up.
+
+67
+00:06:21,130 --> 00:06:25,640
+891 men, $3 a head. That's $2,673.
+
+68
+00:06:26,760 --> 00:06:28,470
+Charley, you count them.
+
+69
+00:06:29,890 --> 00:06:31,770
+The banana boat is 46 tomorrow.
+
+70
+00:06:31,850 --> 00:06:35,270
+If we pull a walkout, it might be a few bucks from the shippers.
+
+71
+00:06:35,360 --> 00:06:38,110
+-Them bananas go bad in a hurry. -Ask $2,000.
+
+72
+00:06:40,190 --> 00:06:41,820
+Clowns can't fight.
+
+73
+00:06:44,110 --> 00:06:46,120
+There's nobody tough anymore.
+
+74
+00:06:46,620 --> 00:06:48,030
+Hi, slugger.
+
+75
+00:06:49,290 --> 00:06:50,330
+Hi, kid.
+
+76
+00:06:55,710 --> 00:06:58,420
+Where's Morgan? Where's that big banker of mine?
+
+77
+00:06:58,500 --> 00:07:00,050
+Right here, Mr. Friendly.
+
+78
+00:07:00,130 --> 00:07:03,470
+-Hi, JP, how's business? -Having trouble with Kelly again, boss.
+
+79
+00:07:03,550 --> 00:07:06,470
+He won't take no loans and Big Mac puts him to work anyway.
+
+80
+00:07:06,550 --> 00:07:09,140
+-He's my wife's nephew. -He won't take no loans!
+
+81
+00:07:09,220 --> 00:07:11,640
+I got to put him to work. She'd murder me!
+
+82
+00:07:11,720 --> 00:07:13,770
+That's why I never got married.
+
+83
+00:07:13,850 --> 00:07:16,980
+Here's the interest on the day, boss. $532.
+
+84
+00:07:17,770 --> 00:07:18,900
+You count it.
+
+85
+00:07:18,980 --> 00:07:20,730
+Counting makes me sleepy.
+
+86
+00:07:21,320 --> 00:07:23,280
+You handle that sheet metal all right?
+
+87
+00:07:23,360 --> 00:07:26,240
+It was easy. The new checker faked the receipt. Here.
+
+88
+00:07:26,320 --> 00:07:29,160
+You want to talk to me, take the cigar out of your mouth.
+
+89
+00:07:29,240 --> 00:07:31,580
+-Stow the receipt. I'll take the cash. -Sure.
+
+90
+00:07:31,660 --> 00:07:35,160
+-Here you are, 45 bills. -Terry, you count this.
+
+91
+00:07:38,130 --> 00:07:40,000
+Come on, go on, it's good for you.
+
+92
+00:07:40,090 --> 00:07:41,920
+-lt develops your mind. -What mind?
+
+93
+00:07:42,000 --> 00:07:43,720
+Shut up. I like the kid.
+
+94
+00:07:43,800 --> 00:07:47,050
+Remember the night he took Farella at St. Nick's, Charley?
+
+95
+00:07:47,140 --> 00:07:50,470
+We won a bundle. Real tough. A big try.
+
+96
+00:07:50,560 --> 00:07:52,270
+I lost the count.
+
+97
+00:07:54,560 --> 00:07:56,690
+Okay, forget it, Einstein.
+
+98
+00:07:56,980 --> 00:08:00,230
+How come you never got an education like your brother Charley?
+
+99
+00:08:00,310 --> 00:08:04,150
+The only arithmetic he ever got was hearing the referee count up to 10.
+
+100
+00:08:04,240 --> 00:08:06,860
+You're not too funny today, Fat Man.
+
+101
+00:08:08,200 --> 00:08:11,740
+Hey, what gives with our boy tonight, Charley?
+
+102
+00:08:12,040 --> 00:08:13,370
+He isn't himself.
+
+103
+00:08:13,450 --> 00:08:16,910
+It's the Joey Doyle thing and how he exaggerates the thing.
+
+104
+00:08:17,000 --> 00:08:19,960
+Too much Marquis of Queensbury softens him up.
+
+105
+00:08:20,040 --> 00:08:23,130
+Listen, I'm a soft touch, too. Ask any rummy on the dock...
+
+106
+00:08:23,210 --> 00:08:26,800
+if I'm not good for a fin any time they put the arm on me.
+
+107
+00:08:27,470 --> 00:08:31,970
+But my old lady raised us 10 kids on a stinking watchman's pension.
+
+108
+00:08:32,640 --> 00:08:36,600
+When I was 16, I had to beg for work in the hold.
+
+109
+00:08:37,850 --> 00:08:40,360
+I didn't work my way up out of there for nothing.
+
+110
+00:08:40,440 --> 00:08:42,270
+I know that, Johnny, I know it.
+
+111
+00:08:42,360 --> 00:08:44,650
+Taking over this local took a little doing.
+
+112
+00:08:44,730 --> 00:08:48,610
+There were rough fellas in the way. They gave me this to remember them by.
+
+113
+00:08:48,700 --> 00:08:52,830
+He kept his hand over his throat to stay alive and he still went after them.
+
+114
+00:08:52,910 --> 00:08:54,660
+I know what's eating you.
+
+115
+00:08:55,750 --> 00:09:01,170
+I got 2,000 dues-paying members in this local, that's $72,000 a year legitimate.
+
+116
+00:09:01,630 --> 00:09:05,960
+When each one of them puts in a couple of bucks a day just to make sure...
+
+117
+00:09:06,050 --> 00:09:08,760
+the work's steady, well, figure it out.
+
+118
+00:09:09,090 --> 00:09:10,800
+That's just for openers.
+
+119
+00:09:10,890 --> 00:09:14,060
+We've got the fattest piers in the fattest harbour in the world.
+
+120
+00:09:14,140 --> 00:09:16,390
+Everything moves in and out, we take our cut.
+
+121
+00:09:16,470 --> 00:09:20,480
+Why shouldn't we? If we can get it, we're entitled to it.
+
+122
+00:09:20,810 --> 00:09:24,570
+You don't suppose I can afford to be boxed out of a deal like this, do you?
+
+123
+00:09:24,650 --> 00:09:28,860
+A deal I sweated and bled for, on account of one lousy little cheese-eater...
+
+124
+00:09:28,950 --> 00:09:33,280
+that Doyle bum, who thinks he can squeal to the crime commission. Do you?
+
+125
+00:09:39,370 --> 00:09:40,420
+Do you?
+
+126
+00:09:43,540 --> 00:09:46,300
+No, Johnny. I just figured I should have been told.
+
+127
+00:09:46,380 --> 00:09:48,090
+I make it $2,623.
+
+128
+00:09:48,880 --> 00:09:50,680
+You're $50 short, Skins.
+
+129
+00:09:56,890 --> 00:09:57,930
+Gimme.
+
+130
+00:09:59,350 --> 00:10:02,520
+-I must've miscounted. -Gimme!
+
+131
+00:10:10,070 --> 00:10:14,490
+You come from Green Point, go back there. You don't work here no more.
+
+132
+00:10:21,210 --> 00:10:23,920
+Here, kid, here's half a bill. Go get you a load on.
+
+133
+00:10:24,000 --> 00:10:25,670
+No, I'm okay, Johnny, thanks.
+
+134
+00:10:25,750 --> 00:10:27,800
+Present from your Uncle Johnny.
+
+135
+00:10:28,340 --> 00:10:33,220
+And Mac, tomorrow morning when you shape the men, put Terry up in the loft.
+
+136
+00:10:33,300 --> 00:10:35,760
+Number one. Every day.
+
+137
+00:10:36,640 --> 00:10:40,100
+It's nice, easy work if you check in and goof off on a coffee bag.
+
+138
+00:10:40,180 --> 00:10:41,520
+Okay?
+
+139
+00:10:48,690 --> 00:10:50,530
+You got a real friend here.
+
+140
+00:10:50,900 --> 00:10:52,450
+Now don't forget it.
+
+141
+00:10:53,450 --> 00:10:55,160
+Why should he forget it?
+
+142
+00:10:55,280 --> 00:10:56,870
+Thanks, Johnny.
+
+143
+00:11:05,540 --> 00:11:07,250
+All right, payday.
+
+144
+00:11:08,130 --> 00:11:09,170
+Rony.
+
+145
+00:11:10,380 --> 00:11:11,420
+Mac.
+
+146
+00:11:34,820 --> 00:11:36,200
+Hi, Terry.
+
+147
+00:11:39,080 --> 00:11:41,580
+-Hi, kid. -I was just going to feed them.
+
+148
+00:11:41,660 --> 00:11:43,120
+I already fed them.
+
+149
+00:11:43,200 --> 00:11:45,000
+You must've been up early?
+
+150
+00:11:45,420 --> 00:11:48,130
+I was up anyhow, so I figured I might as well.
+
+151
+00:11:51,090 --> 00:11:52,670
+They sure got it made.
+
+152
+00:11:52,760 --> 00:11:57,800
+Eating, sleeping, flying around like crazy, raising gobs of squabs.
+
+153
+00:12:02,640 --> 00:12:04,640
+Well, I better get over there.
+
+154
+00:12:11,480 --> 00:12:16,150
+Be careful. Don't spill no water on the floor. I don't want them to catch cold.
+
+155
+00:12:16,900 --> 00:12:18,450
+I'll see you around.
+
+156
+00:12:27,460 --> 00:12:29,540
+Come on, Tony, give me the tabs.
+
+157
+00:12:33,630 --> 00:12:35,470
+He was a good boy, that Doyle kid.
+
+158
+00:12:35,550 --> 00:12:37,840
+Sure he was, that's why he got it in the head.
+
+159
+00:12:37,930 --> 00:12:40,600
+But he couldn't learn to keep his mouth shut.
+
+160
+00:12:45,890 --> 00:12:48,140
+Hey, Pop, why don't you go home?
+
+161
+00:12:48,230 --> 00:12:50,860
+The boys at work today will be chipping in gladly.
+
+162
+00:12:50,940 --> 00:12:52,820
+No thanks, fellas, I'm gonna shape.
+
+163
+00:12:52,900 --> 00:12:55,260
+Who do you think'll pay for the funeral?
+
+164
+00:12:55,260 --> 00:12:57,740
+Johnny Friendly, the "great labour leader."
+
+165
+00:12:58,320 --> 00:13:01,120
+Why don't you keep that big mouth of yours shut?
+
+166
+00:13:01,200 --> 00:13:02,950
+What are you, a wise guy?
+
+167
+00:13:03,120 --> 00:13:06,250
+If I was wise, I wouldn't be no longshoreman for 30 years.
+
+168
+00:13:06,330 --> 00:13:08,540
+I'm poorer now than when I started.
+
+169
+00:13:08,620 --> 00:13:10,210
+-Wise guy. -Big mouth.
+
+170
+00:13:11,750 --> 00:13:13,920
+Don't mess with those guys.
+
+171
+00:13:14,590 --> 00:13:18,010
+I brought you Joey's windbreaker. It might come in handy.
+
+172
+00:13:18,090 --> 00:13:20,890
+-Go ahead, wear it. -Thanks, Pop.
+
+173
+00:13:20,970 --> 00:13:24,010
+Mine's more full of holes than the Pittsburgh infield.
+
+174
+00:13:24,100 --> 00:13:27,060
+Hey, Joe, I got a coat for you.
+
+175
+00:13:39,280 --> 00:13:41,030
+Do you know Terry Malloy?
+
+176
+00:13:41,490 --> 00:13:43,660
+No, I don't. Never heard of him.
+
+177
+00:13:46,910 --> 00:13:49,000
+You're Terry Malloy, aren't you?
+
+178
+00:13:51,120 --> 00:13:52,210
+So what?
+
+179
+00:13:52,290 --> 00:13:54,960
+Didn't I see you fight a couple of years ago?
+
+180
+00:13:56,210 --> 00:13:58,210
+Without the birdseed, what do you want?
+
+181
+00:13:58,300 --> 00:14:00,050
+Identification.
+
+182
+00:14:04,510 --> 00:14:06,680
+Waterfront Crime Commission. What's that?
+
+183
+00:14:06,760 --> 00:14:08,810
+I just want to ask you a few questions.
+
+184
+00:14:08,890 --> 00:14:11,560
+We'll hold public hearings on waterfront crime...
+
+185
+00:14:11,640 --> 00:14:14,310
+and underworld infiltration of longshore unions.
+
+186
+00:14:14,400 --> 00:14:17,650
+-I don't know nothing. -You haven't heard the questions yet.
+
+187
+00:14:17,730 --> 00:14:19,860
+-What did you say? -You heard me.
+
+188
+00:14:19,940 --> 00:14:24,070
+There's a rumour that you're one of the last people to see Joey Doyle alive.
+
+189
+00:14:24,160 --> 00:14:25,450
+I don't know nothing.
+
+190
+00:14:25,530 --> 00:14:27,870
+Nobody's accusing you of anything, Mr. Malloy.
+
+191
+00:14:27,950 --> 00:14:29,450
+I hope you understand that.
+
+192
+00:14:29,540 --> 00:14:33,330
+Just want to ask you some questions about some people you may know.
+
+193
+00:14:35,460 --> 00:14:37,670
+-People I may know. -That's right.
+
+194
+00:14:38,550 --> 00:14:41,720
+-You better get out of here, buster! -Slow down, boy.
+
+195
+00:14:43,300 --> 00:14:46,800
+I don't know nothing, I ain't seen nothing, and I'm not saying nothing.
+
+196
+00:14:46,890 --> 00:14:49,180
+Why don't you and your girlfriend take off.
+
+197
+00:14:49,270 --> 00:14:50,680
+All right, Mr. Malloy!
+
+198
+00:14:50,770 --> 00:14:53,850
+You've every right not to talk if that's what you choose to do.
+
+199
+00:14:53,940 --> 00:14:56,440
+-The public has a right to know the facts. -Yeah.
+
+200
+00:14:56,520 --> 00:14:58,020
+We'll be seeing you again.
+
+201
+00:14:58,110 --> 00:15:00,990
+Never's going to be too much soon for me, Shorty.
+
+202
+00:15:01,490 --> 00:15:02,740
+Take it easy.
+
+203
+00:15:04,990 --> 00:15:07,740
+How do you like them mutts taking me for a pigeon.
+
+204
+00:15:07,910 --> 00:15:10,370
+-Who is it? -I don't know who they are.
+
+205
+00:15:10,910 --> 00:15:14,620
+You're three weeks behind on the last $25, but I'm willing to take a chance.
+
+206
+00:15:14,710 --> 00:15:18,210
+Some chance at ten percent a week and if we don't borrow, we don't work.
+
+207
+00:15:18,290 --> 00:15:20,000
+May you rot in hell, JP.
+
+208
+00:15:20,550 --> 00:15:23,420
+When I'm dead and gone, you'll know what a friend I was.
+
+209
+00:15:23,510 --> 00:15:26,510
+Why don't you drop dead now, so we can test your theory?
+
+210
+00:15:26,590 --> 00:15:28,100
+Condolences.
+
+211
+00:15:29,140 --> 00:15:30,600
+Hey, Pop, look.
+
+212
+00:15:36,690 --> 00:15:38,150
+Let her go, Tony.
+
+213
+00:15:54,660 --> 00:15:57,080
+I guess I spoke out of turn last night.
+
+214
+00:16:00,170 --> 00:16:04,340
+You think I'm just a gravy-train rider with a turned-around collar, don't you?
+
+215
+00:16:10,390 --> 00:16:12,890
+I see the sisters taught you not to lie.
+
+216
+00:16:15,020 --> 00:16:18,270
+All right. Loft gang: Malloy...
+
+217
+00:16:18,810 --> 00:16:21,610
+Hendriks, Padowski...
+
+218
+00:16:22,230 --> 00:16:24,320
+Westerfield, McGuier.
+
+219
+00:16:28,200 --> 00:16:31,450
+I've been thinking about your question, and you're right, Edie.
+
+220
+00:16:33,700 --> 00:16:35,160
+This is my parish.
+
+221
+00:16:35,960 --> 00:16:38,830
+I don't know how much I can do, but I'll never find out...
+
+222
+00:16:38,920 --> 00:16:42,300
+unless I come down here and take a good look for myself.
+
+223
+00:16:42,460 --> 00:16:44,960
+I need some extra banana carriers.
+
+224
+00:16:45,050 --> 00:16:46,130
+Bananas again.
+
+225
+00:16:46,220 --> 00:16:50,180
+I wonder when we'll get a boat from Ireland with good Irish whiskey on it.
+
+226
+00:16:50,260 --> 00:16:52,560
+Dugan, my boy, you're dreaming again.
+
+227
+00:16:53,350 --> 00:16:57,100
+All right. Kelly. Richie.
+
+228
+00:17:07,610 --> 00:17:08,740
+Yeah, you.
+
+229
+00:17:10,990 --> 00:17:13,870
+What's the matter? Nobody want to work today?
+
+230
+00:17:16,330 --> 00:17:17,790
+Yeah, you.
+
+231
+00:17:25,300 --> 00:17:27,970
+Who do you see to get a day's pay around here?
+
+232
+00:17:43,020 --> 00:17:45,360
+-Meatballs. -Definitely.
+
+233
+00:17:51,570 --> 00:17:52,870
+Come here.
+
+234
+00:17:52,950 --> 00:17:55,580
+Hey, Terry, grab that one!
+
+235
+00:18:00,460 --> 00:18:02,170
+Give me that.
+
+236
+00:18:02,250 --> 00:18:03,290
+Get away!
+
+237
+00:18:03,670 --> 00:18:06,420
+-Give it to me! -Why?
+
+238
+00:18:06,710 --> 00:18:08,340
+Give it to me!
+
+239
+00:18:09,010 --> 00:18:10,840
+What makes you so special?
+
+240
+00:18:12,010 --> 00:18:13,800
+Things are looking up on the dock.
+
+241
+00:18:13,890 --> 00:18:16,510
+Don't you recognise her? That's Joey Doyle's sister.
+
+242
+00:18:16,600 --> 00:18:17,970
+Give me that.
+
+243
+00:18:20,640 --> 00:18:23,730
+-You're Joey Doyle's sister? -Yes, I am.
+
+244
+00:18:26,360 --> 00:18:28,940
+You don't wanna go to work today anyhow.
+
+245
+00:18:29,820 --> 00:18:31,990
+It's been nice wrestling with you.
+
+246
+00:18:36,330 --> 00:18:37,370
+Edie!
+
+247
+00:18:38,200 --> 00:18:40,830
+Pop. Here's your tab, take it.
+
+248
+00:18:43,080 --> 00:18:45,330
+All right, give it to me. I can use it.
+
+249
+00:18:45,420 --> 00:18:47,840
+Now get back to the sisters where you belong.
+
+250
+00:18:47,920 --> 00:18:51,420
+I'm surprised at you, Father, if you don't mind my saying so.
+
+251
+00:18:51,510 --> 00:18:55,090
+Letting her see things ain't fit for the eyes of a decent girl.
+
+252
+00:18:55,300 --> 00:18:57,970
+All right, that's all. Come back tomorrow.
+
+253
+00:19:03,560 --> 00:19:05,310
+What do you do now?
+
+254
+00:19:05,770 --> 00:19:07,980
+Like Big Mac said, come back tomorrow.
+
+255
+00:19:08,070 --> 00:19:10,030
+Tomorrow? No ship tomorrow.
+
+256
+00:19:10,110 --> 00:19:13,650
+I've been standing here for five straight mornings and that bum there...
+
+257
+00:19:13,740 --> 00:19:17,410
+-Come on, get out of here! -looks right through you.
+
+258
+00:19:18,080 --> 00:19:22,370
+-I'm sorry, Father, I didn't mean it. -What do you want to do?
+
+259
+00:19:22,710 --> 00:19:24,580
+Come on, let's go get a ball.
+
+260
+00:19:24,670 --> 00:19:28,000
+Wait a minute. Is this all you do, just take it like this?
+
+261
+00:19:29,550 --> 00:19:31,260
+What about your unions?
+
+262
+00:19:35,260 --> 00:19:38,260
+No other union in the country'd stand for a thing like that.
+
+263
+00:19:38,350 --> 00:19:41,770
+The waterfront is tougher, Father, like it ain't part of America.
+
+264
+00:19:41,850 --> 00:19:45,650
+-Do you know how a trigger local works? -No. How?
+
+265
+00:19:45,730 --> 00:19:47,980
+You get up in the meeting, you make a motion,
+
+266
+00:19:47,980 --> 00:19:50,400
+the lights go out, then you go out.
+
+267
+00:19:50,480 --> 00:19:54,030
+That's how it's been since Johnny and his cowboys took over the local.
+
+268
+00:19:54,110 --> 00:19:57,280
+Name one place where it's safe to talk without getting clobbered.
+
+269
+00:19:57,370 --> 00:19:59,490
+-The church. -What?
+
+270
+00:20:01,990 --> 00:20:03,790
+The bottom of the church.
+
+271
+00:20:03,870 --> 00:20:06,540
+You know what you're letting yourself in for?
+
+272
+00:20:08,500 --> 00:20:10,340
+You got a cigarette on you?
+
+273
+00:20:21,930 --> 00:20:23,560
+Right over there.
+
+274
+00:20:31,020 --> 00:20:33,650
+-You working hard? -Yeah.
+
+275
+00:20:33,740 --> 00:20:38,360
+You wouldn't mind working once in a while to justify this lofty position, would you?
+
+276
+00:20:39,990 --> 00:20:42,540
+I finished the work. I counted all them bags.
+
+277
+00:20:42,620 --> 00:20:44,500
+We have an extra detail for you.
+
+278
+00:20:44,580 --> 00:20:47,920
+That's if you don't mind being disturbed or anything.
+
+279
+00:20:50,000 --> 00:20:54,420
+The priest and this Doyle girl are getting a meeting up together down at the church.
+
+280
+00:20:54,510 --> 00:20:57,840
+We want a rundown on the names and the numbers of all the players.
+
+281
+00:20:57,930 --> 00:21:01,010
+Wait a minute. All right, you're nominated.
+
+282
+00:21:01,140 --> 00:21:04,060
+Why me, Charley? I feel funny going down there.
+
+283
+00:21:04,600 --> 00:21:06,560
+I'd just be stooling for you.
+
+284
+00:21:06,640 --> 00:21:10,360
+Let me tell you what stooling is. Stooling is when you rat on your friend...
+
+285
+00:21:10,440 --> 00:21:12,690
+the guys you're with. Johnny wants a favour.
+
+286
+00:21:12,770 --> 00:21:14,940
+Don't think about it. Do it.
+
+287
+00:21:15,820 --> 00:21:19,200
+Go on. Join the congregation.
+
+288
+00:21:35,590 --> 00:21:38,260
+I thought there would be more of you here, but....
+
+289
+00:21:40,090 --> 00:21:44,100
+The Romans found out what a handful could do if it's the right handful.
+
+290
+00:21:48,390 --> 00:21:53,020
+I'm just a potato-eater, but isn't it simple as one, two, three?
+
+291
+00:21:53,110 --> 00:21:55,070
+One. The working conditions are bad.
+
+292
+00:21:55,150 --> 00:21:57,690
+Two. They're bad because the mob does the hiring.
+
+293
+00:21:57,780 --> 00:22:02,320
+Three. The only way to break the mob is to stop letting them get away with murder.
+
+294
+00:22:02,490 --> 00:22:05,950
+If one of you'll answer one question, we'd have a very good start.
+
+295
+00:22:06,040 --> 00:22:09,250
+And that question is: Who killed Joey Doyle?
+
+296
+00:22:18,130 --> 00:22:21,130
+Not one of you has a line on who killed Joey Doyle?
+
+297
+00:22:24,890 --> 00:22:28,270
+I have a hunch all of you could tell us something about it.
+
+298
+00:22:30,390 --> 00:22:32,190
+All right, then answer this one:
+
+299
+00:22:32,270 --> 00:22:36,820
+How can we call ourselves Christians and protect these murderers with our silence?
+
+300
+00:22:43,070 --> 00:22:45,700
+Jimmy Collins, you were Joey's best friend.
+
+301
+00:22:46,120 --> 00:22:48,580
+How can you just sit there and not say anything?
+
+302
+00:22:48,660 --> 00:22:52,330
+I'll always think of him as my best friend, but what do you want me to--
+
+303
+00:22:52,420 --> 00:22:54,040
+Who asked him in here?
+
+304
+00:22:55,000 --> 00:22:57,630
+I'm trying to find out what happened to Joey Doyle.
+
+305
+00:22:57,710 --> 00:22:59,920
+-Maybe you can be helpful. -Helpful?
+
+306
+00:23:00,300 --> 00:23:02,130
+The brother of Charley the Gent?
+
+307
+00:23:02,220 --> 00:23:04,590
+They'll help us get to the bottom of the river.
+
+308
+00:23:04,680 --> 00:23:06,640
+You better leave Charley out of this.
+
+309
+00:23:06,720 --> 00:23:10,100
+-You don't think he'd be helpful? -Why don't you ask him yourself?
+
+310
+00:23:10,180 --> 00:23:14,770
+-Maybe I will one of these days. -One of these days.
+
+311
+00:23:16,020 --> 00:23:18,570
+Now, listen, you know who the pistols are.
+
+312
+00:23:19,900 --> 00:23:23,490
+Are you going to keep still until they cut you down one by one?
+
+313
+00:23:25,200 --> 00:23:26,370
+Are you?
+
+314
+00:23:27,740 --> 00:23:29,830
+Dugan! How about you? Are you?
+
+315
+00:23:29,910 --> 00:23:32,620
+One thing you have to understand, Father, on the dock...
+
+316
+00:23:32,710 --> 00:23:34,540
+we've always been D and D.
+
+317
+00:23:34,620 --> 00:23:36,670
+-D and D? What's that? -Deaf and dumb.
+
+318
+00:23:36,750 --> 00:23:39,590
+No matter how much we hate the torpedoes, we don't rat.
+
+319
+00:23:39,670 --> 00:23:42,130
+Rat? Now boys, get smart.
+
+320
+00:23:43,170 --> 00:23:46,300
+I know you're getting pushed around, but there's one thing...
+
+321
+00:23:46,390 --> 00:23:49,310
+we have in this country, and that's ways of fighting back.
+
+322
+00:23:49,390 --> 00:23:51,100
+Getting the facts to the public.
+
+323
+00:23:51,270 --> 00:23:54,190
+Testifying for what is right against what is wrong.
+
+324
+00:23:54,270 --> 00:23:58,310
+What's ratting to them is telling the truth for you, can't you see that?
+
+325
+00:23:59,900 --> 00:24:02,030
+Can't you see that?
+
+326
+00:24:19,210 --> 00:24:22,510
+It seems to me we've gone just about as far as we can at this time.
+
+327
+00:24:22,590 --> 00:24:25,090
+I think you'll agree with that, Father.
+
+328
+00:24:25,340 --> 00:24:28,640
+So, I'd like to close with a few words from St. Matthew:
+
+329
+00:24:29,050 --> 00:24:31,810
+"Come unto me all you--"
+
+330
+00:24:38,600 --> 00:24:41,070
+What did I tell you about sticking your neck out.
+
+331
+00:24:41,190 --> 00:24:42,960
+This is a police problem, not ours.
+
+332
+00:24:42,960 --> 00:24:44,400
+These people need help.
+
+333
+00:24:44,490 --> 00:24:47,610
+Okay. Only don't blame me when they ship you off to Abyssinia.
+
+334
+00:24:47,700 --> 00:24:48,740
+I won't.
+
+335
+00:24:56,250 --> 00:24:59,290
+You better go home in pairs. Twos is two, you know.
+
+336
+00:25:00,590 --> 00:25:01,790
+Come on.
+
+337
+00:25:04,460 --> 00:25:06,880
+Pop!
+
+338
+00:25:18,520 --> 00:25:21,150
+Edie!
+
+339
+00:25:38,870 --> 00:25:40,330
+What's happened to Pop?
+
+340
+00:25:40,420 --> 00:25:43,500
+He's all right. He's an old man, they won't hurt him.
+
+341
+00:25:43,880 --> 00:25:45,130
+Get out, you!
+
+342
+00:25:51,890 --> 00:25:53,470
+Are you all right?
+
+343
+00:25:53,550 --> 00:25:56,390
+Yeah, considering they were using my head for a baseball.
+
+344
+00:25:56,470 --> 00:25:58,940
+You still D and D? Do you still call it ratting?
+
+345
+00:25:59,020 --> 00:26:01,150
+-Are you on the level? -What do you think?
+
+346
+00:26:01,230 --> 00:26:04,270
+If I stick my neck out and it's chopped off, is that the end?
+
+347
+00:26:04,360 --> 00:26:06,980
+-Or will you go all the way? -Down the line.
+
+348
+00:26:07,070 --> 00:26:10,450
+They'll put muscle on you, too, turned-around collar or not.
+
+349
+00:26:10,530 --> 00:26:14,950
+Wipe your face. Listen, you stand up and I'll stand up with you.
+
+350
+00:26:15,030 --> 00:26:16,990
+-Right down the wire? -So help me God.
+
+351
+00:26:21,420 --> 00:26:22,920
+I think we're okay.
+
+352
+00:26:23,000 --> 00:26:25,170
+Steel pipes and baseball bats.
+
+353
+00:26:25,290 --> 00:26:27,510
+They play pretty rough around here.
+
+354
+00:26:27,590 --> 00:26:29,760
+I can make it home now all right.
+
+355
+00:26:31,760 --> 00:26:33,470
+Which side are you with?
+
+356
+00:26:34,640 --> 00:26:36,560
+Me? I'm with me, Terry.
+
+357
+00:26:37,220 --> 00:26:39,680
+You got a dime for a cup of coffee?
+
+358
+00:26:39,770 --> 00:26:41,560
+Go on, beat it, will you?
+
+359
+00:26:41,770 --> 00:26:43,730
+A little dime you don't need?
+
+360
+00:26:44,860 --> 00:26:48,440
+I know you. You're Edie Doyle.
+
+361
+00:26:49,650 --> 00:26:50,860
+Come on. Beat it.
+
+362
+00:26:50,950 --> 00:26:55,370
+Your brother was a saint, the only one who ever tried to get me compensation.
+
+363
+00:26:56,120 --> 00:26:57,450
+You remember, Terry.
+
+364
+00:26:57,540 --> 00:26:59,290
+You was there that night.
+
+365
+00:27:03,080 --> 00:27:05,710
+Here's some change. Go have yourself a ball.
+
+366
+00:27:06,380 --> 00:27:09,880
+You don't buy me. You're still a bum.
+
+367
+00:27:10,630 --> 00:27:11,880
+So long, Edie.
+
+368
+00:27:12,880 --> 00:27:14,590
+Lord have mercy on Joey.
+
+369
+00:27:16,430 --> 00:27:18,140
+Who's calling me a bum?
+
+370
+00:27:21,060 --> 00:27:22,640
+Everybody loved Joey.
+
+371
+00:27:23,940 --> 00:27:26,190
+From little kids to the old rummies.
+
+372
+00:27:28,440 --> 00:27:30,280
+Did you know him very well?
+
+373
+00:27:31,820 --> 00:27:33,530
+You know, he got around.
+
+374
+00:27:35,490 --> 00:27:37,330
+What did that man mean just now?
+
+375
+00:27:37,410 --> 00:27:41,200
+Don't pay no attention to him. He's drunk, he's falling down. Everything.
+
+376
+00:27:41,290 --> 00:27:44,000
+He's a juicehead that hangs around the neighbourhood.
+
+377
+00:27:44,080 --> 00:27:45,790
+Don't pay no attention.
+
+378
+00:27:46,130 --> 00:27:47,500
+I better go now.
+
+379
+00:27:48,340 --> 00:27:51,840
+You don't have to be afraid of me. I'm not going to bite you.
+
+380
+00:27:52,510 --> 00:27:55,930
+I guess they don't let you walk with fellas where you've been?
+
+381
+00:27:56,010 --> 00:27:57,890
+You know how the sisters are.
+
+382
+00:27:57,970 --> 00:27:58,970
+Yeah.
+
+383
+00:27:59,060 --> 00:28:03,180
+-Are you training to be a nun? -lt's just a regular college.
+
+384
+00:28:04,940 --> 00:28:07,270
+It's run by the Sisters of St. Anne.
+
+385
+00:28:08,060 --> 00:28:09,320
+Where is that?
+
+386
+00:28:10,360 --> 00:28:11,610
+In Tarrytown.
+
+387
+00:28:12,820 --> 00:28:15,200
+-Where's that? -ln the country.
+
+388
+00:28:15,740 --> 00:28:18,910
+I don't like the country. The crickets make me nervous.
+
+389
+00:28:21,370 --> 00:28:23,330
+How often do you get in here?
+
+390
+00:28:25,830 --> 00:28:28,380
+I haven't been here since last Christmas.
+
+391
+00:28:28,710 --> 00:28:31,300
+We were going to have a Thanksgiving party.
+
+392
+00:28:33,010 --> 00:28:34,130
+That's nice.
+
+393
+00:28:35,300 --> 00:28:38,050
+What do you do up there? Just study?
+
+394
+00:28:39,140 --> 00:28:40,720
+I want to be a teacher.
+
+395
+00:28:40,810 --> 00:28:43,350
+Teacher? That's very good.
+
+396
+00:28:43,930 --> 00:28:45,730
+Personally, I admire brains.
+
+397
+00:28:45,810 --> 00:28:50,150
+My brother Charley is a very brainy guy. He had a couple of years of college.
+
+398
+00:28:50,730 --> 00:28:54,860
+It isn't just brains. It's how you use them.
+
+399
+00:28:55,030 --> 00:28:57,280
+Yeah, I get your thought.
+
+400
+00:28:57,570 --> 00:28:59,990
+You know, I've seen you a lot of times before.
+
+401
+00:29:00,070 --> 00:29:03,450
+Do you remember parochial school out on Puluski Street?
+
+402
+00:29:03,540 --> 00:29:05,290
+Seven, eight years ago?
+
+403
+00:29:05,370 --> 00:29:07,870
+-Your hair, you had your hair.... -Braids.
+
+404
+00:29:07,960 --> 00:29:10,460
+Looked like a hunk of rope.
+
+405
+00:29:10,540 --> 00:29:14,420
+You had wires on your teeth and glasses. Everything.
+
+406
+00:29:15,470 --> 00:29:17,090
+You was really a mess.
+
+407
+00:29:18,180 --> 00:29:20,510
+I can get home all right now, thanks.
+
+408
+00:29:21,050 --> 00:29:23,890
+Don't get sore. I was just kidding you a little bit.
+
+409
+00:29:23,970 --> 00:29:27,640
+I just mean to tell you that you're, you grew up very nice.
+
+410
+00:29:29,190 --> 00:29:30,230
+Thanks.
+
+411
+00:29:31,400 --> 00:29:33,440
+You don't remember me, do you?
+
+412
+00:29:36,440 --> 00:29:38,820
+I remembered you the first moment I saw you.
+
+413
+00:29:38,910 --> 00:29:40,320
+By the nose, huh?
+
+414
+00:29:44,040 --> 00:29:47,000
+Some people just got faces that stick in your mind.
+
+415
+00:29:50,290 --> 00:29:52,630
+I remember you were in trouble all the time.
+
+416
+00:29:52,710 --> 00:29:54,050
+Now you got me.
+
+417
+00:29:55,670 --> 00:29:59,010
+The way those sisters used to whack me, I don't know what.
+
+418
+00:29:59,840 --> 00:30:04,100
+They thought they was going to beat an education into me, but I foxed them.
+
+419
+00:30:05,930 --> 00:30:08,640
+Maybe they just didn't know how to handle you.
+
+420
+00:30:09,230 --> 00:30:11,060
+How would you have done it?
+
+421
+00:30:12,980 --> 00:30:15,530
+With a little more patience and kindness.
+
+422
+00:30:17,030 --> 00:30:19,320
+That's what makes people mean and difficult.
+
+423
+00:30:19,400 --> 00:30:21,740
+People don't care enough about them.
+
+424
+00:30:26,370 --> 00:30:28,120
+Are you kidding me?
+
+425
+00:30:28,540 --> 00:30:30,210
+I'd better get you home.
+
+426
+00:30:30,290 --> 00:30:34,130
+There's too many guys around here with only one thing on their mind.
+
+427
+00:30:35,880 --> 00:30:37,800
+Am I going to see you again?
+
+428
+00:30:40,800 --> 00:30:42,140
+What for?
+
+429
+00:30:45,390 --> 00:30:46,640
+I don't know.
+
+430
+00:30:51,440 --> 00:30:53,480
+I really don't know.
+
+431
+00:30:59,190 --> 00:31:00,530
+Come on.
+
+432
+00:31:17,630 --> 00:31:22,300
+You're all packed. Here's your bus ticket and you're on your way back to St. Anne's.
+
+433
+00:31:23,010 --> 00:31:25,180
+I'm not ready to go back yet, Pop.
+
+434
+00:31:25,850 --> 00:31:29,060
+Edie, for years your mom and me put quarters in the cookie jar...
+
+435
+00:31:29,140 --> 00:31:31,850
+to keep you up there with the sisters...
+
+436
+00:31:32,100 --> 00:31:35,900
+and keep you from things like I've just seen outside the window.
+
+437
+00:31:36,270 --> 00:31:39,440
+A daughter of mine walking arm in arm with Terry Malloy.
+
+438
+00:31:39,530 --> 00:31:42,200
+-Do you know who Terry Malloy is? -Who is he, Pop?
+
+439
+00:31:42,280 --> 00:31:44,910
+He's the kid brother of Charley the Gent...
+
+440
+00:31:45,070 --> 00:31:49,290
+who is Johnny Friendly's right hand and a butcher in a camel hair coat.
+
+441
+00:31:50,910 --> 00:31:53,250
+Are you trying to tell me Terry is, too?
+
+442
+00:31:53,330 --> 00:31:55,040
+He tries to act tough...
+
+443
+00:31:57,590 --> 00:31:59,750
+but there's a look in his eye.
+
+444
+00:32:00,090 --> 00:32:04,220
+Yeah, a look in his eye. Hold your hats, brothers, here we go again.
+
+445
+00:32:04,840 --> 00:32:08,930
+You think he's one of them cases you're always dragging into the house...
+
+446
+00:32:09,010 --> 00:32:10,470
+and feeling sorry for...
+
+447
+00:32:10,560 --> 00:32:13,180
+like that litter of kittens you brought in.
+
+448
+00:32:13,430 --> 00:32:18,360
+The only one you wanted to keep had six toes and was cockeyed to boot.
+
+449
+00:32:19,190 --> 00:32:21,150
+Look at him. The little bum.
+
+450
+00:32:21,650 --> 00:32:23,820
+He said he wants to see me again.
+
+451
+00:32:30,740 --> 00:32:32,450
+See this arm?
+
+452
+00:32:34,790 --> 00:32:36,960
+Two inches longer than the other.
+
+453
+00:32:37,500 --> 00:32:43,920
+That's from years of working and sweating, lifting and swinging a hook.
+
+454
+00:32:46,130 --> 00:32:50,720
+Every time I heist a box or a coffee bag, I says to myself...
+
+455
+00:32:51,180 --> 00:32:54,810
+that is for Edie so she can be a teacher or something decent.
+
+456
+00:32:57,400 --> 00:33:00,690
+I promised your mom, Edie. Don't let her down.
+
+457
+00:33:03,740 --> 00:33:07,360
+I don't want you to think I'm not grateful for everything you've done.
+
+458
+00:33:07,450 --> 00:33:10,990
+For giving me the education and keeping me away from all this.
+
+459
+00:33:12,120 --> 00:33:14,660
+But I've seen things that I know are so wrong.
+
+460
+00:33:14,750 --> 00:33:19,290
+How can I go back to school and keep my mind on things that are just in books...
+
+461
+00:33:19,380 --> 00:33:21,340
+that aren't people living?
+
+462
+00:33:22,500 --> 00:33:24,050
+I'm going to stay.
+
+463
+00:33:24,130 --> 00:33:28,130
+I'm going to keep on trying to find out who is guilty for Joey.
+
+464
+00:34:18,850 --> 00:34:21,350
+What are you doing up there on the roof?
+
+465
+00:34:23,520 --> 00:34:24,940
+Just looking.
+
+466
+00:34:25,980 --> 00:34:29,110
+Take a look at the champion flock of the neighbourhood.
+
+467
+00:34:30,860 --> 00:34:32,450
+Fly pretty nice, huh?
+
+468
+00:34:34,080 --> 00:34:35,450
+Golden Warriors?
+
+469
+00:34:36,830 --> 00:34:40,290
+Yeah. I founded the Golden Warriors.
+
+470
+00:34:41,000 --> 00:34:43,580
+Might say that I was the original Golden Warrior.
+
+471
+00:34:46,090 --> 00:34:47,960
+This bum here is my shadow.
+
+472
+00:34:48,260 --> 00:34:51,180
+He thinks I'm a tough man because I boxed pro a lot.
+
+473
+00:35:00,100 --> 00:35:01,850
+Joey used to raise pigeons.
+
+474
+00:35:04,360 --> 00:35:06,110
+Yeah, he had a few birds.
+
+475
+00:35:09,150 --> 00:35:11,150
+I've been taking care of them.
+
+476
+00:35:11,700 --> 00:35:15,030
+I wouldn't have thought you'd be so interested in pigeons.
+
+477
+00:35:17,290 --> 00:35:18,830
+I just go for it.
+
+478
+00:35:22,080 --> 00:35:24,330
+You know this city is full of hawks?
+
+479
+00:35:24,750 --> 00:35:28,210
+That's a fact. They hang around on top of the big hotels.
+
+480
+00:35:30,170 --> 00:35:33,720
+They spot a pigeon in the park, right down on them.
+
+481
+00:35:36,010 --> 00:35:37,390
+You got a second?
+
+482
+00:35:41,480 --> 00:35:43,440
+I want to show you something.
+
+483
+00:35:52,150 --> 00:35:54,860
+What do you think of that fellow?
+
+484
+00:35:55,570 --> 00:35:56,870
+She's a beauty.
+
+485
+00:35:56,950 --> 00:35:59,040
+She's a he. His name is Swifty.
+
+486
+00:36:00,750 --> 00:36:02,540
+Look what he went and did.
+
+487
+00:36:07,420 --> 00:36:11,880
+He's my lead bird. He's always on top of the perch. If another bum tries...
+
+488
+00:36:11,960 --> 00:36:15,590
+to come along and take his place, he really lets him have it.
+
+489
+00:36:17,470 --> 00:36:19,430
+Even pigeons aren't peaceful.
+
+490
+00:36:21,810 --> 00:36:24,850
+There's one thing about them, they're very faithful.
+
+491
+00:36:25,480 --> 00:36:27,310
+They get married just like people.
+
+492
+00:36:27,400 --> 00:36:28,360
+Better.
+
+493
+00:36:29,320 --> 00:36:31,900
+They stay that way until one of them dies.
+
+494
+00:36:33,530 --> 00:36:34,820
+That's nice.
+
+495
+00:36:41,240 --> 00:36:42,950
+Go ahead. Fix the roof.
+
+496
+00:36:46,830 --> 00:36:48,540
+You want that egg?
+
+497
+00:36:52,090 --> 00:36:53,590
+Thanks.
+
+498
+00:36:58,140 --> 00:36:59,550
+Do you like beer?
+
+499
+00:37:01,760 --> 00:37:03,220
+I don't know.
+
+500
+00:37:05,230 --> 00:37:07,480
+I bet you never had a glass of beer.
+
+501
+00:37:07,940 --> 00:37:10,610
+-Did you ever have a glass of beer? -No.
+
+502
+00:37:14,900 --> 00:37:16,860
+You want to have one with me?
+
+503
+00:37:18,910 --> 00:37:20,200
+In a saloon?
+
+504
+00:37:20,830 --> 00:37:25,370
+I know a nice dump down here that has a special entrance for ladies.
+
+505
+00:37:30,790 --> 00:37:32,500
+Come on, it won't hurt.
+
+506
+00:37:35,670 --> 00:37:36,920
+Come on.
+
+507
+00:37:40,340 --> 00:37:41,600
+Okay.
+
+508
+00:37:48,640 --> 00:37:50,150
+Hey, you, mac.
+
+509
+00:37:52,070 --> 00:37:54,480
+Two Glockenheimers and two for chasers.
+
+510
+00:37:55,860 --> 00:37:58,280
+-Did you see the fight last night? -No.
+
+511
+00:37:58,820 --> 00:38:01,950
+A kid named Riley, both hands. Like you used to do.
+
+512
+00:38:04,290 --> 00:38:06,450
+I hope he got better dice than me.
+
+513
+00:38:10,290 --> 00:38:12,460
+Were you really a prizefighter?
+
+514
+00:38:13,960 --> 00:38:15,210
+I used to be.
+
+515
+00:38:17,090 --> 00:38:19,300
+How did you get interested in that?
+
+516
+00:38:19,510 --> 00:38:24,140
+I don't know. I had to scrap all my life, I might as well get paid for it.
+
+517
+00:38:25,470 --> 00:38:28,020
+When I was a kid my old man got bumped off.
+
+518
+00:38:28,100 --> 00:38:32,310
+Never mind how. Then they stuck Charley and me...
+
+519
+00:38:34,320 --> 00:38:36,690
+in a dump they call a "children's home."
+
+520
+00:38:38,820 --> 00:38:40,530
+Boy, that was some home.
+
+521
+00:38:41,910 --> 00:38:45,410
+Anyhow, I ran away from there and fought in the club smokers...
+
+522
+00:38:45,490 --> 00:38:48,580
+and peddled papers and Johnny Friendly bought a piece of me.
+
+523
+00:38:48,660 --> 00:38:50,160
+Bought a piece of you?
+
+524
+00:38:50,250 --> 00:38:53,420
+Yes. Then...
+
+525
+00:38:54,290 --> 00:38:56,960
+I was going pretty good there for awhile.
+
+526
+00:38:57,300 --> 00:38:58,720
+And after that....
+
+527
+00:39:03,140 --> 00:39:05,640
+What do you really care, am I right?
+
+528
+00:39:08,560 --> 00:39:11,270
+Shouldn't everybody care about everybody else?
+
+529
+00:39:14,440 --> 00:39:16,440
+Boy, what a fruitcake you are.
+
+530
+00:39:17,570 --> 00:39:20,450
+I mean, isn't everybody a part of everybody else?
+
+531
+00:39:20,950 --> 00:39:23,070
+And you really believe that drool?
+
+532
+00:39:23,160 --> 00:39:24,490
+Yes, I do.
+
+533
+00:39:26,870 --> 00:39:29,950
+Here we are. One for the lady and for the gent.
+
+534
+00:39:32,420 --> 00:39:35,330
+Here's to the first one, I hope it ain't the last.
+
+535
+00:39:37,380 --> 00:39:38,880
+Go ahead.
+
+536
+00:39:44,970 --> 00:39:46,890
+No, not like that. One hum.
+
+537
+00:39:59,070 --> 00:40:01,650
+Do you want to hear my philosophy of life?
+
+538
+00:40:04,740 --> 00:40:07,120
+Do it to him before he does it to you.
+
+539
+00:40:07,990 --> 00:40:09,910
+I never met anyone like you.
+
+540
+00:40:11,700 --> 00:40:16,630
+There's not a spark of sentiment, or romance...
+
+541
+00:40:16,710 --> 00:40:18,840
+or human kindness in your whole body.
+
+542
+00:40:18,920 --> 00:40:21,670
+What good does it to you besides get you in trouble?
+
+543
+00:40:21,760 --> 00:40:25,640
+And when things and people get in your way, you just knock them aside...
+
+544
+00:40:25,720 --> 00:40:27,800
+get rid of them. Is that your idea?
+
+545
+00:40:27,890 --> 00:40:31,810
+Don't look at me when you say that. It wasn't my fault what happened to Joey.
+
+546
+00:40:31,890 --> 00:40:33,690
+Fixing him wasn't my idea.
+
+547
+00:40:34,940 --> 00:40:36,310
+Who said it was?
+
+548
+00:40:36,690 --> 00:40:39,020
+Everybody's putting the needle on me.
+
+549
+00:40:39,730 --> 00:40:42,570
+You and the mugs in the church and Father Barry.
+
+550
+00:40:42,650 --> 00:40:44,900
+I didn't like the way he was looking at me.
+
+551
+00:40:44,990 --> 00:40:47,240
+He was looking at everybody the same way.
+
+552
+00:40:47,320 --> 00:40:48,410
+Oh, yeah?
+
+553
+00:40:49,370 --> 00:40:51,370
+What's with this Father Barry?
+
+554
+00:40:51,700 --> 00:40:53,830
+-What's his racket? -His racket?
+
+555
+00:40:54,080 --> 00:40:55,460
+Yeah, his racket.
+
+556
+00:40:55,540 --> 00:40:57,920
+-Everybody's got a racket. -But he's a priest.
+
+557
+00:40:58,000 --> 00:40:59,540
+Are you kidding, so what?
+
+558
+00:40:59,630 --> 00:41:03,460
+-That don't make no difference. -You don't believe anybody, do you?
+
+559
+00:41:04,380 --> 00:41:06,590
+Down here it's every man for himself.
+
+560
+00:41:06,680 --> 00:41:10,140
+It's keeping alive. It's standing with the right people so you get...
+
+561
+00:41:10,220 --> 00:41:12,720
+a little bit of change in your pocket.
+
+562
+00:41:12,810 --> 00:41:15,520
+-And if you don't? -lf you don't? Right down.
+
+563
+00:41:17,400 --> 00:41:19,230
+It's living like an animal.
+
+564
+00:41:20,190 --> 00:41:23,110
+I'd rather live like an animal than end up like....
+
+565
+00:41:23,190 --> 00:41:24,280
+Like Joey?
+
+566
+00:41:25,900 --> 00:41:28,410
+-Are you afraid to mention his name? -No.
+
+567
+00:41:30,280 --> 00:41:32,540
+Why do you keep harping on that for?
+
+568
+00:41:33,910 --> 00:41:37,290
+Come on, drink up. You got to get a little fun out of life.
+
+569
+00:41:37,540 --> 00:41:39,750
+Come on. I'll stick some music on.
+
+570
+00:41:47,050 --> 00:41:48,550
+What's the matter?
+
+571
+00:41:56,180 --> 00:41:58,900
+What's the matter with you?
+
+572
+00:42:02,190 --> 00:42:04,400
+Help me if you can for God's sake.
+
+573
+00:42:08,650 --> 00:42:10,490
+Edie, I'd like to help.
+
+574
+00:42:11,700 --> 00:42:14,450
+I'd like to help, but there's nothing I can do.
+
+575
+00:42:16,370 --> 00:42:17,750
+All right.
+
+576
+00:42:20,630 --> 00:42:22,460
+I shouldn't have asked you.
+
+577
+00:42:24,590 --> 00:42:26,800
+Edie, come on. Have a little beer.
+
+578
+00:42:27,470 --> 00:42:28,930
+Come on.
+
+579
+00:42:31,180 --> 00:42:32,510
+I don't want it.
+
+580
+00:42:36,850 --> 00:42:39,190
+You just stay here and finish your drink.
+
+581
+00:42:39,270 --> 00:42:42,770
+Don't go. I've got my whole life to drink.
+
+582
+00:42:48,190 --> 00:42:49,900
+Are you sore at me?
+
+583
+00:42:53,870 --> 00:42:55,200
+What for?
+
+584
+00:43:01,000 --> 00:43:03,630
+I don't know, for not being no help to you.
+
+585
+00:43:08,340 --> 00:43:10,630
+You would if you could.
+
+586
+00:43:23,230 --> 00:43:25,110
+Here I come.
+
+587
+00:43:25,310 --> 00:43:27,980
+Pick a winner.
+
+588
+00:43:28,480 --> 00:43:30,900
+First I got to kiss the bride.
+
+589
+00:43:30,990 --> 00:43:34,620
+Go on, you've kissed her before!
+
+590
+00:43:43,000 --> 00:43:46,040
+You can get out that way. You want me to take you?
+
+591
+00:43:52,800 --> 00:43:55,890
+-Come on. What's going on here? -Give me a cigarette.
+
+592
+00:43:55,970 --> 00:43:58,180
+You've got to stop smoking so much.
+
+593
+00:43:59,520 --> 00:44:01,770
+Come on, we'll get out through here.
+
+594
+00:44:03,270 --> 00:44:04,730
+What's the matter?
+
+595
+00:44:10,900 --> 00:44:12,150
+Come on.
+
+596
+00:44:12,240 --> 00:44:13,860
+That's a pretty tune.
+
+597
+00:44:18,330 --> 00:44:21,330
+Here's a stick of gum. It'll do you good.
+
+598
+00:44:22,500 --> 00:44:24,870
+-Thank you. -Do you like that music?
+
+599
+00:44:31,800 --> 00:44:34,840
+If I had my tuxedo, I'd ask you to dance, but....
+
+600
+00:44:36,340 --> 00:44:38,260
+Come on. You want to spin?
+
+601
+00:44:43,430 --> 00:44:45,520
+Come on, don't be afraid.
+
+602
+00:44:46,730 --> 00:44:48,520
+You dance divinely.
+
+603
+00:44:59,450 --> 00:45:01,160
+I think we're doing pretty good.
+
+604
+00:45:02,330 --> 00:45:04,580
+The sisters ought to see you now.
+
+605
+00:45:07,500 --> 00:45:08,920
+Wait a minute.
+
+606
+00:45:12,800 --> 00:45:15,170
+I feel like I'm just floating.
+
+607
+00:45:16,630 --> 00:45:18,140
+I'm just floating.
+
+608
+00:45:20,850 --> 00:45:22,270
+Just floating.
+
+609
+00:45:30,150 --> 00:45:33,530
+I been looking all over for you, Terry. The boss wants you.
+
+610
+00:45:34,860 --> 00:45:35,990
+Right now?
+
+611
+00:45:36,490 --> 00:45:39,120
+Yeah, he just got a call from "Mr. Upstairs."
+
+612
+00:45:39,910 --> 00:45:42,450
+Something's gone wrong. He's plenty hot.
+
+613
+00:45:42,950 --> 00:45:44,790
+I'm going to take her home first.
+
+614
+00:45:44,870 --> 00:45:47,790
+I wouldn't do that. I'll see the little lady home.
+
+615
+00:45:48,790 --> 00:45:51,250
+Tell him I'll come over there when I'm ready.
+
+616
+00:45:51,340 --> 00:45:54,210
+Hey, wait up!
+
+617
+00:45:56,220 --> 00:45:57,550
+Who was that?
+
+618
+00:45:58,840 --> 00:46:01,850
+I don't know. Some mug.
+
+619
+00:46:04,470 --> 00:46:05,890
+Who was he?
+
+620
+00:46:06,930 --> 00:46:10,440
+You got to quit trying to find out about Joey. It ain't safe.
+
+621
+00:46:10,520 --> 00:46:12,650
+I'm telling you it ain't safe.
+
+622
+00:46:13,400 --> 00:46:16,150
+Mr. Malloy, I was hoping I might find you here.
+
+623
+00:46:16,320 --> 00:46:17,450
+Excuse me, Miss.
+
+624
+00:46:17,530 --> 00:46:20,370
+You're being served with a subpoena, Mr. Malloy.
+
+625
+00:46:21,320 --> 00:46:22,330
+What?
+
+626
+00:46:22,410 --> 00:46:26,080
+Be at the State House, Courtroom 9, 10:00 Friday morning.
+
+627
+00:46:26,620 --> 00:46:29,170
+I told you I don't know nothing about that.
+
+628
+00:46:29,250 --> 00:46:31,130
+You can bring a lawyer if you wish.
+
+629
+00:46:31,210 --> 00:46:34,340
+You're privileged under the constitution to protect yourself...
+
+630
+00:46:34,420 --> 00:46:37,920
+against questions which might implicate you in any crimes.
+
+631
+00:46:39,220 --> 00:46:41,220
+You know what they're asking me to do?
+
+632
+00:46:41,300 --> 00:46:44,310
+All we want you to do, Mr. Malloy, is tell the truth.
+
+633
+00:46:45,970 --> 00:46:49,060
+Goodnight, kid. Nice wedding.
+
+634
+00:46:53,770 --> 00:46:55,530
+What are you going to do?
+
+635
+00:46:56,900 --> 00:47:00,360
+I ain't going to eat cheese for no cop and that's for sure.
+
+636
+00:47:05,240 --> 00:47:08,370
+It was Johnny Friendly who had Joey killed, wasn't it?
+
+637
+00:47:08,540 --> 00:47:11,670
+He had him killed or he had something to do with it, didn't he?
+
+638
+00:47:11,750 --> 00:47:13,840
+He and your big brother Charley?
+
+639
+00:47:14,540 --> 00:47:17,670
+You can't tell me, can you, because you're a part of it.
+
+640
+00:47:17,880 --> 00:47:21,550
+Because you're just as bad as the worst of them. Tell me the truth.
+
+641
+00:47:21,630 --> 00:47:24,300
+You better go back to that school out in daisyland.
+
+642
+00:47:24,390 --> 00:47:27,270
+You're driving yourself nuts, you're driving me nuts.
+
+643
+00:47:27,350 --> 00:47:31,020
+Quit worrying about the truth all the time. Worry about yourself.
+
+644
+00:47:31,730 --> 00:47:33,900
+I should've known you wouldn't tell me.
+
+645
+00:47:33,980 --> 00:47:37,820
+Pop said Johnny Friendly used to own you. I think he still owns you.
+
+646
+00:47:40,450 --> 00:47:42,700
+No wonder everybody calls you a bum.
+
+647
+00:47:45,410 --> 00:47:48,120
+Don't say that to me, Edie, don't say that to me now.
+
+648
+00:47:48,200 --> 00:47:52,120
+No wonder.
+
+649
+00:47:52,210 --> 00:47:54,290
+I'm only trying to help you out.
+
+650
+00:47:54,460 --> 00:47:58,250
+I'm trying to keep you from getting hurt. What more do you want me to do?
+
+651
+00:47:58,340 --> 00:48:00,210
+-Much more. -Wait a minute.
+
+652
+00:48:00,300 --> 00:48:01,920
+Much, much, much more.
+
+653
+00:48:02,880 --> 00:48:04,680
+Where are you going?
+
+654
+00:48:34,080 --> 00:48:37,290
+Hi there, Johnny, I was just coming over there.
+
+655
+00:48:38,540 --> 00:48:42,300
+-Where were you, in Chicago? -No, I was just on my way over there.
+
+656
+00:48:43,380 --> 00:48:45,760
+How many times you been knocked out, Terry?
+
+657
+00:48:45,840 --> 00:48:47,680
+Knocked out? Two times.
+
+658
+00:48:47,970 --> 00:48:49,810
+That's once too often.
+
+659
+00:48:49,890 --> 00:48:53,690
+Your brains must be rattling. What you got up there, Chinese bells?
+
+660
+00:48:53,810 --> 00:48:56,730
+I thought you were gonna keep an eye on that church meeting.
+
+661
+00:48:56,810 --> 00:48:59,270
+I was there. Nothing was happening.
+
+662
+00:48:59,360 --> 00:49:02,490
+Nothing happening! Some operator you got yourself there.
+
+663
+00:49:02,570 --> 00:49:05,280
+One more like him, we'd all be wearing striped pyjamas.
+
+664
+00:49:05,360 --> 00:49:09,280
+I'm telling you, Johnny, it was a big nothing. The priest did all the talking.
+
+665
+00:49:09,370 --> 00:49:12,950
+Half an hour later, a certain Timothy J. Dugan had a secret session...
+
+666
+00:49:13,040 --> 00:49:16,710
+with the crime commission, and he done all the talking.
+
+667
+00:49:17,920 --> 00:49:19,670
+Dugan, what does he know?
+
+668
+00:49:20,040 --> 00:49:22,630
+Just 39 pages of our operation, that's all.
+
+669
+00:49:25,170 --> 00:49:26,680
+Where'd you get that?
+
+670
+00:49:26,760 --> 00:49:29,970
+-I got it. -The complete works of Timothy J. Dugan.
+
+671
+00:49:33,850 --> 00:49:35,850
+I knew he had the guts, but I never--
+
+672
+00:49:35,940 --> 00:49:39,270
+Guts! Why, that crummy pigeon. He ought to have his neck wrung!
+
+673
+00:49:39,360 --> 00:49:42,940
+That's what we get for mixing with this punch-drunk brother of yours.
+
+674
+00:49:43,030 --> 00:49:45,610
+He was good for laughs, but this is business.
+
+675
+00:49:45,700 --> 00:49:48,160
+I don't like anyone goofing off in my business.
+
+676
+00:49:48,240 --> 00:49:51,160
+-I wasn't... -Why are you going around with his sister?
+
+677
+00:49:51,240 --> 00:49:52,620
+Just shut up!
+
+678
+00:49:55,040 --> 00:49:58,370
+It's just the Doyle broad, she's got him so he doesn't...
+
+679
+00:49:58,460 --> 00:50:00,380
+know where his feet is anymore.
+
+680
+00:50:00,460 --> 00:50:02,380
+It's an unhealthy relationship.
+
+681
+00:50:02,460 --> 00:50:05,550
+-Definitely! -Get rid of her...
+
+682
+00:50:05,630 --> 00:50:07,840
+unless you're both tired of living.
+
+683
+00:50:07,930 --> 00:50:09,430
+-You got her address? -Yeah.
+
+684
+00:50:09,510 --> 00:50:11,890
+We've got to do something to muzzle Dugan...
+
+685
+00:50:11,970 --> 00:50:14,930
+or he'll raise the biggest stink this town's ever seen.
+
+686
+00:50:15,020 --> 00:50:17,140
+We got the best muscle on the waterfront.
+
+687
+00:50:17,230 --> 00:50:20,020
+The time to use it is now. Pronto, if not sooner.
+
+688
+00:50:20,100 --> 00:50:24,070
+You know where you're going? Back in the hold. No more cushy job in the loft.
+
+689
+00:50:24,150 --> 00:50:28,070
+It's down in the hold with the sweat gang till you learn your lesson.
+
+690
+00:50:33,160 --> 00:50:34,450
+Let's go.
+
+691
+00:50:34,580 --> 00:50:36,120
+Wise up!
+
+692
+00:51:16,080 --> 00:51:18,960
+Come on, you're all right. Let's do it.
+
+693
+00:51:19,540 --> 00:51:21,330
+At last an Irish shipment.
+
+694
+00:51:21,580 --> 00:51:25,290
+And loaded to the gunnels with fine Irish whiskey.
+
+695
+00:51:25,590 --> 00:51:28,590
+You see, Kayo, the good Lord takes care of us all the time.
+
+696
+00:51:28,670 --> 00:51:31,300
+-That he does. -Come on out, Kayo, get it up.
+
+697
+00:51:31,380 --> 00:51:33,760
+All right, take it up. Take it away.
+
+698
+00:51:36,260 --> 00:51:38,470
+And don't go walking off with any of that!
+
+699
+00:51:38,560 --> 00:51:41,350
+You know how the boss feels about individual pilferage.
+
+700
+00:51:41,440 --> 00:51:42,980
+All right, all right.
+
+701
+00:51:43,560 --> 00:51:46,770
+Now you see the advantage of a little man in a big coat.
+
+702
+00:51:53,110 --> 00:51:56,200
+-Let me see you a minute afterwards. -What're you here for?
+
+703
+00:51:56,280 --> 00:51:59,540
+To see that we don't steal any of Mr. Friendly's precious cargo?
+
+704
+00:51:59,620 --> 00:52:02,370
+-I want to talk to you. -Get away from me, will you?
+
+705
+00:52:02,460 --> 00:52:04,830
+All right. Take it up. Take it away.
+
+706
+00:52:18,810 --> 00:52:20,980
+Kayo, you're a walking distillery.
+
+707
+00:52:29,480 --> 00:52:31,070
+Watch it!
+
+708
+00:52:33,070 --> 00:52:34,280
+Get a doctor!
+
+709
+00:52:34,820 --> 00:52:37,450
+He don't need a doctor. He needs a priest.
+
+710
+00:52:53,510 --> 00:52:55,720
+I came down here to keep a promise.
+
+711
+00:52:56,470 --> 00:52:59,180
+I gave Kayo my word that if he stood up to the Mob...
+
+712
+00:52:59,260 --> 00:53:02,140
+I'd stand up with him all the way.
+
+713
+00:53:03,270 --> 00:53:05,190
+And now Kayo Dugan is dead.
+
+714
+00:53:05,850 --> 00:53:08,900
+He was one of those fellows who had the gift for standing up.
+
+715
+00:53:08,980 --> 00:53:10,780
+This time they fixed him.
+
+716
+00:53:10,860 --> 00:53:14,320
+They fixed him for good this time, unless it was an accident...
+
+717
+00:53:14,530 --> 00:53:16,160
+like Big Mac says.
+
+718
+00:53:17,070 --> 00:53:20,740
+Some people think the Crucifixion only took place on Calvary.
+
+719
+00:53:20,830 --> 00:53:22,870
+They better wise up.
+
+720
+00:53:23,370 --> 00:53:27,330
+Taking Joey Doyle's life to stop him from testifying is a crucifixion.
+
+721
+00:53:29,210 --> 00:53:31,380
+Dropping a sling on Kayo Dugan...
+
+722
+00:53:31,460 --> 00:53:34,380
+because he was ready to spill his guts tomorrow...
+
+723
+00:53:34,470 --> 00:53:36,680
+that's a crucifixion.
+
+724
+00:53:37,800 --> 00:53:40,760
+Every time the mob puts the crusher on a good man...
+
+725
+00:53:40,850 --> 00:53:45,350
+tries to stop him from doing his duty as a citizen, it's a crucifixion.
+
+726
+00:53:45,440 --> 00:53:49,020
+And anybody who sits around and lets it happen...
+
+727
+00:53:49,110 --> 00:53:53,230
+keeps silent about something he knows has happened, shares the guilt of it...
+
+728
+00:53:53,320 --> 00:53:55,360
+just as much as the Roman soldier...
+
+729
+00:53:55,450 --> 00:53:58,990
+who pierced the flesh of Our Lord to see if He was dead.
+
+730
+00:54:03,120 --> 00:54:05,410
+Go back to your church, Father.
+
+731
+00:54:05,500 --> 00:54:07,290
+Boys, this is my church.
+
+732
+00:54:08,420 --> 00:54:11,500
+If you don't think Christ is down here on the waterfront...
+
+733
+00:54:11,590 --> 00:54:13,800
+you've got another guess coming!
+
+734
+00:54:14,170 --> 00:54:16,050
+Get off this dock, Father!
+
+735
+00:54:16,920 --> 00:54:18,470
+Tillio, don't do that.
+
+736
+00:54:18,550 --> 00:54:21,350
+-Whose side are you on, boy? -Let him finish.
+
+737
+00:54:21,470 --> 00:54:22,970
+Every morning...
+
+738
+00:54:25,310 --> 00:54:27,980
+when the hiring boss blows his whistle...
+
+739
+00:54:28,940 --> 00:54:31,650
+Jesus stands alongside you in the shape-up.
+
+740
+00:54:31,730 --> 00:54:35,230
+He sees why some of you get picked and some of you get passed over.
+
+741
+00:54:35,320 --> 00:54:38,280
+He sees the family men worrying about getting their rent...
+
+742
+00:54:38,360 --> 00:54:40,780
+and getting food for the wife and kids.
+
+743
+00:54:40,870 --> 00:54:44,160
+He sees you selling your souls to the mob for a day's pay.
+
+744
+00:54:45,290 --> 00:54:47,830
+The next bum that throws something deals with me!
+
+745
+00:54:47,910 --> 00:54:49,870
+I don't care if he's twice my size!
+
+746
+00:54:49,960 --> 00:54:52,420
+What does Christ think of the easy-money boys...
+
+747
+00:54:52,500 --> 00:54:55,000
+who do none of the work and take all the gravy?
+
+748
+00:54:55,090 --> 00:54:58,050
+How does he feel about the fellows who wear $150 suits...
+
+749
+00:54:58,130 --> 00:55:02,390
+and diamond rings on your union dues and your kickback money?
+
+750
+00:55:03,470 --> 00:55:07,730
+And how does He, who spoke up without fear against every evil...
+
+751
+00:55:08,690 --> 00:55:10,400
+feel about your silence?
+
+752
+00:55:10,480 --> 00:55:12,190
+Shut up about that!
+
+753
+00:55:12,310 --> 00:55:13,900
+Just watch this.
+
+754
+00:55:19,490 --> 00:55:20,700
+You see that?
+
+755
+00:55:20,780 --> 00:55:23,370
+You want to know what's wrong with our waterfront?
+
+756
+00:55:23,450 --> 00:55:27,160
+It's the love of a lousy buck. It's making love of a buck, the cushy job...
+
+757
+00:55:27,250 --> 00:55:29,290
+more important than the love of man.
+
+758
+00:55:29,370 --> 00:55:32,830
+It's forgetting that every fellow down here is your brother in Christ.
+
+759
+00:55:32,920 --> 00:55:35,000
+But remember, Christ is always with you.
+
+760
+00:55:35,090 --> 00:55:37,960
+Christ's in the shape-up, in the hatch, in the union hall.
+
+761
+00:55:38,050 --> 00:55:41,840
+He's kneeling right here beside Dugan and He's saying with all of you:
+
+762
+00:55:43,680 --> 00:55:46,680
+"If you do it to the least of mine, you do it to me."
+
+763
+00:55:47,680 --> 00:55:49,770
+What they did to Joey and to Dugan...
+
+764
+00:55:49,850 --> 00:55:53,480
+they're doing to you and you.
+
+765
+00:55:54,650 --> 00:55:55,770
+All of you!
+
+766
+00:55:57,230 --> 00:56:00,950
+And only you, only you with God's help...
+
+767
+00:56:01,030 --> 00:56:03,820
+have the power to knock them out for good.
+
+768
+00:56:11,000 --> 00:56:12,790
+Okay, Kayo.
+
+769
+00:56:27,930 --> 00:56:28,970
+Amen.
+
+770
+00:56:33,190 --> 00:56:37,320
+All right. Come on. Let's go. Break it up. Let's go to work.
+
+771
+00:56:53,000 --> 00:56:56,880
+Edie, here's Joey's jacket. I'm sure Kayo would wish you to have it back.
+
+772
+00:58:14,910 --> 00:58:16,830
+I brought you Joey's jacket.
+
+773
+00:58:17,620 --> 00:58:19,250
+Yours is coming apart.
+
+774
+00:58:25,340 --> 00:58:26,470
+Pigeons.
+
+775
+00:58:28,630 --> 00:58:30,090
+They're nervous.
+
+776
+00:58:30,720 --> 00:58:33,060
+There was a hawk around here before.
+
+777
+00:59:17,930 --> 00:59:20,400
+Father, I want to speak to you a minute.
+
+778
+00:59:22,360 --> 00:59:24,150
+Remember what you said about...
+
+779
+00:59:24,230 --> 00:59:27,490
+Kayo Dugan and keeping your mouth shut when you know the score.
+
+780
+00:59:27,570 --> 00:59:29,530
+I don't want to hear your confession.
+
+781
+00:59:29,610 --> 00:59:33,070
+I'll dig it out for myself and use it where it'll do the most good.
+
+782
+00:59:33,160 --> 00:59:36,330
+-Father Gregory will hear you. -I don't want to talk....
+
+783
+00:59:49,470 --> 00:59:51,300
+Wait a second, wait a minute.
+
+784
+00:59:51,380 --> 00:59:53,760
+I just want to talk to you one second.
+
+785
+00:59:54,970 --> 00:59:56,810
+You've got to listen to me.
+
+786
+00:59:57,180 --> 01:00:00,180
+I'm the one that set Joey Doyle up for the knock off.
+
+787
+01:00:08,480 --> 01:00:11,950
+Come on, take a walk with me, kid, and give it to me straight.
+
+788
+01:00:15,280 --> 01:00:17,870
+There's nothing I haven't heard. Come on.
+
+789
+01:00:30,920 --> 01:00:32,720
+It started out as a favour.
+
+790
+01:00:32,840 --> 01:00:35,680
+Favour, who am I kidding? It's "do it or else."
+
+791
+01:00:35,760 --> 01:00:38,430
+Believe me when I tell you I just thought they were...
+
+792
+01:00:38,560 --> 01:00:41,930
+going to lean on him a bit. I never thought he'd get knocked off.
+
+793
+01:00:42,020 --> 01:00:43,940
+I tried to tell Edie the other night.
+
+794
+01:00:44,020 --> 01:00:46,110
+I really tried to, I wanted to tell her.
+
+795
+01:00:46,190 --> 01:00:49,280
+She's the first nice thing that's ever happened to me.
+
+796
+01:00:49,820 --> 01:00:51,650
+What are you going to do about it?
+
+797
+01:00:51,740 --> 01:00:53,780
+What do you mean? About telling her?
+
+798
+01:00:53,860 --> 01:00:57,030
+Yes, about telling her. The commission. Your subpoena.
+
+799
+01:00:57,120 --> 01:00:58,660
+I know you got a subpoena.
+
+800
+01:00:58,740 --> 01:00:59,990
+I don't know.
+
+801
+01:01:00,620 --> 01:01:03,120
+It's like carrying a monkey around on your back.
+
+802
+01:01:03,210 --> 01:01:05,380
+It's a question of "who rides who."
+
+803
+01:01:06,380 --> 01:01:08,920
+If I spill, my life ain't worth a nickel.
+
+804
+01:01:09,210 --> 01:01:11,880
+And how much is your soul worth if you don't?
+
+805
+01:01:12,760 --> 01:01:15,890
+They're asking me to put the finger on my own brother.
+
+806
+01:01:17,100 --> 01:01:20,390
+Johnny Friendly used to take me to ball games when I was a kid.
+
+807
+01:01:20,470 --> 01:01:22,060
+Don't break my heart.
+
+808
+01:01:22,520 --> 01:01:26,100
+I wouldn't care if he gave you a life pass to the polo grounds.
+
+809
+01:01:26,270 --> 01:01:29,190
+So you've got a brother. Let me tell you something...
+
+810
+01:01:29,270 --> 01:01:31,940
+you've got other brothers getting the short hand...
+
+811
+01:01:32,030 --> 01:01:35,700
+while Johnny is getting mustard on his face at the polo grounds.
+
+812
+01:01:35,780 --> 01:01:36,700
+Ball games.
+
+813
+01:01:36,780 --> 01:01:39,530
+Listen, if I were you, I would walk right....
+
+814
+01:01:41,870 --> 01:01:43,000
+Never mind.
+
+815
+01:01:43,660 --> 01:01:47,920
+I'm not asking you to do anything, your own conscience has to do the asking.
+
+816
+01:01:48,210 --> 01:01:49,380
+Conscience.
+
+817
+01:01:51,420 --> 01:01:54,130
+-That stuff can drive you nuts. -Good luck.
+
+818
+01:01:55,380 --> 01:01:57,390
+Is that all you've got to say?
+
+819
+01:01:59,180 --> 01:02:00,300
+Come here.
+
+820
+01:02:04,060 --> 01:02:05,980
+Edie called me this morning.
+
+821
+01:02:06,440 --> 01:02:08,520
+She's coming here to talk to me.
+
+822
+01:02:10,820 --> 01:02:12,900
+Come on, why don't you tell her?
+
+823
+01:02:15,240 --> 01:02:16,360
+No curves.
+
+824
+01:02:20,410 --> 01:02:21,530
+Okay.
+
+825
+01:02:24,000 --> 01:02:25,160
+Thanks.
+
+826
+01:03:03,530 --> 01:03:05,660
+-You? -Honest to God, Edie....
+
+827
+01:03:16,420 --> 01:03:18,670
+Believe me, I swear to God, Edie....
+
+828
+01:04:12,520 --> 01:04:14,860
+Terry, guess who's here?
+
+829
+01:04:14,940 --> 01:04:17,780
+That joker from the crime commissioner's office.
+
+830
+01:04:38,800 --> 01:04:41,300
+Suppose I knew a guy that knocked somebody off...
+
+831
+01:04:41,380 --> 01:04:43,300
+you think I ought to turn him in?
+
+832
+01:04:43,380 --> 01:04:45,760
+You mean call a cop? Are you kidding?
+
+833
+01:04:45,850 --> 01:04:47,890
+You don't think I ought to turn him in?
+
+834
+01:04:47,970 --> 01:04:49,970
+You was a Golden Warrior once.
+
+835
+01:04:50,890 --> 01:04:52,140
+That's right.
+
+836
+01:04:54,190 --> 01:04:55,770
+You started the gang.
+
+837
+01:05:18,500 --> 01:05:20,000
+You looking for me?
+
+838
+01:05:20,300 --> 01:05:23,380
+No, not exactly. I was just resting my dogs a minute.
+
+839
+01:05:23,670 --> 01:05:28,140
+On the next investigation we get, I hope it's got buildings with elevators in them.
+
+840
+01:05:28,220 --> 01:05:30,890
+So far this one's just been climbing stairs.
+
+841
+01:05:31,470 --> 01:05:33,310
+What do you climb them for?
+
+842
+01:05:33,430 --> 01:05:36,270
+It's worth it if we can tell the waterfront story...
+
+843
+01:05:36,350 --> 01:05:38,860
+the way the people have a right to hear it.
+
+844
+01:05:38,940 --> 01:05:40,320
+Don't you think?
+
+845
+01:05:59,630 --> 01:06:02,510
+Didn't I see you in the Garden three or four years ago...
+
+846
+01:06:02,590 --> 01:06:04,590
+with a fellow named Wilson?
+
+847
+01:06:07,050 --> 01:06:09,640
+I thought you were going to take him that night.
+
+848
+01:06:09,720 --> 01:06:11,510
+Man, he really dumped you.
+
+849
+01:06:13,220 --> 01:06:14,560
+He dumped me?
+
+850
+01:06:18,020 --> 01:06:21,940
+What would you say if I told you I held that bum up for half a round?
+
+851
+01:06:22,690 --> 01:06:25,280
+I could see he was hurt.
+
+852
+01:06:26,240 --> 01:06:29,700
+What did you think I was doing with them combinations, petting him?
+
+853
+01:06:29,780 --> 01:06:31,620
+You just couldn't finish him off?
+
+854
+01:06:31,700 --> 01:06:33,490
+Don't monkey around there.
+
+855
+01:06:34,410 --> 01:06:36,160
+Why didn't you finish him off?
+
+856
+01:06:36,250 --> 01:06:40,080
+-I was doing a favour for some pals. -Favour?
+
+857
+01:06:42,130 --> 01:06:43,590
+That's the way it was.
+
+858
+01:06:43,670 --> 01:06:45,300
+That's the way it was.
+
+859
+01:06:45,380 --> 01:06:48,130
+If I'd have put him down, I'd have had a title shot.
+
+860
+01:06:48,220 --> 01:06:49,720
+I was ready that night.
+
+861
+01:06:49,800 --> 01:06:52,680
+You sure looked it. That's when I figured it was all over.
+
+862
+01:06:52,760 --> 01:06:55,350
+It was all over, except for the lousy bet!
+
+863
+01:06:55,520 --> 01:06:56,770
+-My own. -Yeah.
+
+864
+01:07:02,520 --> 01:07:04,480
+I guess I'd better get going.
+
+865
+01:07:04,940 --> 01:07:06,650
+Hit those stairs again.
+
+866
+01:07:09,160 --> 01:07:12,950
+Was that a hook or an uppercut you caught him with that first time?
+
+867
+01:07:14,040 --> 01:07:16,830
+I didn't use no hooks. I was strictly a short puncher.
+
+868
+01:07:16,910 --> 01:07:18,540
+It looked like a hook to me.
+
+869
+01:07:18,620 --> 01:07:22,090
+I had that bum all figured out. He had a good left hand.
+
+870
+01:07:22,170 --> 01:07:25,300
+I let him tag me with the left hand for a couple of rounds...
+
+871
+01:07:25,380 --> 01:07:29,430
+so just when he starts, he thinks he's getting cute, I step inside a jab...
+
+872
+01:07:29,510 --> 01:07:31,930
+with a left, with a right, with a left.
+
+873
+01:07:32,010 --> 01:07:35,560
+I had him in my arms and from there on in we were just dancing.
+
+874
+01:07:35,640 --> 01:07:37,100
+And that's a fact!
+
+875
+01:07:37,600 --> 01:07:41,400
+When those guys want to win a bet, there's nothing they won't stop at.
+
+876
+01:07:45,070 --> 01:07:46,610
+I didn't hear them, boss...
+
+877
+01:07:46,690 --> 01:07:49,360
+but I seen them nose to nose, like pair of lovers.
+
+878
+01:07:49,450 --> 01:07:51,160
+The flatfoot was eating it up.
+
+879
+01:07:51,240 --> 01:07:54,330
+So they've been seen together and he smiled at her.
+
+880
+01:07:54,410 --> 01:07:56,370
+That doesn't mean he's going to talk.
+
+881
+01:07:56,450 --> 01:07:59,580
+There is no evidence until he gives public testimony.
+
+882
+01:07:59,660 --> 01:08:02,000
+Thanks for the legal advice, Charley.
+
+883
+01:08:02,460 --> 01:08:04,590
+That's what we kept you around here for.
+
+884
+01:08:04,670 --> 01:08:07,050
+How do we keep him from giving this testimony?
+
+885
+01:08:07,130 --> 01:08:10,590
+Ain't that what you call "the main order of business"?
+
+886
+01:08:10,680 --> 01:08:12,050
+He's a good kid.
+
+887
+01:08:12,260 --> 01:08:13,850
+-You know that. -He's a bum.
+
+888
+01:08:13,930 --> 01:08:17,180
+After all the days I gave him in the loft, he's got no gratitude.
+
+889
+01:08:17,270 --> 01:08:18,350
+Shut up!
+
+890
+01:08:19,600 --> 01:08:21,980
+I'm conducting this investigation.
+
+891
+01:08:25,440 --> 01:08:27,940
+This girl and the father, they got their hooks...
+
+892
+01:08:28,030 --> 01:08:31,610
+in the kid so deep he doesn't even know which end is up any more.
+
+893
+01:08:31,700 --> 01:08:34,070
+I ain't interested in his mental condition.
+
+894
+01:08:34,160 --> 01:08:37,330
+All I want to know is: is he D and D or is he a canary?
+
+895
+01:08:40,040 --> 01:08:42,670
+-I wish I knew. -So do l, Charley.
+
+896
+01:08:43,710 --> 01:08:44,960
+For your sake.
+
+897
+01:08:51,670 --> 01:08:53,130
+What do you want me to do?
+
+898
+01:08:53,220 --> 01:08:56,300
+It's simple. Drive him out to this place we've been using...
+
+899
+01:08:56,390 --> 01:09:00,430
+try to straighten him out on the way. If you don't, give him to Gerry G.
+
+900
+01:09:00,520 --> 01:09:01,980
+You can't do that.
+
+901
+01:09:02,770 --> 01:09:06,730
+Maybe the boy is out of line, but he's just a confused kid!
+
+902
+01:09:06,810 --> 01:09:08,320
+Confused kid!
+
+903
+01:09:11,650 --> 01:09:14,530
+First he crosses me in public and gets away with it...
+
+904
+01:09:14,610 --> 01:09:18,120
+then the next joker, pretty soon I'm just another fellow around here!
+
+905
+01:09:18,200 --> 01:09:20,240
+Johnny, I can't do that.
+
+906
+01:09:25,290 --> 01:09:26,460
+Then don't.
+
+907
+01:09:36,970 --> 01:09:39,850
+-Who do you like in the third? -lt's got to be New Hope.
+
+908
+01:09:39,930 --> 01:09:41,100
+Definitely.
+
+909
+01:09:45,230 --> 01:09:46,310
+Johnny...
+
+910
+01:09:48,020 --> 01:09:49,690
+it's my kid brother.
+
+911
+01:09:49,770 --> 01:09:51,730
+That's for you to figure out.
+
+912
+01:09:51,820 --> 01:09:54,450
+You can have it your way or you can have it his way...
+
+913
+01:09:54,530 --> 01:09:57,160
+but you can't have it both ways. Am I right, Truck?
+
+914
+01:09:57,240 --> 01:09:58,410
+Definitely.
+
+915
+01:10:00,240 --> 01:10:01,870
+Okay, on your horse...
+
+916
+01:10:03,750 --> 01:10:05,120
+deep thinker.
+
+917
+01:10:36,990 --> 01:10:37,860
+Hi, Charley.
+
+918
+01:10:38,450 --> 01:10:41,990
+I'm glad you stopped by for me. I've been wanting to talk to you.
+
+919
+01:10:42,080 --> 01:10:43,660
+-Sure, kid. -Where to?
+
+920
+01:10:43,750 --> 01:10:46,160
+Go to River St. I'll tell you where to stop.
+
+921
+01:10:46,250 --> 01:10:48,250
+I thought we was going to the Garden?
+
+922
+01:10:48,330 --> 01:10:50,960
+We are, but I want to cover a bet on the way over.
+
+923
+01:10:51,040 --> 01:10:53,710
+Besides, this'll give us a chance to talk.
+
+924
+01:10:54,340 --> 01:10:57,050
+Nobody ever stopped you from talking, Charley.
+
+925
+01:11:00,470 --> 01:11:03,060
+The grapevine says that you got a subpoena.
+
+926
+01:11:04,270 --> 01:11:06,520
+The guys know you're not a cheese-eater.
+
+927
+01:11:06,600 --> 01:11:09,400
+They think you shouldn't be on the outside so much...
+
+928
+01:11:09,480 --> 01:11:13,320
+but a little on the inside. I have a few things for you at the docks.
+
+929
+01:11:14,480 --> 01:11:15,780
+A steady job...
+
+930
+01:11:16,360 --> 01:11:19,110
+a couple extra potatoes, that's all I want.
+
+931
+01:11:19,700 --> 01:11:21,740
+That's great when you're a kid, but...
+
+932
+01:11:21,820 --> 01:11:24,490
+you're getting on, you're pushing 30, slugger.
+
+933
+01:11:24,580 --> 01:11:27,790
+You know it's time to think about getting some ambition.
+
+934
+01:11:29,790 --> 01:11:33,090
+I always figured I'd live a little bit longer without it.
+
+935
+01:11:35,510 --> 01:11:36,840
+Maybe.
+
+936
+01:11:43,470 --> 01:11:47,680
+There's a boss loader slot that's open on the new pier we're opening up.
+
+937
+01:11:48,850 --> 01:11:51,270
+It pays six cents on every...
+
+938
+01:11:51,600 --> 01:11:55,190
+100 pounds that goes in and every 100 pounds that goes out...
+
+939
+01:11:55,270 --> 01:11:57,280
+and you don't have to lift a finger.
+
+940
+01:11:57,360 --> 01:12:00,070
+That's $200, $300, $400 a week.
+
+941
+01:12:00,280 --> 01:12:03,160
+$400 a week just for the openers.
+
+942
+01:12:03,870 --> 01:12:06,370
+I get all that dough for not doing nothing?
+
+943
+01:12:06,450 --> 01:12:09,330
+You don't do anything and you don't say anything.
+
+944
+01:12:10,160 --> 01:12:11,460
+You understand?
+
+945
+01:12:17,090 --> 01:12:19,760
+There's more to this than I thought, Charley.
+
+946
+01:12:21,010 --> 01:12:23,220
+I'm telling you there's a lot more.
+
+947
+01:12:24,300 --> 01:12:27,970
+You're not thinking of testifying against some people that we might know?
+
+948
+01:12:28,060 --> 01:12:29,680
+I don't know, Charley.
+
+949
+01:12:30,390 --> 01:12:32,650
+That's what I want to talk to you about.
+
+950
+01:12:32,730 --> 01:12:36,690
+Do you know how much the piers are worth that we control through the local?
+
+951
+01:12:36,770 --> 01:12:39,820
+Do you think Johnny's going to jeopardise the whole set-up...
+
+952
+01:12:39,900 --> 01:12:44,070
+for one rubber-lipped, ex-tanker who's walking on his heels? What the....
+
+953
+01:12:44,160 --> 01:12:46,160
+I could've been a lot better.
+
+954
+01:12:46,240 --> 01:12:48,370
+The point is we don't have much time!
+
+955
+01:12:48,450 --> 01:12:51,000
+I'm telling you, I haven't made up my mind yet!
+
+956
+01:12:51,080 --> 01:12:54,130
+Make up your mind before we get to 437 River St!
+
+957
+01:13:02,340 --> 01:13:04,430
+Before we get to where, Charley?
+
+958
+01:13:09,890 --> 01:13:13,440
+Listen, Terry. Take the job, no questions. Take it!
+
+959
+01:13:16,190 --> 01:13:18,320
+Terry, take this job, please.
+
+960
+01:13:49,720 --> 01:13:50,970
+Look, kid....
+
+961
+01:13:55,190 --> 01:13:57,190
+How much do you weigh, slugger?
+
+962
+01:13:59,190 --> 01:14:01,900
+When you weighed 168 pounds...
+
+963
+01:14:03,240 --> 01:14:04,860
+you were beautiful.
+
+964
+01:14:06,990 --> 01:14:09,410
+You could have been another Billy Conn.
+
+965
+01:14:11,660 --> 01:14:13,910
+That skunk we got you for a manager...
+
+966
+01:14:15,120 --> 01:14:17,130
+he brought you along too fast.
+
+967
+01:14:19,250 --> 01:14:21,800
+It wasn't him, Charley. It was you.
+
+968
+01:14:21,920 --> 01:14:23,720
+Remember that night in the Garden?
+
+969
+01:14:23,800 --> 01:14:27,720
+You came down to my dressing room and said, "Kid, this ain't your night.
+
+970
+01:14:27,800 --> 01:14:30,050
+"We're going for the price on Wilson."
+
+971
+01:14:30,890 --> 01:14:32,350
+You remember that?
+
+972
+01:14:33,430 --> 01:14:35,060
+"This ain't your night."
+
+973
+01:14:35,940 --> 01:14:38,860
+My night! I could have taken Wilson apart!
+
+974
+01:14:40,230 --> 01:14:43,570
+So what happens, he gets the title shot outdoors in the ball park...
+
+975
+01:14:43,650 --> 01:14:46,820
+and what do I get? A one-way ticket to Palookaville!
+
+976
+01:14:46,900 --> 01:14:48,660
+You was my brother, Charley.
+
+977
+01:14:48,740 --> 01:14:51,330
+You should have looked out for me a little bit.
+
+978
+01:14:51,410 --> 01:14:54,250
+You should've taken care of me a little so I wouldn't...
+
+979
+01:14:54,330 --> 01:14:56,750
+have to take dives for short-end money.
+
+980
+01:14:56,830 --> 01:14:59,330
+I had some bets down for you. You saw some money.
+
+981
+01:14:59,420 --> 01:15:02,170
+You don't understand, I could have had class!
+
+982
+01:15:02,250 --> 01:15:04,260
+I could have been a contender.
+
+983
+01:15:04,460 --> 01:15:06,300
+I could have been somebody.
+
+984
+01:15:07,430 --> 01:15:08,930
+Instead of a bum...
+
+985
+01:15:09,470 --> 01:15:11,850
+which is what I am. Let's face it.
+
+986
+01:15:17,020 --> 01:15:18,560
+It was you, Charley!
+
+987
+01:15:26,030 --> 01:15:27,070
+Okay.
+
+988
+01:15:31,200 --> 01:15:32,620
+I'll tell them...
+
+989
+01:15:33,910 --> 01:15:35,750
+I couldn't find you.
+
+990
+01:15:35,830 --> 01:15:38,000
+Ten to one they won't believe me.
+
+991
+01:15:44,300 --> 01:15:45,800
+Here, you take this.
+
+992
+01:15:47,510 --> 01:15:49,220
+You're going to need it.
+
+993
+01:15:51,180 --> 01:15:52,470
+You, pull over.
+
+994
+01:16:02,860 --> 01:16:04,480
+Take me to the Garden.
+
+995
+01:16:44,150 --> 01:16:45,900
+Stay away from me!
+
+996
+01:16:51,570 --> 01:16:52,450
+Edie?
+
+997
+01:16:54,530 --> 01:16:56,870
+Come on, open the door, please!
+
+998
+01:16:56,950 --> 01:16:57,990
+Stop it!
+
+999
+01:17:01,710 --> 01:17:03,420
+I want you to stay away from me.
+
+1000
+01:17:03,500 --> 01:17:06,710
+I know what you want me to do but I ain't doing it, so forget it.
+
+1001
+01:17:06,790 --> 01:17:08,880
+I don't want you to do anything.
+
+1002
+01:17:09,010 --> 01:17:11,380
+You let your conscience tell you what to do.
+
+1003
+01:17:11,470 --> 01:17:14,470
+Shut up about that conscience, that's all I've been hearing!
+
+1004
+01:17:14,550 --> 01:17:17,970
+I never mentioned the word before. You just stay away from me!
+
+1005
+01:17:18,060 --> 01:17:19,810
+Edie, you love me.
+
+1006
+01:17:20,810 --> 01:17:24,600
+I didn't say I didn't love you, I said stay away from me!
+
+1007
+01:17:24,690 --> 01:17:27,520
+-I want you to stay with me. -Stay away from me!
+
+1008
+01:18:01,770 --> 01:18:03,180
+Terry!
+
+1009
+01:18:04,850 --> 01:18:09,570
+Terry, your brother's down here! He wants to see you!
+
+1010
+01:18:11,980 --> 01:18:13,030
+Charley?
+
+1011
+01:18:23,370 --> 01:18:25,160
+Your brother's down here.
+
+1012
+01:18:26,250 --> 01:18:27,750
+Come on down here.
+
+1013
+01:18:28,000 --> 01:18:29,540
+He wants to see you.
+
+1014
+01:18:34,050 --> 01:18:35,430
+Come on down!
+
+1015
+01:18:37,010 --> 01:18:39,800
+-What is it Terry? -Charley, he's in trouble.
+
+1016
+01:18:39,970 --> 01:18:41,140
+Be careful.
+
+1017
+01:18:48,900 --> 01:18:49,940
+Charley!
+
+1018
+01:18:50,610 --> 01:18:51,730
+Terry?
+
+1019
+01:18:52,690 --> 01:18:57,160
+Terry! Your brother's down here!
+
+1020
+01:18:59,530 --> 01:19:01,330
+Do you hear what I hear?
+
+1021
+01:19:03,240 --> 01:19:04,290
+Terry!
+
+1022
+01:19:18,550 --> 01:19:21,930
+That's the same way they called Andy, the night I lost him.
+
+1023
+01:19:22,470 --> 01:19:25,140
+Edie, be careful! Edie, be careful!
+
+1024
+01:21:20,800 --> 01:21:22,220
+They got Charley.
+
+1025
+01:21:22,680 --> 01:21:25,470
+Terry, I'm frightened. Let's get out of here, please.
+
+1026
+01:21:25,550 --> 01:21:28,560
+First Joey, then Dugan, and now Charley, and next....
+
+1027
+01:21:28,890 --> 01:21:31,560
+Please, Terry, some place where we can live in peace.
+
+1028
+01:21:31,640 --> 01:21:34,560
+I'm going to take it out of their skulls.
+
+1029
+01:21:38,440 --> 01:21:39,570
+Charley...
+
+1030
+01:21:42,610 --> 01:21:45,280
+I'm going to take it out of their skulls.
+
+1031
+01:21:45,490 --> 01:21:47,490
+Terry, they'll kill you, too.
+
+1032
+01:21:48,080 --> 01:21:51,120
+Go get the father. Tell him to take care of Charley.
+
+1033
+01:21:51,910 --> 01:21:55,000
+And then come back here and stay with him till he gets here.
+
+1034
+01:21:55,080 --> 01:21:57,880
+Terry, please don't do anything, please!
+
+1035
+01:21:59,840 --> 01:22:02,670
+For God's sake, don't leave him alone here long!
+
+1036
+01:22:04,800 --> 01:22:07,010
+-Please, Terry. -Do what I tell you.
+
+1037
+01:22:32,120 --> 01:22:34,710
+-Where's John Friendly? -He's not here now.
+
+1038
+01:23:12,950 --> 01:23:14,250
+Give me a shot.
+
+1039
+01:23:15,000 --> 01:23:16,120
+Take it easy.
+
+1040
+01:23:16,210 --> 01:23:18,750
+Don't give me no advice, give me the shot.
+
+1041
+01:23:24,420 --> 01:23:27,010
+Why don't you go home before Big John gets here?
+
+1042
+01:23:27,090 --> 01:23:28,840
+Just give me a whiskey.
+
+1043
+01:23:35,640 --> 01:23:37,520
+Stick around, Tillio.
+
+1044
+01:23:43,400 --> 01:23:44,780
+There, sit down.
+
+1045
+01:23:56,160 --> 01:23:58,080
+Get out of that phone booth!
+
+1046
+01:24:20,440 --> 01:24:22,360
+Stay where you are!
+
+1047
+01:24:29,700 --> 01:24:31,450
+I want to see you, Terry.
+
+1048
+01:24:31,660 --> 01:24:33,450
+I'm right in front of you.
+
+1049
+01:24:37,410 --> 01:24:39,580
+Don't give me a hard time, Terry.
+
+1050
+01:24:44,590 --> 01:24:46,000
+What do you want?
+
+1051
+01:24:48,800 --> 01:24:49,920
+Your gun.
+
+1052
+01:24:50,050 --> 01:24:51,680
+Go and chase yourself.
+
+1053
+01:24:51,760 --> 01:24:52,840
+Give me the gun.
+
+1054
+01:24:52,930 --> 01:24:54,180
+You go to hell.
+
+1055
+01:24:56,220 --> 01:24:58,220
+-What did you say? -Go to hell.
+
+1056
+01:25:03,350 --> 01:25:06,360
+-Sorry, let me help you up. -Get your hands off me!
+
+1057
+01:25:06,480 --> 01:25:08,360
+Now what am I going to do?
+
+1058
+01:25:08,440 --> 01:25:11,360
+You want to be a brave man by firing lead into another man?
+
+1059
+01:25:11,450 --> 01:25:13,910
+-lt's none of your business! -That's being brave!
+
+1060
+01:25:13,990 --> 01:25:15,450
+Mind your own business!
+
+1061
+01:25:15,530 --> 01:25:17,620
+Shooting a man isn't being brave!
+
+1062
+01:25:17,700 --> 01:25:19,250
+It's none of your business!
+
+1063
+01:25:19,330 --> 01:25:21,580
+Do you want to hurt Johnny Friendly?
+
+1064
+01:25:23,000 --> 01:25:24,710
+Do you want to fix him?
+
+1065
+01:25:25,210 --> 01:25:27,880
+-Do you really want to finish him? -What do you think?
+
+1066
+01:25:27,960 --> 01:25:30,470
+For what he did to Charley and a dozen other men?
+
+1067
+01:25:30,550 --> 01:25:34,640
+Don't fight him like a hoodlum down here in the jungle. That's what he wants.
+
+1068
+01:25:34,720 --> 01:25:37,600
+He'll hit you in the head and plead self-defence.
+
+1069
+01:25:37,890 --> 01:25:40,980
+You'll fight him in the courtroom tomorrow with the truth.
+
+1070
+01:25:41,060 --> 01:25:42,640
+As you know the truth.
+
+1071
+01:25:51,240 --> 01:25:53,110
+Now you get rid of that gun.
+
+1072
+01:25:53,200 --> 01:25:56,740
+Unless you haven't the guts, and if you haven't, hold onto it!
+
+1073
+01:26:01,700 --> 01:26:03,000
+Give me a beer.
+
+1074
+01:26:12,920 --> 01:26:15,050
+Do you want a beer? Make it two.
+
+1075
+01:26:55,010 --> 01:26:58,140
+You mean to sit there and tell me that your local takes in...
+
+1076
+01:26:58,220 --> 01:27:01,310
+$65,500 every year...
+
+1077
+01:27:01,850 --> 01:27:03,890
+and keeps no financial records?
+
+1078
+01:27:03,980 --> 01:27:05,730
+Sure. We got records.
+
+1079
+01:27:05,810 --> 01:27:07,100
+Where are they?
+
+1080
+01:27:07,400 --> 01:27:10,480
+We was robbed last night, and we can't find no books.
+
+1081
+01:27:11,520 --> 01:27:13,690
+-You know you're under oath? -Sure.
+
+1082
+01:27:22,660 --> 01:27:25,710
+Isn't it odd to you that five different waterfront locals...
+
+1083
+01:27:25,790 --> 01:27:27,790
+were broken into last night?
+
+1084
+01:27:27,870 --> 01:27:31,790
+And the only item missing from all of them was the financial records?
+
+1085
+01:27:31,880 --> 01:27:35,010
+What do you mean, odd? Like I told you, we was robbed.
+
+1086
+01:27:41,220 --> 01:27:42,810
+That's all for now.
+
+1087
+01:27:47,810 --> 01:27:49,440
+Call the next witness.
+
+1088
+01:27:51,230 --> 01:27:53,070
+Before you call the next witness...
+
+1089
+01:27:53,150 --> 01:27:56,780
+are all the officers of Local 374 present this morning?
+
+1090
+01:27:58,740 --> 01:28:02,030
+Will the following please rise as their names are called?
+
+1091
+01:28:02,410 --> 01:28:06,040
+Mr. Michael J. Skelly, also known as Johnny Friendly, President.
+
+1092
+01:28:08,250 --> 01:28:10,580
+Mr. Lewis O. Janotta, Vice President.
+
+1093
+01:28:11,960 --> 01:28:15,250
+Mr. Daniel D. Coogan, Financial Secretary.
+
+1094
+01:28:16,010 --> 01:28:18,170
+Mr. Mladen Sokolivitch, Delegate.
+
+1095
+01:28:18,470 --> 01:28:20,720
+Mr. Tillio A. Rodelli, Delegate.
+
+1096
+01:28:20,800 --> 01:28:22,640
+Recording Secretary.
+
+1097
+01:28:27,480 --> 01:28:28,600
+Thank you, gentlemen.
+
+1098
+01:28:28,690 --> 01:28:30,690
+-Next witness. -Mr. Malloy.
+
+1099
+01:28:42,660 --> 01:28:44,080
+Raise your right hand.
+
+1100
+01:28:44,160 --> 01:28:46,540
+-Name, please. -Terry Malloy.
+
+1101
+01:28:46,620 --> 01:28:49,500
+Swear to tell the truth, the whole truth, and only the truth?
+
+1102
+01:28:49,580 --> 01:28:50,420
+-Right. -I do.
+
+1103
+01:28:50,920 --> 01:28:52,330
+-I do. -Be seated, please.
+
+1104
+01:28:54,130 --> 01:28:55,500
+Mr. Malloy...
+
+1105
+01:28:56,090 --> 01:28:59,130
+is it true that the night Joey Doyle was found dead...
+
+1106
+01:28:59,220 --> 01:29:02,800
+you were the last one to see him before he was pushed from the roof?
+
+1107
+01:29:02,890 --> 01:29:03,970
+Yes.
+
+1108
+01:29:04,050 --> 01:29:05,970
+Is it true you went immediately--
+
+1109
+01:29:06,060 --> 01:29:08,430
+Wait! Except for the guys that pushed him off.
+
+1110
+01:29:08,520 --> 01:29:11,270
+Is it true you went immediately to the Friendly bar...
+
+1111
+01:29:11,350 --> 01:29:15,060
+and expressed your feelings about the murder to Mr. Johnny Friendly?
+
+1112
+01:29:15,150 --> 01:29:16,520
+John Friendly, right.
+
+1113
+01:29:16,610 --> 01:29:17,860
+Mr. Malloy...
+
+1114
+01:29:18,320 --> 01:29:21,950
+can you tell me whether Mr. Friendly, or I should say, Mr. Skelly...
+
+1115
+01:29:22,030 --> 01:29:26,200
+said anything to you to indicate his responsibility in getting rid of Joey Doyle?
+
+1116
+01:29:26,280 --> 01:29:27,080
+Right.
+
+1117
+01:29:27,160 --> 01:29:30,370
+Would you say that Mr. Friendly made it clear to you...
+
+1118
+01:29:30,500 --> 01:29:33,620
+it was absolutely necessary he murder Joey Doyle in order...
+
+1119
+01:29:33,710 --> 01:29:35,460
+to maintain his control...
+
+1120
+01:29:35,540 --> 01:29:38,880
+on the docks of the waterfront localsl Is that correct?
+
+1121
+01:29:38,960 --> 01:29:40,670
+Will there be anything else?
+
+1122
+01:29:40,760 --> 01:29:43,590
+Yes, Sidney, if Mr. Friendly calls, I'm out.
+
+1123
+01:29:44,300 --> 01:29:46,890
+-Anytime today? -lf he calls ever, I'm out!
+
+1124
+01:29:47,060 --> 01:29:48,180
+Very well.
+
+1125
+01:29:49,140 --> 01:29:50,850
+Thank you, Mr. Malloy.
+
+1126
+01:29:51,560 --> 01:29:54,400
+You've done more than break the Joey Doyle case.
+
+1127
+01:29:56,190 --> 01:29:59,530
+We've begun to make it possible for honest men to work the docks...
+
+1128
+01:29:59,610 --> 01:30:02,030
+with job security and peace of mind.
+
+1129
+01:30:04,070 --> 01:30:06,490
+You may step down. That's all for now.
+
+1130
+01:30:08,030 --> 01:30:10,040
+Mr. Michael J. Skelly, please.
+
+1131
+01:30:21,300 --> 01:30:23,590
+You just dug your own grave. Go fall in it.
+
+1132
+01:30:23,670 --> 01:30:26,340
+You're dead on this waterfront and every waterfront...
+
+1133
+01:30:26,430 --> 01:30:28,140
+from Boston to New Orleans.
+
+1134
+01:30:28,220 --> 01:30:30,180
+You don't drive a truck or a cab...
+
+1135
+01:30:30,260 --> 01:30:34,230
+you don't push a baggage rack you don't work no place, you're dead!
+
+1136
+01:30:52,120 --> 01:30:55,420
+Will you quit following me? Why don't you get off my tail?
+
+1137
+01:30:55,500 --> 01:30:58,630
+Orders. You're hot. You ought to be glad we're following you.
+
+1138
+01:30:58,710 --> 01:31:00,340
+You're making me feel like a canary.
+
+1139
+01:31:00,420 --> 01:31:01,750
+-Well.... -Lay off.
+
+1140
+01:31:05,260 --> 01:31:06,630
+Hi, Cheeky.
+
+1141
+01:31:09,050 --> 01:31:10,810
+Who's your friend?
+
+1142
+01:31:44,090 --> 01:31:47,220
+I made some hot coffee. I thought you might want some.
+
+1143
+01:31:51,550 --> 01:31:53,310
+Anyway, it's all over.
+
+1144
+01:31:54,970 --> 01:31:57,230
+My friends don't want to talk to me.
+
+1145
+01:31:57,390 --> 01:31:59,560
+Are you sure they're your friends?
+
+1146
+01:32:07,570 --> 01:32:09,070
+I'll see you later.
+
+1147
+01:32:25,210 --> 01:32:27,090
+Hey, champ, how's the kid.
+
+1148
+01:32:31,140 --> 01:32:32,600
+What's with him?
+
+1149
+01:32:47,740 --> 01:32:49,820
+A pigeon for a pigeon!
+
+1150
+01:33:20,100 --> 01:33:21,140
+Terry.
+
+1151
+01:33:37,450 --> 01:33:38,450
+The kid.
+
+1152
+01:33:41,830 --> 01:33:42,870
+Tommy?
+
+1153
+01:33:45,670 --> 01:33:47,750
+What did he have to do that for?
+
+1154
+01:33:49,630 --> 01:33:51,090
+Every one of them.
+
+1155
+01:33:52,550 --> 01:33:56,300
+Terry, there's no place that's safe for you now on the waterfront.
+
+1156
+01:33:57,100 --> 01:33:58,390
+Maybe inland...
+
+1157
+01:33:58,810 --> 01:34:00,560
+out west some place...
+
+1158
+01:34:00,640 --> 01:34:01,770
+a farm.
+
+1159
+01:34:03,020 --> 01:34:04,060
+A farm?
+
+1160
+01:34:04,560 --> 01:34:08,860
+You could do anything, as long as you're away from Johnny Friendly.
+
+1161
+01:34:08,940 --> 01:34:11,240
+You tried to help the longshoremen...
+
+1162
+01:34:11,320 --> 01:34:14,740
+and they just turn their backs and stick to their stupid D and D!
+
+1163
+01:34:14,820 --> 01:34:18,030
+Are they taking chances for you? Why should you?
+
+1164
+01:34:18,330 --> 01:34:20,870
+You're not even listening to me, are you?
+
+1165
+01:34:28,920 --> 01:34:30,630
+You're going down there.
+
+1166
+01:34:31,460 --> 01:34:35,220
+Just because Johnny Friendly warned you not to, you're going down there.
+
+1167
+01:34:35,300 --> 01:34:39,010
+You think you got to prove that you're not afraid of them!
+
+1168
+01:34:39,100 --> 01:34:41,100
+Well, go ahead, get it over with.
+
+1169
+01:34:41,180 --> 01:34:44,350
+Go down and get yourself killed you stupid, pigheaded....
+
+1170
+01:34:44,440 --> 01:34:46,520
+What are you trying to prove?
+
+1171
+01:34:49,770 --> 01:34:51,730
+They always said I was a bum.
+
+1172
+01:34:53,610 --> 01:34:55,410
+Well, I ain't a bum, Edie.
+
+1173
+01:34:56,820 --> 01:34:59,410
+Don't worry, I'm not going to hurt nobody.
+
+1174
+01:34:59,950 --> 01:35:02,120
+I'm just going to go down there...
+
+1175
+01:35:02,540 --> 01:35:04,120
+and get my rights.
+
+1176
+01:35:50,920 --> 01:35:53,000
+Everybody works today!
+
+1177
+01:36:11,980 --> 01:36:13,020
+Wolfgang.
+
+1178
+01:36:14,230 --> 01:36:15,360
+Hendricks.
+
+1179
+01:36:16,190 --> 01:36:17,400
+Padowski.
+
+1180
+01:36:18,780 --> 01:36:19,820
+Martin.
+
+1181
+01:36:20,740 --> 01:36:21,780
+Dalton.
+
+1182
+01:36:22,030 --> 01:36:23,080
+Wurthy.
+
+1183
+01:36:23,790 --> 01:36:24,870
+Hauffman.
+
+1184
+01:36:27,330 --> 01:36:30,960
+-What do you think? -That ain't such a bad picture of you, boss.
+
+1185
+01:36:31,080 --> 01:36:33,420
+Stop breathing that clam sauce on me.
+
+1186
+01:36:34,630 --> 01:36:37,380
+I wish you'd let me go to work on that cheese-eater.
+
+1187
+01:36:37,470 --> 01:36:39,220
+I'd top the bum off lovely.
+
+1188
+01:36:39,300 --> 01:36:41,510
+Wait'll we get off this front page.
+
+1189
+01:36:41,590 --> 01:36:42,890
+Then he's mine.
+
+1190
+01:36:43,680 --> 01:36:44,850
+I want him.
+
+1191
+01:36:45,930 --> 01:36:47,730
+You hear that? He's mine.
+
+1192
+01:36:53,770 --> 01:36:57,400
+Where are them cops of yours, stoolie? You're going to need them.
+
+1193
+01:37:03,070 --> 01:37:05,410
+You're still short in the hatch, Mac.
+
+1194
+01:37:07,200 --> 01:37:09,910
+Spec. Bring me the first man you see.
+
+1195
+01:37:11,670 --> 01:37:12,710
+You.
+
+1196
+01:37:17,050 --> 01:37:19,220
+Here's your man.
+
+1197
+01:37:22,090 --> 01:37:24,800
+You want more of the same? Come back tomorrow.
+
+1198
+01:37:28,310 --> 01:37:29,770
+All right, that's it.
+
+1199
+01:37:52,210 --> 01:37:56,630
+I hope that bum comes down here. I'd love if he comes down here.
+
+1200
+01:37:57,460 --> 01:37:59,550
+Did you ever hear of the Sullivan Law?
+
+1201
+01:37:59,630 --> 01:38:03,010
+They'll be down on us for the slightest infraction now, anything.
+
+1202
+01:38:03,090 --> 01:38:05,010
+I'm going to be indicted any minute!
+
+1203
+01:38:05,090 --> 01:38:07,310
+Come on, gimme.
+
+1204
+01:38:09,350 --> 01:38:11,430
+Will you get it through your heads...
+
+1205
+01:38:11,520 --> 01:38:14,150
+they're dusting off the hot seat for me!
+
+1206
+01:38:16,810 --> 01:38:18,940
+We're a law-abiding union.
+
+1207
+01:38:19,400 --> 01:38:20,570
+Understand?
+
+1208
+01:38:57,520 --> 01:38:59,020
+Friendly!
+
+1209
+01:39:00,360 --> 01:39:02,530
+John Friendly, come out of there!
+
+1210
+01:39:09,240 --> 01:39:11,330
+You want to know the trouble with you?
+
+1211
+01:39:11,410 --> 01:39:14,710
+You think it makes you a big man if you give the answers.
+
+1212
+01:39:14,790 --> 01:39:17,750
+At the right time I'll catch up with you. Think about that.
+
+1213
+01:39:17,830 --> 01:39:20,960
+-Now, go on, beat it. Don't push your luck. -Wait a minute.
+
+1214
+01:39:21,050 --> 01:39:24,720
+You take them heaters away from you and you're nothing, you know that?
+
+1215
+01:39:24,800 --> 01:39:26,720
+You'll talk yourself in the river!
+
+1216
+01:39:26,800 --> 01:39:29,640
+You take the good goods away and the kickbacks...
+
+1217
+01:39:29,720 --> 01:39:33,100
+and shakedown cabbage and the pistoleros and you're nothing!
+
+1218
+01:39:33,180 --> 01:39:36,390
+Your guts is all in your wallet and your trigger finger!
+
+1219
+01:39:36,600 --> 01:39:38,310
+You ratted on us, Terry!
+
+1220
+01:39:38,520 --> 01:39:41,770
+From where you stand, maybe. But I'm standing over here now!
+
+1221
+01:39:41,860 --> 01:39:45,400
+I was ratting on myself all them years, I didn't even know it.
+
+1222
+01:39:45,570 --> 01:39:47,860
+You gave it to Joey, you gave it to Dugan...
+
+1223
+01:39:47,950 --> 01:39:50,740
+and you gave it to Charley who was one of your own.
+
+1224
+01:39:50,830 --> 01:39:53,830
+You think you're God Almighty, but you know what you are?
+
+1225
+01:39:53,910 --> 01:39:55,290
+You're a cheap...
+
+1226
+01:39:55,370 --> 01:39:58,000
+lousy, dirty, stinking mug...
+
+1227
+01:39:58,370 --> 01:40:00,590
+and I'm glad what I done to you!
+
+1228
+01:40:00,880 --> 01:40:02,130
+You hear that?
+
+1229
+01:40:02,210 --> 01:40:04,010
+I'm glad what I done!
+
+1230
+01:40:04,880 --> 01:40:07,470
+And I'm going to keep on doing it till I get--
+
+1231
+01:40:08,550 --> 01:40:09,260
+Come on, come on.
+
+1232
+01:40:38,370 --> 01:40:40,460
+That boy fights like he used to.
+
+1233
+01:40:52,100 --> 01:40:54,310
+-They'll kill him. -lt's a massacre.
+
+1234
+01:40:54,390 --> 01:40:56,310
+He's one of theirs anyway.
+
+1235
+01:41:00,310 --> 01:41:02,520
+-What are we waiting for? -Let's go!
+
+1236
+01:41:04,570 --> 01:41:05,820
+That's enough.
+
+1237
+01:41:06,820 --> 01:41:08,530
+Just let him lay there.
+
+1238
+01:41:31,880 --> 01:41:33,140
+What happened?
+
+1239
+01:41:36,720 --> 01:41:38,310
+Jimmy, what happened?
+
+1240
+01:41:46,110 --> 01:41:47,650
+Where are you going?
+
+1241
+01:41:47,900 --> 01:41:49,030
+Let me by.
+
+1242
+01:42:04,500 --> 01:42:05,710
+You want him?
+
+1243
+01:42:08,500 --> 01:42:09,920
+You can have him!
+
+1244
+01:42:15,930 --> 01:42:17,720
+The little rat's yours.
+
+1245
+01:42:29,780 --> 01:42:32,070
+Get some fresh water!
+
+1246
+01:42:35,490 --> 01:42:36,660
+Terry.
+
+1247
+01:42:38,910 --> 01:42:40,240
+Who's in charge here?
+
+1248
+01:42:40,330 --> 01:42:42,620
+Yours truly is in charge here.
+
+1249
+01:42:42,710 --> 01:42:45,710
+We got to get this ship out of here. It's costing us money.
+
+1250
+01:42:45,790 --> 01:42:47,040
+Blow your whistle.
+
+1251
+01:42:47,130 --> 01:42:49,210
+All right you guys, get to work!
+
+1252
+01:42:50,170 --> 01:42:51,210
+Come on!
+
+1253
+01:42:51,840 --> 01:42:54,840
+-What goes? -I'll have them working in two minutes.
+
+1254
+01:42:55,260 --> 01:42:57,760
+He better get these men to work.
+
+1255
+01:43:00,140 --> 01:43:02,730
+Come on, you guys, on the double! Get to work!
+
+1256
+01:43:02,810 --> 01:43:05,850
+Come on. Get in there. Get in there.
+
+1257
+01:43:06,850 --> 01:43:09,860
+-How about Terry? -lf he don't work, we don't work.
+
+1258
+01:43:10,020 --> 01:43:12,150
+Work! He can't even walk!
+
+1259
+01:43:12,690 --> 01:43:15,820
+You want to know who works? The ones I pick to work.
+
+1260
+01:43:15,910 --> 01:43:18,620
+Now get going. Come on all of you, get in there.
+
+1261
+01:43:20,740 --> 01:43:22,500
+Come on, get out here.
+
+1262
+01:43:22,620 --> 01:43:24,910
+Come on, Pop, on the double, you work today.
+
+1263
+01:43:25,000 --> 01:43:27,500
+All my life you pushed me around.
+
+1264
+01:43:27,670 --> 01:43:29,170
+Come on.
+
+1265
+01:43:42,310 --> 01:43:44,230
+Come on, you walk in with them.
+
+1266
+01:43:52,610 --> 01:43:56,820
+If Terry walks in, we walk in with him. They're waiting for him to walk in.
+
+1267
+01:44:07,210 --> 01:44:08,960
+Did you hear that, Terry?
+
+1268
+01:44:10,290 --> 01:44:12,840
+Terry, did you hear that?
+
+1269
+01:44:12,920 --> 01:44:13,960
+Yeah.
+
+1270
+01:44:14,800 --> 01:44:18,970
+You lost the battle, but you have a chance to win the war.
+
+1271
+01:44:20,760 --> 01:44:22,680
+-What do I have to do? -Walk.
+
+1272
+01:44:23,180 --> 01:44:24,430
+Can you walk?
+
+1273
+01:44:25,600 --> 01:44:27,100
+-Walk. -Yes, walk.
+
+1274
+01:44:29,150 --> 01:44:30,940
+To the pier, I mean.
+
+1275
+01:44:31,020 --> 01:44:33,690
+-We'll walk in with you. -So the shippers can see...
+
+1276
+01:44:33,780 --> 01:44:36,360
+we'll take no more orders from Johnny Friendly.
+
+1277
+01:44:36,440 --> 01:44:40,370
+Then it'll give us back our union, so we can run it on the up and up.
+
+1278
+01:44:40,910 --> 01:44:43,950
+Johnny Friendly's laying odds that you won't get up.
+
+1279
+01:44:47,410 --> 01:44:50,460
+What are you standing around for? Come on, help me!
+
+1280
+01:44:51,580 --> 01:44:53,000
+Come on, you guys.
+
+1281
+01:44:54,750 --> 01:44:58,170
+Put me on my feet. Come on.
+
+1282
+01:45:09,690 --> 01:45:10,940
+How you doing?
+
+1283
+01:45:13,360 --> 01:45:15,020
+Am I on my feet?
+
+1284
+01:45:16,440 --> 01:45:17,990
+You're on your feet.
+
+1285
+01:45:20,570 --> 01:45:23,070
+-I don't think I'm gonna make it. -Terry!
+
+1286
+01:45:24,160 --> 01:45:25,200
+You can.
+
+1287
+01:45:29,000 --> 01:45:32,250
+Just finish what you started. You can.
+
+1288
+01:45:40,170 --> 01:45:41,550
+Give me my hook.
+
+1289
+01:45:41,880 --> 01:45:44,260
+Look, for God's sake, what're you trying to do?
+
+1290
+01:45:44,350 --> 01:45:46,720
+Take your hands off him. Keep going.
+
+1291
+01:45:51,850 --> 01:45:53,230
+Leave him alone!
+
+1292
+01:46:56,130 --> 01:46:58,380
+All right, let's go to work!
+
+1293
+01:47:11,390 --> 01:47:13,850
+Where you guys going? Wait a minute.
+
+1294
+01:47:14,440 --> 01:47:18,020
+I'll remember this. I'll remember every one of you!
+
+1295
+01:47:19,520 --> 01:47:21,860
+I'll be back! Don't you forget that!
+
+1296
+01:47:22,320 --> 01:47:23,860
+I'll be back!
+

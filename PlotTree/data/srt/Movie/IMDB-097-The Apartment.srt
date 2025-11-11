@@ -1,0 +1,5724 @@
+1
+00:00:25,660 --> 00:00:29,410
+begin
+
+2
+00:01:29,810 --> 00:01:36,050
+On November 1, 1959, the population of New York City was 8,042,783.
+
+3
+00:01:36,730 --> 00:01:41,100
+If you laid them all end to end, figuring an average height of 5 feet 6 1/2 inches...
+
+4
+00:01:41,250 --> 00:01:45,090
+...they would reach from Times Square to the outskirts of Karachi, Pakistan.
+
+5
+00:01:45,250 --> 00:01:49,450
+I know facts like this because I work for an insurance company, Consolidated Life.
+
+6
+00:01:49,610 --> 00:01:52,010
+We're one of the top five companies in the country.
+
+7
+00:01:52,170 --> 00:01:55,770
+Our home office has 31,259 employees...
+
+8
+00:01:55,930 --> 00:02:00,050
+...which is more than the entire population of, uh... Natchez, Mississippi.
+
+9
+00:02:00,210 --> 00:02:03,050
+I work on the 19th floor. Ordinary Policy Department...
+
+10
+00:02:03,210 --> 00:02:07,210
+...Premium Accounting Division, Section W, desk number 861.
+
+11
+00:02:07,690 --> 00:02:12,090
+My name is C.C. Baxter: C for Calvin, C for Clifford. But most people call me Bud.
+
+12
+00:02:12,250 --> 00:02:17,250
+I've worked here three years, ten months, and my take-home pay is $94.70 a week.
+
+13
+00:02:27,010 --> 00:02:30,050
+The hours in our department are 8.50 to 5.20.
+
+14
+00:02:34,840 --> 00:02:39,560
+They're staggered by floor so 16 elevators can handle the 31,259 employees...
+
+15
+00:02:39,720 --> 00:02:42,040
+...without a serious traffic jam.
+
+16
+00:02:42,210 --> 00:02:47,130
+As for myself, I very often stay on at the office and work for an extra hour or two...
+
+17
+00:02:47,280 --> 00:02:49,250
+...especially when the weather is bad.
+
+18
+00:02:49,400 --> 00:02:52,800
+It's not that I'm overly ambitious. It's just a way of killing time...
+
+19
+00:02:52,970 --> 00:02:55,530
+...until it's all right for me to go home.
+
+20
+00:02:55,680 --> 00:02:59,050
+You see, I have this little problem with my apartment.
+
+21
+00:03:00,520 --> 00:03:03,600
+I live in the West 60s, just half a block from Central Park.
+
+22
+00:03:03,770 --> 00:03:06,770
+My rent is $85 a month. It used to be $80 until last July...
+
+23
+00:03:06,920 --> 00:03:10,640
+...when Mrs. Lieberman, the landlady, put in a second-hand air conditioner.
+
+24
+00:03:10,800 --> 00:03:16,200
+It's a real nice apartment. Nothing fancy, but kind of cozy. Just right for a bachelor.
+
+25
+00:03:16,370 --> 00:03:19,640
+The only problem is I can't always get in when I want to.
+
+26
+00:03:32,880 --> 00:03:36,040
+Cut it out, Sylvia. We've gotta get out of here.
+
+27
+00:03:36,200 --> 00:03:39,080
+What's the panic? I'm gonna have another martini.
+
+28
+00:03:39,240 --> 00:03:41,280
+Please, Sylvia. It's a quarter of nine.
+
+29
+00:03:41,440 --> 00:03:44,600
+First you can't wait to get me here and then it's rush, rush, rush.
+
+30
+00:03:44,760 --> 00:03:47,800
+ -Makes a person feel cheap. -Sweetie, it's not that.
+
+31
+00:03:48,000 --> 00:03:50,600
+But I promised the guy I'd be outta here by eight.
+
+32
+00:03:50,800 --> 00:03:56,200
+ -What guy? Whose apartment is this? -Some schnook that works in the office.
+
+33
+00:04:09,080 --> 00:04:11,350
+ -Good evening, Mr. Baxter. -Mrs. Lieberman.
+
+34
+00:04:11,510 --> 00:04:16,320
+Some weather we're having. Must be from all that meshugaas at Cape Canaveral.
+
+35
+00:04:17,560 --> 00:04:22,110
+ -You're locked out of your apartment? -No, no. Just waiting for a friend.
+
+36
+00:04:22,590 --> 00:04:25,870
+ -Good night, Mrs. Lieberman. -Good night, Mr. Baxter.
+
+37
+00:04:43,030 --> 00:04:45,590
+ -Where do you live? -I told you. With my mother.
+
+38
+00:04:45,710 --> 00:04:48,750
+ -Where does she live? -179th Street, in the Bronx.
+
+39
+00:04:48,910 --> 00:04:53,670
+ -All right. I'll take you to the subway. -Like hell you will! You'll buy me a cab.
+
+40
+00:04:53,830 --> 00:04:57,550
+ -Why do all you dames live in the Bronx? -You bring other girls up here?
+
+41
+00:04:57,710 --> 00:05:00,510
+Certainly not. I'm a happily married man.
+
+42
+00:05:38,180 --> 00:05:41,150
+ -Hello there, Mrs. Dreyfuss. -Something's the matter?
+
+43
+00:05:41,310 --> 00:05:45,180
+Uh, no. I... seem to have dropped my key. Ah, here it is.
+
+44
+00:05:45,350 --> 00:05:47,700
+Such a racket I heard in your place.
+
+45
+00:05:47,870 --> 00:05:49,860
+Maybe you had burglars?
+
+46
+00:05:50,030 --> 00:05:54,340
+Don't worry about that. There's nothing in here anybody'd wanna steal. Good night.
+
+47
+00:06:31,700 --> 00:06:36,020
+Sorry to bother you, Buddy-boy, but the little lady forgot her galoshes.
+
+48
+00:06:36,180 --> 00:06:39,500
+Mr. Kirkeby, you were supposed to be outta here by eight.
+
+49
+00:06:39,660 --> 00:06:44,060
+I know, but those things don't always run on schedule like a Greyhound bus.
+
+50
+00:06:44,180 --> 00:06:46,700
+I don't mind in the summer, but on a rainy night...
+
+51
+00:06:46,860 --> 00:06:49,370
+ -I haven't had any dinner yet. -Sure, sure.
+
+52
+00:06:49,540 --> 00:06:51,540
+Oh!
+
+53
+00:06:51,860 --> 00:06:54,860
+I put in a good word for you with Sheldrake in Personnel.
+
+54
+00:06:55,060 --> 00:06:56,500
+ -Mr. Sheldrake? -That's right.
+
+55
+00:06:56,700 --> 00:07:00,420
+We discussed manpower promotionwise. I told him you're a bright boy.
+
+56
+00:07:00,570 --> 00:07:04,500
+They're always on the lookout for young executives. You're on your way up.
+
+57
+00:07:04,660 --> 00:07:08,330
+ -And you're also out of liquor. -Mr. Eichelberger, Mortgage and Loans...
+
+58
+00:07:08,500 --> 00:07:12,730
+...last night he had a Halloween party. -Lay in some vodka and vermouth for me.
+
+59
+00:07:12,900 --> 00:07:16,970
+ -You still owe me for the last two bottles. -I'll pay you on Friday.
+
+60
+00:07:17,140 --> 00:07:22,220
+Oh, and whatever happened to those little cheese crackers you used to have?
+
+61
+00:07:24,300 --> 00:07:26,290
+Cheese crackers?
+
+62
+00:08:03,050 --> 00:08:05,050
+Cheers.
+
+63
+00:08:21,570 --> 00:08:24,010
+ -Good evening, Baxter. -Hi, Doc. Had a late call?
+
+64
+00:08:24,170 --> 00:08:28,640
+Yeah. Some clown at Schrafft's ate a club sandwich... including the toothpick.
+
+65
+00:08:30,570 --> 00:08:33,080
+ -Well, good night, Doc. -Say, Baxter.
+
+66
+00:08:33,250 --> 00:08:36,930
+The way you're beltin' that stuff, you must have cast-iron kidneys.
+
+67
+00:08:37,130 --> 00:08:41,040
+That's not me. Just once in a while I have a few people in for a drink.
+
+68
+00:08:41,210 --> 00:08:44,130
+As a matter of fact, you must be an iron man all around.
+
+69
+00:08:44,280 --> 00:08:47,360
+From what I hear through the walls, you're at it every night.
+
+70
+00:08:47,520 --> 00:08:51,890
+ -I'm sorry if it gets noisy. -And sometimes there's a double-header.
+
+71
+00:08:52,570 --> 00:08:55,800
+ -A nebbish like you. -Yeah. Well, I'll see you, Doc.
+
+72
+00:08:55,960 --> 00:08:59,520
+You know, I'm doing some research at the Columbia Medical Center.
+
+73
+00:08:59,680 --> 00:09:01,840
+ -Could you do us a favor? -Me?
+
+74
+00:09:02,000 --> 00:09:05,600
+When you make out your will... and the way you're going, you should...
+
+75
+00:09:05,760 --> 00:09:09,690
+...would you mind leaving your body to the university?
+
+76
+00:09:09,840 --> 00:09:14,000
+My body? I'm afraid you guys'd be disappointed. Good night, Doc.
+
+77
+00:09:15,290 --> 00:09:17,280
+Slow down, kid.
+
+78
+00:09:54,200 --> 00:09:56,160
+Oh, for heaven...
+
+79
+00:10:03,320 --> 00:10:07,670
+From the world's greatest library of film classics, we proudly present...
+
+80
+00:10:07,840 --> 00:10:10,160
+...Greta Garbo, John Barrymore...
+
+81
+00:10:10,320 --> 00:10:14,230
+...Joan Crawford, Wallace Beery and Lionel Barrymore...
+
+82
+00:10:14,400 --> 00:10:17,080
+...in "Grand Hotel".
+
+83
+00:10:17,750 --> 00:10:20,160
+But first, a word from our sponsor.
+
+84
+00:10:20,310 --> 00:10:24,510
+If you smoke the modern way, don't be fooled by phoney filter claims.
+
+85
+00:10:54,390 --> 00:10:57,030
+And now, "Grand Hotel"...
+
+86
+00:10:57,190 --> 00:10:59,830
+...starring Greta Garbo, John Barrymore...
+
+87
+00:10:59,990 --> 00:11:03,390
+...Joan Crawford, Wallace Beery and Lionel Barrymore.
+
+88
+00:11:04,070 --> 00:11:07,670
+But first, a word from our alternate sponsor.
+
+89
+00:11:07,790 --> 00:11:11,350
+Friends, do you have wobbly dentures?
+
+90
+00:11:36,310 --> 00:11:38,020
+ -Hello. -Hiya, Buddy-boy.
+
+91
+00:11:38,190 --> 00:11:41,830
+I'm in this bar on 61 st Street and I figured I'd give you a little buzz.
+
+92
+00:11:41,980 --> 00:11:44,430
+That's very nice of you but... who is this?
+
+93
+00:11:44,580 --> 00:11:46,870
+Dobisch. Joe Dobisch, in Administration.
+
+94
+00:11:47,030 --> 00:11:50,660
+ -Oh, yeah. I didn't recognize your voice. -That's OK, Buddy-boy.
+
+95
+00:11:50,830 --> 00:11:55,190
+Like I was saying, I'm in this joint on 61 st and I think I got lucky.
+
+96
+00:11:56,300 --> 00:12:00,150
+I'm sorry, Mr. Dobisch. I like to help you fellas out, but it's sort of late.
+
+97
+00:12:00,350 --> 00:12:04,420
+ -Why don't we make it some other time? -Listen, kid. I can't pass this up.
+
+98
+00:12:04,590 --> 00:12:07,180
+She looks like Marilyn Monroe.
+
+99
+00:12:07,350 --> 00:12:11,420
+I'm already in bed. And I took a sleeping pill. So I'm afraid the answer is no.
+
+100
+00:12:11,900 --> 00:12:15,830
+We're doing the monthly efficiency rating. I'm putting you in the top ten.
+
+101
+00:12:15,980 --> 00:12:18,060
+You don't wanna louse yourself up, do you?
+
+102
+00:12:18,220 --> 00:12:22,820
+No. But how can I be efficient in the office if I don't get enough sleep at night?
+
+103
+00:12:22,940 --> 00:12:26,940
+It's only eleven, and I just want the place for 45 minutes.
+
+104
+00:12:29,060 --> 00:12:31,820
+I'm getting lonely. Who are you talking to, anyway?
+
+105
+00:12:31,980 --> 00:12:35,820
+ -My mother. -Oh, that's sweet. That's real sweet.
+
+106
+00:12:36,420 --> 00:12:38,020
+Ooh!
+
+107
+00:12:39,300 --> 00:12:42,060
+Make it 30 minutes. What do you say, Bud, huh?
+
+108
+00:12:42,540 --> 00:12:45,740
+I'm all out of liquor, there's no clean glasses...
+
+109
+00:12:45,900 --> 00:12:49,380
+ -There's no cheese crackers. No nothin'. -Let me worry about that.
+
+110
+00:12:49,540 --> 00:12:52,220
+Just leave the key under the mat and clear out.
+
+111
+00:12:52,380 --> 00:12:54,370
+Yes, Mr. Dobisch.
+
+112
+00:12:55,260 --> 00:12:57,820
+Anything you say, Mr. Dobisch!
+
+113
+00:12:58,540 --> 00:13:02,220
+No trouble at all, Mr. Dobisch! Be my guest!
+
+114
+00:13:03,100 --> 00:13:05,900
+We never close at Buddy-boy's.
+
+115
+00:13:09,420 --> 00:13:11,450
+"Looks like Marilyn Monroe"!
+
+116
+00:13:53,090 --> 00:13:55,810
+ -This the place? -Yeah.
+
+117
+00:13:55,980 --> 00:13:57,860
+ -How much? -70 cents.
+
+118
+00:13:58,010 --> 00:13:59,970
+Get the money, will you?
+
+119
+00:14:01,570 --> 00:14:03,610
+Watch those stingers!
+
+120
+00:14:04,890 --> 00:14:06,850
+ -Give him a buck. -Thanks, lady.
+
+121
+00:14:08,690 --> 00:14:10,690
+Put it back, honey!
+
+122
+00:14:12,530 --> 00:14:14,370
+Attagirl.
+
+123
+00:14:14,530 --> 00:14:17,530
+ -Are you sure this is a good idea? -Can't think of a better one.
+
+124
+00:14:17,690 --> 00:14:19,810
+Barging in on your mother so late at night.
+
+125
+00:14:19,970 --> 00:14:24,450
+Don't worry about the old lady. One squawk from her and she's out of a job.
+
+126
+00:14:39,850 --> 00:14:41,890
+Get the key, will you?
+
+127
+00:14:42,480 --> 00:14:44,600
+Not there! Under the mat.
+
+128
+00:14:44,770 --> 00:14:47,440
+ -Under the mat? -Yeah. Come on.
+
+129
+00:14:48,120 --> 00:14:50,530
+Open up. We haven't got all night.
+
+130
+00:14:53,720 --> 00:14:57,170
+ -This is your mother's apartment? -That's right.
+
+131
+00:15:10,320 --> 00:15:12,770
+Mildred! He's at it again!
+
+132
+00:16:01,560 --> 00:16:03,790
+ -Morning, Mr. Kirkeby. -How are you, Baxter?
+
+133
+00:16:03,960 --> 00:16:07,680
+ -They keeping you busy these days? -Yes, sir. They are indeed.
+
+134
+00:16:07,840 --> 00:16:11,320
+Good morning, Mr. Kessel, Miss Robinson, Mr. Williams, Miss Livingston.
+
+135
+00:16:11,470 --> 00:16:14,200
+Good morning, Mr. McKellway, Mrs Schubert, Mr. Davis.
+
+136
+00:16:14,360 --> 00:16:16,870
+Good morning, Mr. Kirkeby. Good morning, Mr. Baxter.
+
+137
+00:16:17,040 --> 00:16:19,710
+ -Morning, Miss Kubelik. -That's all. Take it away.
+
+138
+00:16:19,870 --> 00:16:22,270
+Watch the door, please. Blasting off.
+
+139
+00:16:25,600 --> 00:16:28,830
+ -What did you do to your hair? -It made me nervous so I chopped it off.
+
+140
+00:16:28,990 --> 00:16:32,110
+ -Big mistake, huh? -No. I sort of like it. [snuffles]
+
+141
+00:16:32,270 --> 00:16:34,830
+ -You got a lulu. -Yeah. Better not get too close.
+
+142
+00:16:35,000 --> 00:16:36,790
+ -I never catch colds. -Really?
+
+143
+00:16:36,950 --> 00:16:39,640
+I was reading some sickness and accident claims figures.
+
+144
+00:16:39,790 --> 00:16:44,190
+The average New Yorker aged between 20 and 50 has two and a half colds a year.
+
+145
+00:16:44,360 --> 00:16:46,680
+ -That makes me feel just terrible. -Why?
+
+146
+00:16:46,830 --> 00:16:50,880
+If I have no colds a year, some poor slob must have five colds a year.
+
+147
+00:16:51,030 --> 00:16:54,430
+ -Yeah. It's me. -You shoulda stayed in bed this morning.
+
+148
+00:16:54,590 --> 00:16:56,990
+I shoulda stayed in bed last night.
+
+149
+00:16:57,710 --> 00:16:59,230
+19!
+
+150
+00:17:02,360 --> 00:17:03,950
+Watch your step.
+
+151
+00:17:04,110 --> 00:17:06,510
+ -And watch your hands, Mr. Kirkeby! -Pardon?
+
+152
+00:17:06,670 --> 00:17:10,070
+One of these days I'm gonna shut these doors on you and...
+
+153
+00:17:12,190 --> 00:17:13,910
+20 next!
+
+154
+00:17:14,510 --> 00:17:18,110
+That Kubelik. Boy, would I like to get her on a slow elevator to China!
+
+155
+00:17:18,270 --> 00:17:21,710
+ -She's the best operator in the building. -I'm pretty good myself.
+
+156
+00:17:21,870 --> 00:17:24,750
+ -But she won't give me a date. -Maybe it's your approach.
+
+157
+00:17:24,910 --> 00:17:28,510
+A lot of guys around here have tried all kinds of approaches. No dice.
+
+158
+00:17:28,670 --> 00:17:32,630
+ -What's she trying to prove? -She could just be a nice respectable girl.
+
+159
+00:17:32,790 --> 00:17:35,230
+Listen to him! Little Lord Fauntleroy.
+
+160
+00:17:59,470 --> 00:18:03,230
+Hello. Mr. Dobisch? This is Baxter on the 19th floor.
+
+161
+00:18:03,380 --> 00:18:05,020
+Oh, Buddy-boy!
+
+162
+00:18:05,180 --> 00:18:09,860
+I was just about to call you. I'm sorry about that mess on the living room wall.
+
+163
+00:18:10,030 --> 00:18:14,030
+My friend kept insisting Picasso was a bum, so she started to do that mural.
+
+164
+00:18:14,180 --> 00:18:16,460
+It's not Picasso I'm calling about.
+
+165
+00:18:16,630 --> 00:18:21,180
+It's the key to my apartment. You're supposed to leave it under the mat.
+
+166
+00:18:21,380 --> 00:18:24,260
+But I did. I distinctly remember putting it there.
+
+167
+00:18:24,420 --> 00:18:27,420
+Oh, I found the key all right. Only it's the wrong key!
+
+168
+00:18:27,900 --> 00:18:33,460
+It is? No wonder I couldn't get into the executive washroom this morning.
+
+169
+00:18:33,620 --> 00:18:35,940
+And I couldn't get into my apartment!
+
+170
+00:18:36,100 --> 00:18:39,900
+So at 4am I gotta wake up the landlady and give her a whole song and dance.
+
+171
+00:18:40,060 --> 00:18:43,100
+That's a shame. I'll send the key right down.
+
+172
+00:18:43,260 --> 00:18:45,060
+And about your promotion.
+
+173
+00:18:45,220 --> 00:18:48,260
+I'll send that efficiency report to Mr. Sheldrake in Personnel.
+
+174
+00:18:48,420 --> 00:18:50,780
+You may hear from him before the day's over.
+
+175
+00:18:50,940 --> 00:18:52,900
+Thank you, Mr. Dobisch.
+
+176
+00:19:18,770 --> 00:19:20,650
+From Mr. Dobisch.
+
+177
+00:19:20,820 --> 00:19:22,820
+Wait.
+
+178
+00:19:33,010 --> 00:19:34,970
+For Mr. Dobisch.
+
+179
+00:19:41,380 --> 00:19:43,420
+Mm-hm. Mm-hm.
+
+180
+00:19:57,500 --> 00:19:59,210
+Vanderhof. Public Relations.
+
+181
+00:19:59,380 --> 00:20:01,250
+Oh, yes, Baxter. Just a minute.
+
+182
+00:20:01,410 --> 00:20:04,650
+All right, Miss Finch. Type up what we got so far.
+
+183
+00:20:07,050 --> 00:20:09,290
+Look, I've got you down for tonight...
+
+184
+00:20:09,450 --> 00:20:12,570
+...but I'll be using the place myself, so I'll have to cancel.
+
+185
+00:20:12,730 --> 00:20:15,530
+But it's her birthday. I already ordered the cake.
+
+186
+00:20:15,690 --> 00:20:20,570
+But I am sick. I got a terrible cold and a fever. I got to go to bed right after work.
+
+187
+00:20:20,730 --> 00:20:24,250
+If you got a cold, you go to a Turkish bath. Spend the night. Sweat it out.
+
+188
+00:20:24,410 --> 00:20:28,410
+That's how you get pneumonia. If I got pneumonia, I'd be in bed for a month.
+
+189
+00:20:28,570 --> 00:20:32,730
+OK. You made your point. We'll just have to do it next Wednesday night.
+
+190
+00:20:32,890 --> 00:20:38,330
+ -It's the only night I can get away. -Wednesday, Wednesday... Wednesday.
+
+191
+00:20:39,770 --> 00:20:42,010
+I got somebody penciled in.
+
+192
+00:20:42,160 --> 00:20:44,960
+Let me see what I can do. I'll get back to you.
+
+193
+00:20:54,800 --> 00:20:58,810
+ -Mr. Eichelberger. -Oh, yes, Baxter. What's your problem?
+
+194
+00:21:00,560 --> 00:21:05,440
+Wednesday is out? Oh, that throws a little monkey wrench into my agenda.
+
+195
+00:21:05,610 --> 00:21:08,800
+Thursday? No, I'm all tied up on Thursday.
+
+196
+00:21:10,090 --> 00:21:13,170
+Let's schedule that, uh... meeting for Friday.
+
+197
+00:21:13,330 --> 00:21:15,280
+Friday.
+
+198
+00:21:16,170 --> 00:21:18,800
+Let me see what I can do. I'll get back to you.
+
+199
+00:21:24,240 --> 00:21:28,880
+Premiumwise and billingwise, we are 18 percent ahead of last year Octoberwise.
+
+200
+00:21:31,560 --> 00:21:34,480
+Hello? Yeah, Baxter. What's up?
+
+201
+00:21:34,650 --> 00:21:37,680
+Instead of Friday, could you possibly switch to Thursday?
+
+202
+00:21:37,840 --> 00:21:40,560
+You'd be doing me a great favor.
+
+203
+00:21:40,920 --> 00:21:43,360
+Let me check. I'll get back to you.
+
+204
+00:21:45,040 --> 00:21:47,400
+Consolidated Life. I'll connect you.
+
+205
+00:21:47,560 --> 00:21:49,360
+Sylvia, it's for you.
+
+206
+00:21:49,520 --> 00:21:51,240
+Yeah?
+
+207
+00:21:51,400 --> 00:21:52,960
+Oh, hello.
+
+208
+00:21:53,120 --> 00:21:56,240
+Sure I got home all right. You owe me 45 cents.
+
+209
+00:21:56,400 --> 00:22:00,040
+Look, Sylvia. Instead of Friday, could we make it Thursday night?
+
+210
+00:22:00,240 --> 00:22:05,200
+Thursday?! Well, that's The Untouchables with Bob Stack!
+
+211
+00:22:05,480 --> 00:22:07,440
+Bob who?
+
+212
+00:22:07,880 --> 00:22:11,440
+All right, so we'll watch it at the apartment. Big deal!
+
+213
+00:22:15,440 --> 00:22:18,000
+Hello, Baxter? It's OK for Thursday.
+
+214
+00:22:18,590 --> 00:22:20,560
+Thank you, Mr. Kirkeby.
+
+215
+00:22:29,680 --> 00:22:32,240
+Mr. Eichelberger, it's OK for Friday.
+
+216
+00:22:39,390 --> 00:22:42,150
+Mr. Vanderhof? OK for Wednesday.
+
+217
+00:22:52,670 --> 00:22:54,430
+All right. I'll tell him.
+
+218
+00:22:54,590 --> 00:22:58,230
+Hey, Baxter, that was Personnel. Mr. Sheldrake's secretary.
+
+219
+00:22:58,390 --> 00:23:03,190
+She's been trying to reach you for the last 20 minutes. They want you upstairs.
+
+220
+00:23:03,950 --> 00:23:08,630
+ -Are you getting promoted? Or fired? -Would you care to make a small wager?
+
+221
+00:23:08,790 --> 00:23:12,750
+ -I've been here twice as long as you but... -Let's say a dollar?
+
+222
+00:23:12,910 --> 00:23:14,470
+It's a bet!
+
+223
+00:23:27,910 --> 00:23:30,110
+ -Going up? -Oh! Excuse me.
+
+224
+00:23:30,260 --> 00:23:35,270
+27, please. Drive carefully. You're carrying precious cargo. I mean manpowerwise.
+
+225
+00:23:36,310 --> 00:23:37,430
+27.
+
+226
+00:23:37,590 --> 00:23:41,350
+You may not realize it, but I am in the top ten, efficiencywise...
+
+227
+00:23:41,510 --> 00:23:44,150
+...and this may be the day promotionwise.
+
+228
+00:23:44,300 --> 00:23:46,790
+You're beginning to sound like Mr. Kirkeby already.
+
+229
+00:23:46,950 --> 00:23:50,780
+ -Why not, as they're kicking me upstairs? -Couldn't happen to a nicer guy.
+
+230
+00:23:50,950 --> 00:23:54,470
+You know, you're the only one who takes his hat off in the elevator. -Really?
+
+231
+00:23:54,630 --> 00:23:56,830
+Something happens to men in elevators.
+
+232
+00:23:56,990 --> 00:23:59,830
+It's the change of altitude. The blood rushes to their head.
+
+233
+00:23:59,980 --> 00:24:03,020
+ -I could tell you stories... -I'd love to hear 'em.
+
+234
+00:24:03,180 --> 00:24:05,630
+We could have lunch in the cafeteria sometime.
+
+235
+00:24:05,780 --> 00:24:07,590
+Or some evening, after work?
+
+236
+00:24:07,750 --> 00:24:10,150
+ -27. -Oh.
+
+237
+00:24:10,310 --> 00:24:12,820
+ -I hope everything goes all right. -I hope so.
+
+238
+00:24:12,980 --> 00:24:15,580
+They would call me today, what with my cold.
+
+239
+00:24:15,750 --> 00:24:18,140
+ -How do I look? -Fine. Wait.
+
+240
+00:24:18,940 --> 00:24:20,390
+Thank you.
+
+241
+00:24:20,540 --> 00:24:25,180
+I noticed, when you were still on the local elevator, you always wore a flower.
+
+242
+00:24:25,350 --> 00:24:27,740
+Good luck. And wipe your nose.
+
+243
+00:24:42,780 --> 00:24:46,100
+C.C. Baxter, Ordinary Premium Accounting. Mr. Sheldrake called me.
+
+244
+00:24:46,260 --> 00:24:48,860
+I called you. That is, I tried to for 20 minutes.
+
+245
+00:24:49,020 --> 00:24:51,060
+ -I'm sorry. -Go on in.
+
+246
+00:25:02,260 --> 00:25:03,740
+ -Baxter? -Yes, sir.
+
+247
+00:25:03,890 --> 00:25:05,900
+Come in, come in.
+
+248
+00:25:06,780 --> 00:25:09,580
+I was sort of wondering what you looked like, Baxter.
+
+249
+00:25:09,730 --> 00:25:12,180
+ -Sit down. -Yes, Mr. Sheldrake.
+
+250
+00:25:13,580 --> 00:25:16,180
+Been hearing some nice things about you.
+
+251
+00:25:16,340 --> 00:25:19,260
+Mr. Dobisch says you're loyal, cooperative, resourceful.
+
+252
+00:25:19,420 --> 00:25:23,570
+ -Mr. Dobisch said that? -Mr. Kirkeby tells me you often work late...
+
+253
+00:25:23,740 --> 00:25:26,940
+...without overtime. -You know how it is. Things pile up.
+
+254
+00:25:27,580 --> 00:25:31,010
+Mr. Vanderhof in Public Relations and Mr. Eichelberger in Mortgage and Loans...
+
+255
+00:25:31,180 --> 00:25:33,940
+...would both like you transferred to their departments.
+
+256
+00:25:34,090 --> 00:25:35,970
+Very flattering.
+
+257
+00:25:36,980 --> 00:25:41,020
+Tell me, Baxter. Just what is it that makes you so popular?
+
+258
+00:25:41,180 --> 00:25:44,500
+ -I don't know. -Think.
+
+259
+00:25:49,490 --> 00:25:53,340
+ -Would you mind repeating the question? -Look, Baxter. I'm not stupid.
+
+260
+00:25:53,490 --> 00:25:57,820
+I know everything that goes on in this building every day of the year.
+
+261
+00:25:57,970 --> 00:25:59,370
+You do?
+
+262
+00:25:59,530 --> 00:26:03,860
+In 1957 we had an employee here, name of Fowler. He was very popular too.
+
+263
+00:26:04,010 --> 00:26:06,570
+It turned out he was running a bookie joint...
+
+264
+00:26:06,730 --> 00:26:10,090
+...tying up our switchboard, using our IBM machines to figure the odds.
+
+265
+00:26:10,250 --> 00:26:14,290
+The day before the Kentucky Derby I called in the vice squad, who raided him.
+
+266
+00:26:14,450 --> 00:26:16,370
+ -The vice squad? -That's right.
+
+267
+00:26:16,530 --> 00:26:19,690
+What's that got to do with me? I'm not running any bookie joint.
+
+268
+00:26:19,850 --> 00:26:23,170
+ -Just what kind of joint are you running? -Sir?
+
+269
+00:26:23,330 --> 00:26:28,170
+A key is floating around from Kirkeby to Vanderhof to Eichelberger to Dobisch.
+
+270
+00:26:28,330 --> 00:26:30,170
+It's the key to a certain apartment.
+
+271
+00:26:30,330 --> 00:26:33,650
+ -Know who that apartment belongs to? -Who?
+
+272
+00:26:34,090 --> 00:26:37,010
+Loyal, resourceful, cooperative C.C. Baxter.
+
+273
+00:26:39,410 --> 00:26:41,810
+ -Oh. -Are you going to deny it?
+
+274
+00:26:42,890 --> 00:26:46,610
+No. I'm not going to deny it. If you'd just let me explain.
+
+275
+00:26:47,210 --> 00:26:48,930
+You'd better.
+
+276
+00:26:49,090 --> 00:26:51,080
+Well...
+
+277
+00:26:51,690 --> 00:26:56,200
+...about a year ago, I was going to night school, studying advanced accounting.
+
+278
+00:26:56,370 --> 00:27:01,160
+One of the guys in our department... lives in Jersey... had to go to a banquet in town.
+
+279
+00:27:01,330 --> 00:27:05,490
+He needed someplace to change into a tuxedo, so I gave him the key.
+
+280
+00:27:05,640 --> 00:27:11,370
+Word must've gotten out because all sorts of guys were suddenly going to banquets.
+
+281
+00:27:11,530 --> 00:27:16,210
+You give the key to one guy, you can't say no to another. It all got out of hand.
+
+282
+00:27:19,090 --> 00:27:22,290
+Baxter, an insurance company is founded on public trust.
+
+283
+00:27:22,440 --> 00:27:25,610
+Any employee who conducts himself in a manner unbecoming...
+
+284
+00:27:25,760 --> 00:27:28,650
+How many charter members are there in this little club?
+
+285
+00:27:28,800 --> 00:27:32,370
+Just those four. Out of a total of 31,259.
+
+286
+00:27:32,520 --> 00:27:36,440
+So actually we can be very proud of our personnel... percentagewise.
+
+287
+00:27:36,610 --> 00:27:41,000
+That's not the point. Four rotten apples in a barrel, however large the barrel...
+
+288
+00:27:41,160 --> 00:27:44,200
+ -Do you realize if this ever leaked out... -It won't!
+
+289
+00:27:44,360 --> 00:27:49,160
+Believe me. Never again. Nobody is gonna use my apartment from now on.
+
+290
+00:27:49,320 --> 00:27:51,840
+ -Where is your apartment? -West 67th Street.
+
+291
+00:27:52,000 --> 00:27:57,200
+You have no idea what I go through with the neighbors, the landlady and the key.
+
+292
+00:27:57,360 --> 00:27:59,280
+How do you work it with the key?
+
+293
+00:27:59,440 --> 00:28:04,120
+I slip it to 'em in the office and they leave it under a mat. Never again. I promise.
+
+294
+00:28:07,720 --> 00:28:11,520
+ -Yes, Miss Olsen? -Mrs. Sheldrake, returning your call. On 2.
+
+295
+00:28:15,800 --> 00:28:17,880
+Yes, dear. Where were you?
+
+296
+00:28:18,600 --> 00:28:23,160
+You had to take Tommy to the dentist? No cavities? Good. Hold it, dear.
+
+297
+00:28:23,320 --> 00:28:26,190
+ -Where are you going, Baxter? -I don't wanna intrude.
+
+298
+00:28:26,360 --> 00:28:29,480
+ -Since this is straightened out... -I'm not through with you yet.
+
+299
+00:28:29,630 --> 00:28:31,710
+I won't be home for dinner tonight.
+
+300
+00:28:31,880 --> 00:28:35,710
+The branch manager from Kansas City is in town. I'm taking him to the theater.
+
+301
+00:28:35,880 --> 00:28:37,590
+Music Man. What else?
+
+302
+00:28:37,760 --> 00:28:40,190
+No, don't wait up for me, darling. Goodbye.
+
+303
+00:28:41,310 --> 00:28:44,590
+Tell me, Baxter. Have you seen Music Man?
+
+304
+00:28:44,760 --> 00:28:47,230
+Not yet. I hear it's one swell show.
+
+305
+00:28:47,390 --> 00:28:49,470
+How would you like to go tonight?
+
+306
+00:28:49,640 --> 00:28:53,750
+You and me? I thought you were taking the branch manager from Kansas City.
+
+307
+00:28:53,920 --> 00:28:56,990
+No, I have other plans. You can have both tickets.
+
+308
+00:28:57,160 --> 00:28:59,070
+Well... that's very kind of you.
+
+309
+00:28:59,240 --> 00:29:03,070
+But I'm not feeling well. I've got this cold. I'm gonna go right home.
+
+310
+00:29:03,240 --> 00:29:06,750
+Baxter, you're not reading me. I told you I have plans.
+
+311
+00:29:07,070 --> 00:29:10,110
+So do I. I'm gonna take four aspirins, get into bed.
+
+312
+00:29:10,270 --> 00:29:12,510
+So give the tickets to somebody else.
+
+313
+00:29:12,830 --> 00:29:17,310
+Look, Baxter. I'm not just giving these tickets. I wanna swap them.
+
+314
+00:29:17,480 --> 00:29:19,550
+Swap 'em? For what?
+
+315
+00:29:21,750 --> 00:29:26,430
+It also says here that you are alert, astute and quite imaginative.
+
+316
+00:29:27,550 --> 00:29:29,470
+Oh?
+
+317
+00:29:34,270 --> 00:29:36,270
+Oh...
+
+318
+00:29:45,270 --> 00:29:49,150
+That's good thinking, Baxter. There's gonna be a shift in personnel next month.
+
+319
+00:29:49,300 --> 00:29:52,990
+And as far as I'm concerned, you are executive material.
+
+320
+00:29:53,150 --> 00:29:55,550
+ -I am? -Now put down the key.
+
+321
+00:29:58,590 --> 00:30:00,540
+And put down the address.
+
+322
+00:30:02,430 --> 00:30:07,430
+It's on the second floor. There's no name over the door. It just says apartment 2A.
+
+323
+00:30:08,260 --> 00:30:10,230
+ -It's that cold. -Relax, Baxter.
+
+324
+00:30:10,390 --> 00:30:12,350
+Yes, thank you, sir.
+
+325
+00:30:14,260 --> 00:30:17,230
+You will be careful with the record player? Shh.
+
+326
+00:30:17,380 --> 00:30:19,310
+Oh, and about the liquor.
+
+327
+00:30:19,460 --> 00:30:23,860
+I ordered some this morning. I don't know when they'll deliver it.
+
+328
+00:30:24,820 --> 00:30:27,700
+ -This is going to be our little secret. -Of course.
+
+329
+00:30:27,860 --> 00:30:30,420
+ -You know how people talk. -Don't worry about that.
+
+330
+00:30:30,590 --> 00:30:34,100
+ -Not that I have anything to hide. -No! Anyway, it's none of my business.
+
+331
+00:30:34,270 --> 00:30:37,940
+Four apples, five apples. What's the difference?
+
+332
+00:30:38,100 --> 00:30:40,020
+Percentagewise.
+
+333
+00:30:40,180 --> 00:30:42,620
+Here you are, Baxter. Have a nice time.
+
+334
+00:30:42,780 --> 00:30:44,830
+You too, sir.
+
+335
+00:31:15,500 --> 00:31:19,220
+So I figure, a man in his position, he'll take me to El Morocco, maybe 21.
+
+336
+00:31:19,380 --> 00:31:23,820
+Instead he takes me to Hamburger Heaven and some schnook's apartment.
+
+337
+00:31:28,500 --> 00:31:30,540
+ -Good night. -Good night.
+
+338
+00:31:32,420 --> 00:31:34,610
+Oh! Miss Kubelik?
+
+339
+00:31:34,780 --> 00:31:37,780
+I've been waiting for you. I almost didn't recognize you.
+
+340
+00:31:37,930 --> 00:31:40,970
+This is the first time I've seen you in civilian clothes.
+
+341
+00:31:41,130 --> 00:31:43,250
+ -How'd it go on the 27th floor? -Great.
+
+342
+00:31:43,420 --> 00:31:45,740
+ -Look, have you seen The Music Man? -No.
+
+343
+00:31:45,890 --> 00:31:47,380
+ -Would you like to? -Sure.
+
+344
+00:31:47,530 --> 00:31:49,770
+We could get a bite to eat first, and then go.
+
+345
+00:31:49,940 --> 00:31:51,380
+ -Oh, you mean tonight? -Yeah.
+
+346
+00:31:51,540 --> 00:31:54,490
+ -I'm sorry, I can't. I'm meeting somebody. -Oh.
+
+347
+00:31:54,660 --> 00:31:58,050
+ -You mean... like a girlfriend? -No. Like a man.
+
+348
+00:31:58,210 --> 00:32:02,580
+I wasn't trying to be personal. The fellas in the office were wondering if you ever...
+
+349
+00:32:02,730 --> 00:32:04,570
+You tell 'em now and then.
+
+350
+00:32:04,730 --> 00:32:08,810
+This date, is it... just a date? Or is it something serious?
+
+351
+00:32:08,970 --> 00:32:12,290
+Well, it used to be serious. At least, I was. But he wasn't.
+
+352
+00:32:12,450 --> 00:32:14,690
+So now the whole thing's more or less kaput.
+
+353
+00:32:14,850 --> 00:32:17,300
+ -In that case, couldn't you... -I'm afraid not.
+
+354
+00:32:17,450 --> 00:32:21,450
+I promised I'd have a drink with him. He's been calling me all week.
+
+355
+00:32:22,090 --> 00:32:24,170
+I understand.
+
+356
+00:32:24,330 --> 00:32:28,650
+Well, it was just an idea. I hate to see a theater ticket go to waste.
+
+357
+00:32:28,810 --> 00:32:31,770
+ -What time does the show go on? -8:30.
+
+358
+00:32:31,930 --> 00:32:34,170
+Well, I could meet you at the theatre.
+
+359
+00:32:34,330 --> 00:32:38,210
+That's wonderful! It's the Majestic on 44th Street.
+
+360
+00:32:38,370 --> 00:32:40,130
+I'll meet you in the lobby.
+
+361
+00:32:40,290 --> 00:32:43,610
+You know, I felt so lousy this morning. Had 101 fever.
+
+362
+00:32:43,770 --> 00:32:47,050
+Now along comes my promotion and us... 11 th row centre.
+
+363
+00:32:47,210 --> 00:32:49,080
+And you said I should've stayed in bed.
+
+364
+00:32:49,250 --> 00:32:51,290
+ -How is your cold? -What cold?
+
+365
+00:32:51,440 --> 00:32:55,290
+After the show we could go out on the town. [hums dance tune]
+
+366
+00:32:55,450 --> 00:32:58,090
+ -I've been taking from Arthur Murray. -So I see.
+
+367
+00:32:58,250 --> 00:33:01,090
+There's a great band at El Chico, in the Village.
+
+368
+00:33:01,240 --> 00:33:04,610
+ -Around the corner from where you live. -Sounds good.
+
+369
+00:33:04,760 --> 00:33:09,130
+ -How do you know where I live? -Oh, I... even know who you live with.
+
+370
+00:33:09,290 --> 00:33:11,210
+Your sister and brother-in-law.
+
+371
+00:33:11,370 --> 00:33:15,170
+I know when you were born and where. I know all sorts of things about you.
+
+372
+00:33:15,320 --> 00:33:16,640
+How come?
+
+373
+00:33:16,810 --> 00:33:21,290
+A couple of months ago I looked up your card in the group insurance file.
+
+374
+00:33:21,450 --> 00:33:25,120
+I know your height and your weight and your social security number.
+
+375
+00:33:25,280 --> 00:33:29,120
+You had mumps and measles and you had your appendix out.
+
+376
+00:33:30,000 --> 00:33:32,970
+Don't mention the appendix to the fellas in the office.
+
+377
+00:33:33,120 --> 00:33:37,760
+I wouldn't want 'em to get the wrong idea about how you found out. Bye.
+
+378
+00:33:40,920 --> 00:33:42,880
+20:30
+8:30!
+
+379
+00:34:29,750 --> 00:34:33,680
+ -Good evening, Mr. Sheldrake. -Please, Fran. Not so loud.
+
+380
+00:34:33,840 --> 00:34:36,160
+Still afraid someone might see us together?
+
+381
+00:34:36,310 --> 00:34:39,830
+ -Let me take your coat. -No, Jeff. I can't stay very long.
+
+382
+00:34:41,080 --> 00:34:44,160
+ -Can I have a frozen daiquiri? -It's on the way.
+
+383
+00:34:45,190 --> 00:34:48,470
+ -I see you went ahead and cut your hair. -That's right.
+
+384
+00:34:48,640 --> 00:34:51,800
+ -You know I liked it better long. -I know.
+
+385
+00:34:51,950 --> 00:34:54,710
+You want a lock to carry in your wallet?
+
+386
+00:34:55,430 --> 00:34:58,880
+ -Evening, lady. Nice to see you again. -Thank you.
+
+387
+00:34:59,910 --> 00:35:02,070
+How long has it been, Fran? A month?
+
+388
+00:35:02,230 --> 00:35:04,790
+Six weeks. But who's counting?
+
+389
+00:35:05,830 --> 00:35:07,830
+I missed you.
+
+390
+00:35:10,230 --> 00:35:12,150
+Like old times.
+
+391
+00:35:12,310 --> 00:35:14,950
+Same booth. Same song.
+
+392
+00:35:15,750 --> 00:35:19,750
+ -It's been hell. -Same sauce. Sweet-and-sour.
+
+393
+00:35:22,150 --> 00:35:25,150
+You don't know what it's like, next to you in that elevator.
+
+394
+00:35:25,310 --> 00:35:28,390
+"Good morning, Miss Kubelik." "Good night, Mr. Sheldrake."
+
+395
+00:35:28,550 --> 00:35:30,950
+I'm still crazy about you, Fran.
+
+396
+00:35:31,110 --> 00:35:36,430
+Let's not start on that again, Jeff. Please? I'm just beginning to get over it.
+
+397
+00:35:37,670 --> 00:35:40,070
+I don't believe you.
+
+398
+00:35:41,180 --> 00:35:43,980
+Look, Jeff. We had two wonderful months this summer.
+
+399
+00:35:44,150 --> 00:35:46,870
+But that was it. Happens all the time.
+
+400
+00:35:47,020 --> 00:35:50,980
+Wife and kids go away to the country and the boss has a fling with his secretary...
+
+401
+00:35:51,150 --> 00:35:53,750
+...or the manicurist, or the elevator girl.
+
+402
+00:35:53,910 --> 00:35:57,100
+Come September, the picnic's over. Goodbye.
+
+403
+00:35:57,270 --> 00:36:01,110
+The kids go back to school, the boss goes back to the wife...
+
+404
+00:36:01,270 --> 00:36:03,310
+...and the girl...
+
+405
+00:36:04,540 --> 00:36:07,470
+They don't make these shrimp like they used to.
+
+406
+00:36:10,470 --> 00:36:13,070
+I never said goodbye, Fran.
+
+407
+00:36:14,510 --> 00:36:19,630
+For a while there, you try kidding yourself that you're going with an unmarried man.
+
+408
+00:36:19,780 --> 00:36:22,380
+Then one day he keeps looking at his watch...
+
+409
+00:36:22,540 --> 00:36:25,070
+...and asks you if any lipstick's showing...
+
+410
+00:36:25,230 --> 00:36:28,620
+...then rushes out to catch the 7:14 to White Plains.
+
+411
+00:36:29,750 --> 00:36:33,100
+So you fix yourself a cup of instant coffee...
+
+412
+00:36:33,260 --> 00:36:36,950
+...and you sit there by yourself and you think...
+
+413
+00:36:37,870 --> 00:36:41,060
+...and it all begins to look so... ugly.
+
+414
+00:36:44,380 --> 00:36:47,980
+How do you think I felt riding home on that 7:14 train?
+
+415
+00:36:48,140 --> 00:36:52,150
+Why do you keep calling me, Jeff? What do you want from me?
+
+416
+00:36:52,300 --> 00:36:54,220
+I want you back, Fran.
+
+417
+00:36:54,380 --> 00:36:58,140
+Sorry, Mr. Sheldrake. I'm full up. You'll have to take the next elevator.
+
+418
+00:36:58,300 --> 00:37:02,020
+You're not giving me a chance, Fran. I have something to tell you.
+
+419
+00:37:02,180 --> 00:37:05,860
+ -Go ahead. Tell me. -Not here. Can't we go someplace else?
+
+420
+00:37:06,020 --> 00:37:08,780
+ -No. I have a date at 8:30. -Oh?
+
+421
+00:37:09,100 --> 00:37:12,740
+ -Important? -Not very, but I'm gonna be there anyway.
+
+422
+00:37:12,900 --> 00:37:15,420
+ -You ready order dinner now? -No. No dinner.
+
+423
+00:37:15,580 --> 00:37:18,020
+Just bring us two more drinks, will you?
+
+424
+00:37:37,100 --> 00:37:39,810
+Fran, do you remember that last weekend we had?
+
+425
+00:37:39,980 --> 00:37:44,620
+Do I! That leaky boat you rented, and me in a black negligee and a life preserver.
+
+426
+00:37:44,770 --> 00:37:47,020
+Do you remember what we talked about?
+
+427
+00:37:47,180 --> 00:37:50,610
+ -We talked about a lot of things. -I mean about my getting a divorce.
+
+428
+00:37:50,780 --> 00:37:53,020
+We didn't talk about it, Jeff. You did.
+
+429
+00:37:53,170 --> 00:37:55,090
+You didn't believe me, did you?
+
+430
+00:37:55,250 --> 00:37:59,490
+They got it on a long-playing record now. "Music to String Her Along By."
+
+431
+00:37:59,660 --> 00:38:04,260
+"My wife doesn't understand me. You're the best thing that ever happened to me."
+
+432
+00:38:04,410 --> 00:38:07,580
+ -That's enough, Fran. -"Trust me, baby. We'll work it out."
+
+433
+00:38:07,730 --> 00:38:10,380
+ -You're not being funny. -I wasn't trying.
+
+434
+00:38:10,860 --> 00:38:14,650
+ -Fran, just listen to me for a minute. -All right. I'm sorry.
+
+435
+00:38:14,820 --> 00:38:19,650
+I saw my lawyer this morning. I wanted his advice about the best way to handle it.
+
+436
+00:38:19,810 --> 00:38:22,210
+ -Handle what? -What do you think?
+
+437
+00:38:23,570 --> 00:38:27,930
+Let's get something straight, Jeff. I never asked you to leave your wife.
+
+438
+00:38:28,090 --> 00:38:30,690
+Of course not. You had nothing to do with it.
+
+439
+00:38:32,570 --> 00:38:34,650
+Are you sure that's what you want?
+
+440
+00:38:35,610 --> 00:38:39,130
+I'm sure... if you'll just tell me that you still love me.
+
+441
+00:38:42,170 --> 00:38:44,130
+You know I do.
+
+442
+00:38:47,170 --> 00:38:48,770
+Fran.
+
+443
+00:38:52,250 --> 00:38:54,210
+Jeff, darling...
+
+444
+00:39:00,370 --> 00:39:03,330
+It is getting crowded. Let's get out of here.
+
+445
+00:39:34,360 --> 00:39:35,810
+Taxi!
+
+446
+00:39:35,960 --> 00:39:39,400
+ -Jeff, I have that date, remember? -But I love you, remember?
+
+447
+00:39:39,570 --> 00:39:42,040
+ -[Whistles] -Where are we going?
+
+448
+00:39:42,200 --> 00:39:44,930
+ -Not back to that leaky boat? -I promise.
+
+449
+00:39:49,240 --> 00:39:51,640
+51 West 67th.
+
+450
+00:40:33,680 --> 00:40:35,640
+Congratulations.
+
+451
+00:40:50,360 --> 00:40:53,320
+Would you mind? C.C. Baxter... that's me.
+
+452
+00:40:56,600 --> 00:40:58,630
+Thank you.
+
+453
+00:41:13,240 --> 00:41:16,550
+Hi, Buddy-boy. Congratulations and all that jazz.
+
+454
+00:41:16,720 --> 00:41:20,030
+ -Hi, fellas. -Well, you made it, just like we promised.
+
+455
+00:41:20,190 --> 00:41:23,230
+Quite an office. Name on the door, rug on the floor.
+
+456
+00:41:23,390 --> 00:41:27,870
+Teamwork: That's what counts in this organization. All for one and one for all.
+
+457
+00:41:28,030 --> 00:41:29,950
+ -Know what I mean? -I have a vague idea.
+
+458
+00:41:30,110 --> 00:41:33,070
+Baxter, we're a little disappointed in you, gratitudewise.
+
+459
+00:41:33,230 --> 00:41:36,550
+ -Oh, I'm very grateful. -Then why are you locking us out?
+
+460
+00:41:36,710 --> 00:41:42,030
+Well, it's been sort of rough the past few weeks, what with my cold and... like that.
+
+461
+00:41:42,190 --> 00:41:44,870
+We went to bat for you. Now you won't play ball with us.
+
+462
+00:41:45,030 --> 00:41:49,150
+After all, it's my apartment. It's private property, not a public playground.
+
+463
+00:41:49,310 --> 00:41:53,350
+So you got yourself a girl. That's OK with us. But not every night in the week!
+
+464
+00:41:53,510 --> 00:41:55,150
+How selfish can you get?
+
+465
+00:41:55,300 --> 00:41:58,910
+Last week I had to use my nephew's car and take Sylvia to a drive-in in Jersey.
+
+466
+00:41:59,070 --> 00:42:01,950
+I'm too old for that sort of thing... I mean in a Volkswagen.
+
+467
+00:42:02,100 --> 00:42:05,230
+I sympathize with you. Believe me, I'm very sorry.
+
+468
+00:42:05,390 --> 00:42:08,510
+ -You'll be a lot sorrier. -Are you threatening me?
+
+469
+00:42:08,670 --> 00:42:11,620
+Listen, Baxter. We made you and we can break you.
+
+470
+00:42:12,820 --> 00:42:15,590
+ -Good morning, Mr. Sheldrake. -Good morning, gentlemen.
+
+471
+00:42:15,750 --> 00:42:19,660
+ -Baxter, do you like your office? -Yes, sir. I wanna thank you very much.
+
+472
+00:42:19,820 --> 00:42:22,590
+Don't thank me. Your friends here recommended you.
+
+473
+00:42:22,750 --> 00:42:26,350
+ -We just dropped by to wish him luck. -We know you won't let us down.
+
+474
+00:42:26,510 --> 00:42:31,100
+So long, fellas. Drop in any time. The door is always open... to my office.
+
+475
+00:42:31,910 --> 00:42:33,860
+I like the way you handled that, Baxter.
+
+476
+00:42:34,030 --> 00:42:36,460
+ -How does it feel to be an executive? -Oh, fine.
+
+477
+00:42:36,620 --> 00:42:40,260
+ -I'll work hard to justify your confidence. -I'm sure you will.
+
+478
+00:42:40,420 --> 00:42:44,990
+About the apartment. Now that you've got a raise, can't we afford a second key?
+
+479
+00:42:45,140 --> 00:42:47,420
+ -I guess so. -You know my secretary, Miss Olsen?
+
+480
+00:42:47,590 --> 00:42:50,260
+ -Oh, yeah. Is she the lucky girl that? -Oh, no, no.
+
+481
+00:42:50,420 --> 00:42:55,460
+I just meant that she's kind of a busybody, and passing that key back and forth...
+
+482
+00:42:55,620 --> 00:42:58,100
+ -Why take chances? -You can't be too careful.
+
+483
+00:42:58,260 --> 00:43:01,140
+Oh, I... have something I think belongs to you.
+
+484
+00:43:01,300 --> 00:43:03,700
+ -Me? -I mean the young lady, whoever she is.
+
+485
+00:43:03,860 --> 00:43:06,460
+ -I found it when I got back last night. -Oh. Thanks.
+
+486
+00:43:06,620 --> 00:43:10,020
+The mirror is broken. It was broken when I found it.
+
+487
+00:43:11,620 --> 00:43:14,300
+ -Yeah. She threw it at me. -Sir?
+
+488
+00:43:14,460 --> 00:43:16,820
+You know how it is. They always give you a bad time.
+
+489
+00:43:16,980 --> 00:43:17,980
+Yeah, I know how it is.
+
+490
+00:43:18,140 --> 00:43:22,660
+You see a girl every week for laughs and they think you're gonna divorce your wife.
+
+491
+00:43:22,820 --> 00:43:25,860
+ -Now I ask you, is that fair? -No, sir. It's very unfair.
+
+492
+00:43:26,020 --> 00:43:27,940
+ -Especially to your wife. -Yeah.
+
+493
+00:43:28,340 --> 00:43:32,690
+You know, Baxter, I envy you. A bachelor, all the dames you want, no complications.
+
+494
+00:43:32,860 --> 00:43:34,330
+That's the life all right.
+
+495
+00:43:34,500 --> 00:43:36,650
+ -Put me down for Thursday again. -Roger.
+
+496
+00:43:36,820 --> 00:43:38,970
+And I'll get that other key.
+
+497
+00:43:50,650 --> 00:43:54,340
+ -Merry Christmas. I'll connect you. -Merry Christmas. Consolidated Life.
+
+498
+00:43:54,500 --> 00:43:56,420
+Merry Christmas. I'm ringing.
+
+499
+00:43:56,570 --> 00:43:58,500
+Yeah? Yeah?!
+
+500
+00:43:58,650 --> 00:43:59,700
+Where?
+
+501
+00:43:59,850 --> 00:44:01,010
+You bet!
+
+502
+00:44:01,170 --> 00:44:05,370
+Somebody watch my line. There's a swingin' party on the 19th floor!
+
+503
+00:44:07,570 --> 00:44:10,370
+Oh, what fun it is to ride in a one-horse open sleigh
+
+504
+00:44:10,530 --> 00:44:14,130
+Hey! Jingle bells, jingle bells, jingle all the way
+
+505
+00:44:14,290 --> 00:44:17,370
+Oh, what fun it is to ride in a one-horse open sleigh
+
+506
+00:44:32,900 --> 00:44:38,170
+So I said to him "Never again. Either you get yourself a bigger car or a smaller girl."
+
+507
+00:44:38,980 --> 00:44:40,970
+Miss Kubelik? Miss...
+
+508
+00:44:41,170 --> 00:44:43,250
+ -Merry Christmas. -Thank you.
+
+509
+00:44:43,410 --> 00:44:46,330
+ -I thought you were avoiding me. -What gave you that idea?
+
+510
+00:44:46,490 --> 00:44:50,090
+In six weeks you've only been in my elevator once, and you kept on your hat.
+
+511
+00:44:50,250 --> 00:44:53,530
+As a matter of fact, I was rather hurt that night you stood me up.
+
+512
+00:44:53,690 --> 00:44:55,610
+I don't blame you. It was unforgivable.
+
+513
+00:44:55,770 --> 00:44:57,290
+ -I forgive you. -You shouldn't.
+
+514
+00:44:57,440 --> 00:45:00,720
+You couldn't help it. You can't suddenly walk out on one man...
+
+515
+00:45:00,890 --> 00:45:03,010
+...because you have a date with another man.
+
+516
+00:45:03,170 --> 00:45:05,450
+ -You did the decent thing. -Don't be too sure.
+
+517
+00:45:05,610 --> 00:45:08,880
+Just because I wear a uniform, that doesn't make me a Girl Scout.
+
+518
+00:45:09,050 --> 00:45:13,600
+A second administrative assistant has to be a pretty good judge of character.
+
+519
+00:45:13,770 --> 00:45:16,090
+And as far as I'm concerned, you're tops.
+
+520
+00:45:16,250 --> 00:45:20,730
+I mean decencywise and... otherwisewise.
+
+521
+00:45:20,890 --> 00:45:22,920
+Cheers.
+
+522
+00:45:24,560 --> 00:45:26,770
+ -One more. -I shouldn't drink while driving.
+
+523
+00:45:26,920 --> 00:45:31,760
+You're so right. By the power vested in me, I declare this elevator out of order.
+
+524
+00:45:31,930 --> 00:45:34,160
+Shall we join the natives?
+
+525
+00:45:34,330 --> 00:45:37,680
+ -Why not? They seem friendly enough. -Don't you believe it.
+
+526
+00:45:37,840 --> 00:45:41,800
+There'll be human sacrifices. White-collar workers tossed into computers...
+
+527
+00:45:41,970 --> 00:45:44,090
+...and punched full of little square holes.
+
+528
+00:45:44,240 --> 00:45:46,320
+ -How many drinks did you have? -Three!
+
+529
+00:45:46,480 --> 00:45:49,520
+ -I thought so. -Wait. I hear the sound of running water.
+
+530
+00:45:49,690 --> 00:45:52,200
+ -I'll be right back! -I'll be right here.
+
+531
+00:45:53,520 --> 00:45:55,120
+Hi!
+
+532
+00:45:55,280 --> 00:45:57,760
+How's the branch manager from Kansas City?
+
+533
+00:45:57,920 --> 00:45:59,530
+ -I beg your pardon? -I'm Miss Olsen.
+
+534
+00:45:59,680 --> 00:46:01,520
+Mr. Sheldrake's secretary.
+
+535
+00:46:01,680 --> 00:46:03,920
+So you don't have to play innocent with me.
+
+536
+00:46:04,080 --> 00:46:07,920
+He used to tell his wife I was the branch manager from Seattle...
+
+537
+00:46:08,080 --> 00:46:12,200
+...four years ago when we were having a little ring-a-ding-ding.
+
+538
+00:46:13,040 --> 00:46:17,000
+ -I don't know what you're talking about. -Before me it was Miss Rossi in Auditing.
+
+539
+00:46:17,160 --> 00:46:19,680
+And after me it was Miss Koch in Disability.
+
+540
+00:46:19,840 --> 00:46:22,080
+And right before you was a Miss, um...
+
+541
+00:46:22,240 --> 00:46:24,480
+Oh, what's her name? On the 25th floor.
+
+542
+00:46:24,640 --> 00:46:28,000
+ -Would you excuse me? -What for? You haven't done anything.
+
+543
+00:46:28,160 --> 00:46:31,280
+It's him. Oh, what a salesman!
+
+544
+00:46:31,760 --> 00:46:34,080
+Always the last booth in the Chinese restaurant...
+
+545
+00:46:34,240 --> 00:46:37,190
+...and the same pitch about divorcing his wife.
+
+546
+00:46:39,240 --> 00:46:43,440
+Then, in the end, you wind up with egg foo yung on your face.
+
+547
+00:46:43,760 --> 00:46:45,640
+Miss Kubelik!
+
+548
+00:46:47,600 --> 00:46:49,280
+Well, thank you, Miss Olsen.
+
+549
+00:46:49,440 --> 00:46:53,440
+Always happy to do a little something for our girls in uniform.
+
+550
+00:46:54,560 --> 00:46:56,550
+Are you all right? What's the matter?
+
+551
+00:46:56,720 --> 00:46:59,190
+Nothing. There are just too many people here.
+
+552
+00:46:59,350 --> 00:47:03,110
+Why don't we step into my office? There's something I want your opinion about.
+
+553
+00:47:03,280 --> 00:47:07,830
+I have my own office now. I'm the second youngest executive in this company.
+
+554
+00:47:07,990 --> 00:47:11,590
+The only one younger is a grandson of the chairman of the board.
+
+555
+00:47:12,710 --> 00:47:14,750
+Do you mind?
+
+556
+00:47:18,750 --> 00:47:22,070
+Miss Kubelik, I would like your honest opinion.
+
+557
+00:47:22,230 --> 00:47:25,350
+I've had this under my desk for a week. It cost me $15.
+
+558
+00:47:25,510 --> 00:47:28,720
+I haven't been able to get up enough nerve to wear it.
+
+559
+00:47:34,120 --> 00:47:38,910
+It's what they call the Junior Executive model. What do you think?
+
+560
+00:47:42,150 --> 00:47:44,950
+I guess I made a boo-boo, huh?
+
+561
+00:47:45,110 --> 00:47:47,230
+ -I like it. -Really?
+
+562
+00:47:47,390 --> 00:47:50,150
+You wouldn't be ashamed to be seen with somebody in this hat?
+
+563
+00:47:50,310 --> 00:47:54,110
+ -Of course not. -Maybe if I wore it a little to one side.
+
+564
+00:47:54,270 --> 00:47:56,870
+ -Is that better? -Much better.
+
+565
+00:47:57,020 --> 00:47:59,580
+Since you wouldn't be ashamed to be seen with me...
+
+566
+00:47:59,750 --> 00:48:02,710
+...how about goin' out tonight... you, me and the bowler?
+
+567
+00:48:02,860 --> 00:48:05,510
+We'll stroll down 5th Avenue, sort of break it in.
+
+568
+00:48:05,660 --> 00:48:09,350
+ -This is a bad day for me. -I understand. Christmas and family.
+
+569
+00:48:09,510 --> 00:48:11,740
+I'd better get back to my elevator or I'll be fired.
+
+570
+00:48:11,910 --> 00:48:15,590
+Don't worry about that. I've got quite a bit of influence with Personnel.
+
+571
+00:48:15,740 --> 00:48:17,750
+You know Mr. Sheldrake?
+
+572
+00:48:19,110 --> 00:48:21,340
+ -Why? -He and I are like that.
+
+573
+00:48:21,510 --> 00:48:24,140
+Sent me a Christmas card. See?
+
+574
+00:48:29,590 --> 00:48:32,230
+Makes a cute picture.
+
+575
+00:48:33,150 --> 00:48:35,710
+I could talk to Mr. Sheldrake. Get you a promotion.
+
+576
+00:48:35,860 --> 00:48:41,350
+ -Would you like to be an elevator starter? -Too many girls have seniority over me.
+
+577
+00:48:41,700 --> 00:48:44,660
+No problem. Why don't we discuss it over the holidays?
+
+578
+00:48:44,830 --> 00:48:49,030
+I could call you, pick you up, have a big unveiling. Am I wearing this right?
+
+579
+00:48:49,180 --> 00:48:51,220
+I think so. Here.
+
+580
+00:48:51,390 --> 00:48:54,260
+It's not tilted too much? This is a conservative firm.
+
+581
+00:48:54,430 --> 00:48:57,420
+I don't want people to think I'm an entertainer.
+
+582
+00:49:01,670 --> 00:49:03,660
+What's the matter?
+
+583
+00:49:06,260 --> 00:49:08,710
+ -The mirror. It's broken. -Yes, I know.
+
+584
+00:49:09,660 --> 00:49:12,540
+I like it that way. Makes me look the way I feel.
+
+585
+00:49:16,700 --> 00:49:18,730
+Your phone.
+
+586
+00:49:24,100 --> 00:49:26,140
+Yes?
+
+587
+00:49:26,620 --> 00:49:28,380
+Uh, just a minute.
+
+588
+00:49:28,540 --> 00:49:32,940
+ -If you don't mind, this is sort of personal. -Have a nice Christmas.
+
+589
+00:49:39,380 --> 00:49:41,340
+Yes, Mr. Sheldrake.
+
+590
+00:49:42,370 --> 00:49:47,420
+No, I didn't forget. The tree is up and the Tom and Jerry mix is in the refrigerator.
+
+591
+00:49:47,580 --> 00:49:49,610
+Yes, sir. Same to you.
+
+592
+00:50:15,730 --> 00:50:18,090
+Hey! Where are you goin', Buddy-boy?
+
+593
+00:50:18,260 --> 00:50:20,380
+The party's just starting.
+
+594
+00:50:20,530 --> 00:50:23,730
+Listen, kid. Gimme a break. How about tomorrow afternoon?
+
+595
+00:50:23,900 --> 00:50:29,260
+I can't take her to that drive-in again. The car has no heater. Four o'clock. OK?
+
+596
+00:51:03,890 --> 00:51:09,330
+Hey, Charlie! Gimme a shot of bourbon, and step on it! My sleigh is double-parked!
+
+597
+00:52:13,890 --> 00:52:16,920
+You buy me a drink, I'll buy you some music.
+
+598
+00:52:17,080 --> 00:52:19,080
+Rum Collins.
+
+599
+00:52:28,760 --> 00:52:29,960
+Uh...
+
+600
+00:52:30,120 --> 00:52:33,640
+Rum Collins and... another one of these little mothers.
+
+601
+00:52:45,280 --> 00:52:47,070
+You like Castro?
+
+602
+00:52:47,240 --> 00:52:49,960
+I mean, how do you feel about Castro?
+
+603
+00:52:50,110 --> 00:52:53,760
+ -What is Castro? -You know. That big shot down in Cuba.
+
+604
+00:52:53,920 --> 00:52:55,950
+ -With the crazy beard. -What about him?
+
+605
+00:52:56,120 --> 00:52:59,230
+Cause as far as I'm concerned, he's a no-good fink.
+
+606
+00:52:59,400 --> 00:53:02,600
+Two weeks ago I wrote him a letter. Never even answered me.
+
+607
+00:53:02,750 --> 00:53:03,670
+That so?
+
+608
+00:53:03,840 --> 00:53:07,430
+All I wanted him to do was let Mickey out for Christmas.
+
+609
+00:53:07,600 --> 00:53:09,550
+ -Who's Mickey? -My husband.
+
+610
+00:53:09,710 --> 00:53:12,150
+He's in Havana, in jail.
+
+611
+00:53:12,310 --> 00:53:15,680
+ -Mixed up in that revolution? -Mickey would do nothin' like that.
+
+612
+00:53:15,830 --> 00:53:19,390
+He's a jockey. They caught him dopin' a horse.
+
+613
+00:53:19,550 --> 00:53:21,800
+Well, you can't win 'em all.
+
+614
+00:53:26,720 --> 00:53:30,200
+'Twas the night before Christmas, and all through the house
+
+615
+00:53:30,350 --> 00:53:32,360
+Not a creature was stirrin'...
+
+616
+00:53:33,040 --> 00:53:36,030
+Nothin'. No action.
+
+617
+00:53:36,520 --> 00:53:38,350
+Dullsville.
+
+618
+00:53:38,510 --> 00:53:40,520
+ -You married? -No.
+
+619
+00:53:40,670 --> 00:53:42,670
+ -Family? -No.
+
+620
+00:53:43,390 --> 00:53:47,830
+A night like this, it sort of spooks you to walk into an empty apartment.
+
+621
+00:53:49,310 --> 00:53:53,310
+I said I had no family. I didn't say I had an empty apartment.
+
+622
+00:53:58,070 --> 00:54:00,350
+Come on, Fran. Don't be that way.
+
+623
+00:54:00,990 --> 00:54:03,830
+Are you just gonna sit there and keep bawling?
+
+624
+00:54:03,990 --> 00:54:07,190
+You won't talk to me? You won't tell me what's wrong?
+
+625
+00:54:08,830 --> 00:54:13,630
+I know you think I'm stalling you but... when you've been married for 12 years...
+
+626
+00:54:13,790 --> 00:54:18,190
+...you just don't sit down to breakfast and say "Pass the sugar. I want a divorce."
+
+627
+00:54:18,350 --> 00:54:20,830
+It's not that easy.
+
+628
+00:54:22,030 --> 00:54:26,580
+Anyway, this is the wrong time. The kids are off school, my in-laws are visiting.
+
+629
+00:54:26,750 --> 00:54:28,660
+I can't bring it up now.
+
+630
+00:54:30,430 --> 00:54:35,390
+This isn't like you, Fran. You were always such a good sport. Such fun to be with.
+
+631
+00:54:37,580 --> 00:54:41,780
+That's me. The happy idiot. A million laughs.
+
+632
+00:54:42,700 --> 00:54:46,830
+Well, that's a little more like it. At least you're speaking to me.
+
+633
+00:54:47,710 --> 00:54:50,990
+A funny thing happened to me at the office party today.
+
+634
+00:54:51,140 --> 00:54:53,550
+I ran into your secretary, Miss Olsen.
+
+635
+00:54:54,420 --> 00:54:56,460
+You know. Ring-a-ding-ding?
+
+636
+00:54:57,460 --> 00:55:00,180
+And I laughed so much, I like to died.
+
+637
+00:55:00,350 --> 00:55:04,740
+Is that what's been bothering you, Fran? Miss Olsen? That's ancient history.
+
+638
+00:55:04,900 --> 00:55:07,870
+Well, I never was very good at history.
+
+639
+00:55:08,500 --> 00:55:12,580
+Let me see. There was Miss Olsen, and then there was Miss Rossi.
+
+640
+00:55:12,750 --> 00:55:15,700
+No, she came before. Miss Koch came after Miss Olsen.
+
+641
+00:55:15,860 --> 00:55:18,100
+ -Now, Fran... -And just think.
+
+642
+00:55:18,260 --> 00:55:21,940
+Right now some lucky girl in the building is gonna come after me.
+
+643
+00:55:22,110 --> 00:55:24,740
+OK. OK, Fran. I guess I deserved that.
+
+644
+00:55:24,900 --> 00:55:28,820
+But ask yourself: Why does a man run around with a lot of girls?
+
+645
+00:55:28,980 --> 00:55:32,580
+Because he's unhappy at home. Because he's lonely. That's why.
+
+646
+00:55:32,740 --> 00:55:35,860
+But that was before you, Fran. I've stopped running.
+
+647
+00:55:37,300 --> 00:55:41,260
+How could I be so stupid? You'd think I would've learned by now.
+
+648
+00:55:41,420 --> 00:55:45,780
+When you're in love with a married man, you shouldn't wear mascara.
+
+649
+00:55:46,500 --> 00:55:49,500
+It's Christmas Eve, Fran. Let's not fight, huh?
+
+650
+00:55:51,700 --> 00:55:54,100
+ -Merry Christmas. -What is it?
+
+651
+00:55:59,340 --> 00:56:01,940
+Oh. Our friend at the Chinese restaurant.
+
+652
+00:56:03,050 --> 00:56:08,170
+ -Thanks, Fran. We'd better keep it here. -Yeah, we'd better.
+
+653
+00:56:08,890 --> 00:56:10,900
+Oh, I have a present for you.
+
+654
+00:56:11,060 --> 00:56:15,210
+I didn't know what to get you. Besides, it's kind of awkward for me shopping, so...
+
+655
+00:56:15,370 --> 00:56:18,730
+Here's $100. You go and buy yourself something.
+
+656
+00:56:23,500 --> 00:56:26,570
+They have some nice alligator bags at Bergdorf's.
+
+657
+00:56:37,850 --> 00:56:41,770
+I didn't realize it was so late. It's quarter to seven. I mustn't miss my train.
+
+658
+00:56:41,930 --> 00:56:46,330
+If we hadn't wasted all this time... I have to get home and trim the tree.
+
+659
+00:56:46,850 --> 00:56:50,530
+OK. I just thought, as long as it was paid for...
+
+660
+00:56:50,690 --> 00:56:52,650
+Don't ever talk like that, Fran.
+
+661
+00:56:52,810 --> 00:56:56,770
+ -Don't make yourself out to be cheap. -$100? I don't call that cheap.
+
+662
+00:56:56,930 --> 00:57:00,810
+And you must be paying somebody something for the use of the apartment.
+
+663
+00:57:00,970 --> 00:57:03,010
+Stop it, Fran.
+
+664
+00:57:04,010 --> 00:57:06,010
+You'll miss your train, Jeff.
+
+665
+00:57:14,250 --> 00:57:15,770
+Are you coming?
+
+666
+00:57:15,930 --> 00:57:18,410
+No, you run along. I'm gonna fix my face.
+
+667
+00:57:18,570 --> 00:57:20,970
+Don't forget to kill the lights. See you Monday.
+
+668
+00:57:21,130 --> 00:57:24,570
+Sure. Monday... and Thursday...
+
+669
+00:57:24,720 --> 00:57:27,850
+...and Monday again, and Thursday again.
+
+670
+00:57:29,730 --> 00:57:32,480
+It won't always be like this, Fran.
+
+671
+00:57:32,650 --> 00:57:34,690
+I love you.
+
+672
+00:57:34,840 --> 00:57:37,050
+Careful. Lipstick.
+
+673
+00:57:38,250 --> 00:57:40,290
+Merry Christmas.
+
+674
+01:00:01,590 --> 01:00:04,990
+ -Drink up, pop. It's closing time. -But it's early, Charlie.
+
+675
+01:00:05,150 --> 01:00:08,550
+ -Don't you know what night this is? -I know, Charlie. I know.
+
+676
+01:00:08,710 --> 01:00:10,710
+I work for the outfit.
+
+677
+01:00:16,030 --> 01:00:18,700
+Hey, knock it off, will ya? Go home.
+
+678
+01:00:26,550 --> 01:00:28,710
+O-U-T. Out!
+
+679
+01:00:33,420 --> 01:00:35,980
+Where'll we go? My place or yours?
+
+680
+01:00:38,510 --> 01:00:41,750
+Might as well go to mine. Everybody else does.
+
+681
+01:00:52,950 --> 01:00:58,070
+Poor Mickey. When I think of him all by himself in that jail in Havana...
+
+682
+01:00:58,220 --> 01:01:00,300
+Would you like to see his picture?
+
+683
+01:01:00,470 --> 01:01:02,460
+Not particularly.
+
+684
+01:01:03,780 --> 01:01:08,340
+He's so cute. He's 5 foot 2, 99 pounds.
+
+685
+01:01:08,500 --> 01:01:10,540
+Like a little Chihuahua.
+
+686
+01:01:22,740 --> 01:01:25,780
+ -Can I ask you a personal question? -No.
+
+687
+01:01:25,950 --> 01:01:27,820
+You got a girlfriend?
+
+688
+01:01:27,980 --> 01:01:30,700
+She may be a girl but she is no friend of mine.
+
+689
+01:01:30,860 --> 01:01:34,860
+ -Still stuck on her, huh? -Obviously you don't know me very well.
+
+690
+01:01:35,020 --> 01:01:37,610
+ -I don't know you at all. -Permit me.
+
+691
+01:01:38,060 --> 01:01:44,170
+C.C. Baxter. Junior executive, Arthur Murray graduate... lover.
+
+692
+01:01:44,340 --> 01:01:47,650
+I'm Mrs. MacDougall. Margie to you.
+
+693
+01:01:48,940 --> 01:01:50,900
+This way, Mrs. MacDougall.
+
+694
+01:02:00,940 --> 01:02:03,620
+Say! This is snugsville!
+
+695
+01:02:03,780 --> 01:02:06,220
+Mrs. MacDougall, it's only fair to warn you...
+
+696
+01:02:06,370 --> 01:02:09,580
+...you are now alone with a notorious sexpot.
+
+697
+01:02:09,740 --> 01:02:12,300
+ -No kiddin'! -Ask anybody around here.
+
+698
+01:02:12,450 --> 01:02:16,300
+As a matter of fact, when it's time for me to go... and I may go just like that...
+
+699
+01:02:16,450 --> 01:02:19,210
+I have promised my body to the Columbia Medical Center.
+
+700
+01:02:19,380 --> 01:02:22,220
+Gee! Sort of gives you goose bumps just to think about it.
+
+701
+01:02:22,380 --> 01:02:25,530
+They haven't got me yet, baby. Dig up some ice from the kitchen.
+
+702
+01:02:25,700 --> 01:02:28,460
+Let's not waste any more time preliminarywise.
+
+703
+01:02:28,610 --> 01:02:30,580
+I'm with you, lover.
+
+704
+01:03:44,000 --> 01:03:46,410
+All right, Miss Kubelik. Get up.
+
+705
+01:03:47,170 --> 01:03:49,250
+Come on. It's past checking-out time.
+
+706
+01:03:49,400 --> 01:03:53,600
+The management would appreciate it if you'd get the hell outta here.
+
+707
+01:03:56,290 --> 01:04:01,410
+I used to like you. I used to like you a lot. Well, it's all over between us, so beat it.
+
+708
+01:04:02,040 --> 01:04:04,010
+O-U-T, out!
+
+709
+01:04:05,080 --> 01:04:07,120
+Come on, wake up.
+
+710
+01:04:13,330 --> 01:04:15,240
+Oh my God.
+
+711
+01:04:15,400 --> 01:04:17,400
+Miss Kubelik?
+
+712
+01:04:18,050 --> 01:04:20,080
+库伯利克小姐?
+
+713
+01:04:29,400 --> 01:04:32,160
+I broke a nail tryin' to get the tray out.
+
+714
+01:04:32,320 --> 01:04:35,320
+You oughta buy yourself a new refrigerator.
+
+715
+01:04:37,600 --> 01:04:39,440
+I didn't mean right now!
+
+716
+01:04:42,240 --> 01:04:44,280
+Dr. Dreyfuss.
+
+717
+01:04:44,760 --> 01:04:46,760
+Doc!
+
+718
+01:04:47,680 --> 01:04:51,520
+There's a girl in my place, took some sleeping pills. I can't wake her up.
+
+719
+01:04:51,680 --> 01:04:53,720
+ -Let me get my bag. -Hurry up!
+
+720
+01:04:55,600 --> 01:04:58,950
+Hey, over here, lover. What's all the running around about?
+
+721
+01:04:59,120 --> 01:05:01,710
+You're gonna wear yourself out.
+
+722
+01:05:02,430 --> 01:05:04,920
+ -Not so rough, honey! -Good night.
+
+723
+01:05:05,080 --> 01:05:07,000
+ -Good night?! -The party's over.
+
+724
+01:05:07,150 --> 01:05:09,230
+What? Did I do somethin' wrong?
+
+725
+01:05:09,400 --> 01:05:12,560
+It's an emergency. I'll see you some other time.
+
+726
+01:05:12,710 --> 01:05:14,680
+Not this one. In there, Doc.
+
+727
+01:05:15,640 --> 01:05:19,160
+ -What's goin' on here, anyway? -Will you please just get out?!
+
+728
+01:05:19,310 --> 01:05:20,760
+My shoes!
+
+729
+01:05:20,910 --> 01:05:23,800
+Some lover you are! Some sexpot!
+
+730
+01:05:23,950 --> 01:05:26,510
+Here. Find a phone. Call your husband in Havana.
+
+731
+01:05:26,680 --> 01:05:31,910
+You bet I will! And when I tell him how you treated me, he'll push your face in!
+
+732
+01:05:32,080 --> 01:05:34,030
+You fink!
+
+733
+01:05:48,910 --> 01:05:50,830
+Is she gonna be all right, Doc?
+
+734
+01:05:51,000 --> 01:05:54,830
+ -How many pills were in that bottle? -It was half-full. About a dozen.
+
+735
+01:05:54,990 --> 01:05:57,870
+ -Do you have to take her to the hospital? -Help me, will you?
+
+736
+01:05:58,030 --> 01:06:00,510
+ -Into the bathroom. -What are you gonna do?
+
+737
+01:06:00,670 --> 01:06:03,310
+Get that stuff out of her stomach if it isn't too late.
+
+738
+01:06:03,470 --> 01:06:06,070
+You'd better put some coffee on, and pray.
+
+739
+01:06:58,710 --> 01:07:00,750
+Bring my bag.
+
+740
+01:07:10,150 --> 01:07:12,100
+Roll up her right sleeve.
+
+741
+01:07:21,460 --> 01:07:23,470
+Hold that.
+
+742
+01:07:30,180 --> 01:07:32,140
+Nice veins.
+
+743
+01:07:43,420 --> 01:07:46,060
+Wanna tell me what happened?
+
+744
+01:07:46,220 --> 01:07:48,820
+I don't know. I mean, I wasn't even here.
+
+745
+01:07:51,700 --> 01:07:55,300
+You see, we had... some words earlier.
+
+746
+01:07:55,460 --> 01:07:59,450
+It was nothin' serious. You might call it a lovers' quarrel.
+
+747
+01:08:00,460 --> 01:08:03,140
+So you went right out and picked yourself up another dame.
+
+748
+01:08:03,300 --> 01:08:07,890
+ -Something like that. -You know, Baxter, you're a real cutie pie.
+
+749
+01:08:08,060 --> 01:08:09,530
+Yes, you are.
+
+750
+01:08:17,380 --> 01:08:22,330
+If you'd come home half an hour later, you'd have had quite a Christmas present.
+
+751
+01:08:40,300 --> 01:08:42,340
+Get the coffee.
+
+752
+01:09:04,890 --> 01:09:07,650
+Let's get some air in here. Open the windows.
+
+753
+01:09:22,330 --> 01:09:24,250
+What's her name?
+
+754
+01:09:24,410 --> 01:09:27,000
+Miss Kubelik. Fran.
+
+755
+01:09:30,210 --> 01:09:35,200
+Fran, I'm a doctor. I'm here because you took too many sleeping pills.
+
+756
+01:09:35,370 --> 01:09:37,490
+Do you understand what I'm saying?
+
+757
+01:09:39,160 --> 01:09:42,480
+Fran, I'm Dr. Dreyfuss. I'm here to help you.
+
+758
+01:09:42,650 --> 01:09:45,480
+You took all those sleeping pills. Remember?
+
+759
+01:09:46,610 --> 01:09:50,090
+ -Sleeping pills. -That's right, Fran. And I'm a doctor.
+
+760
+01:09:50,840 --> 01:09:53,640
+ -Doctor? -Dr. Dreyfuss.
+
+761
+01:09:55,970 --> 01:09:57,490
+Dreyfuss.
+
+762
+01:09:57,640 --> 01:09:59,610
+Get more coffee.
+
+763
+01:10:00,440 --> 01:10:02,840
+Now tell me again. What's my name?
+
+764
+01:10:05,880 --> 01:10:08,120
+Dr... Dreyfuss.
+
+765
+01:10:08,290 --> 01:10:10,320
+And what happened to you?
+
+766
+01:10:10,800 --> 01:10:12,400
+I...
+
+767
+01:10:12,560 --> 01:10:14,610
+I took sleeping pills.
+
+768
+01:10:15,120 --> 01:10:17,520
+Do you know where you are?
+
+769
+01:10:19,400 --> 01:10:22,570
+ -No. -Yes, you do, Fran. Now concentrate!
+
+770
+01:10:24,410 --> 01:10:26,360
+I don't know.
+
+771
+01:10:27,200 --> 01:10:29,200
+Do you know who that is?
+
+772
+01:10:35,650 --> 01:10:37,680
+Look at him.
+
+773
+01:10:38,640 --> 01:10:41,480
+Mr. Baxter. 19th floor.
+
+774
+01:10:42,120 --> 01:10:44,080
+Hello, Miss Kubelik.
+
+775
+01:10:44,520 --> 01:10:46,960
+Mr? Miss? Such politeness!
+
+776
+01:10:48,160 --> 01:10:52,080
+We work in the same building. We try to keep it quiet.
+
+777
+01:10:53,640 --> 01:10:56,230
+What are you doing here?
+
+778
+01:10:57,680 --> 01:11:01,240
+Don't you remember we were together at the office party?
+
+779
+01:11:01,400 --> 01:11:03,680
+Oh, yes. The office party.
+
+780
+01:11:03,840 --> 01:11:06,320
+ -Miss Olsen. -That's right.
+
+781
+01:11:06,480 --> 01:11:09,240
+I told you we had a fight. That was what it was about.
+
+782
+01:11:09,400 --> 01:11:12,640
+Miss Olsen. That girl that was here earlier.
+
+783
+01:11:14,160 --> 01:11:16,720
+I don't understand.
+
+784
+01:11:16,880 --> 01:11:22,040
+The main thing is I got here in time and you're gonna be all right. Isn't she, Doc?
+
+785
+01:11:22,910 --> 01:11:25,030
+I'm so tired.
+
+786
+01:11:25,190 --> 01:11:27,200
+Come on. Drink this.
+
+787
+01:11:27,510 --> 01:11:30,070
+Please... just let me sleep.
+
+788
+01:11:30,240 --> 01:11:33,960
+No, you can't sleep! Fran, open your eyes!
+
+789
+01:11:34,520 --> 01:11:36,560
+Let's get her walking.
+
+790
+01:11:39,070 --> 01:11:43,430
+We've got to keep her awake for the next few hours. Now come on, Fran, walk!
+
+791
+01:11:43,600 --> 01:11:48,390
+1,2,3,4
+One, two, three, four!
+
+792
+01:11:48,550 --> 01:11:50,630
+Left, right, left, right...
+
+793
+01:11:50,800 --> 01:11:52,870
+...left, right and return!
+
+794
+01:11:53,030 --> 01:11:56,070
+1,2,3,4
+And... one, two, three, four!
+
+795
+01:11:56,240 --> 01:11:59,480
+Now you've got it! One, two, three, four!
+
+796
+01:11:59,630 --> 01:12:02,710
+Walk, Fran! One, two, three, four!
+
+797
+01:12:02,870 --> 01:12:05,390
+One, two... And return again.
+
+798
+01:12:05,560 --> 01:12:08,590
+And... left, right, left, right.
+
+799
+01:12:15,470 --> 01:12:18,630
+She'll sleep on and off for the next 24 hours.
+
+800
+01:12:18,790 --> 01:12:22,310
+Of course, she'll have a dandy hangover when she wakes up.
+
+801
+01:12:22,470 --> 01:12:24,550
+Just as long as she's OK.
+
+802
+01:12:24,710 --> 01:12:29,830
+These cases are harder on the doctor than the patient. I oughta charge by the mile.
+
+803
+01:12:29,990 --> 01:12:32,990
+ -Any of that coffee left? -Yeah, sure.
+
+804
+01:12:33,860 --> 01:12:36,230
+How do you spell her last name?
+
+805
+01:12:36,390 --> 01:12:38,740
+Kubelik. Two k's.
+
+806
+01:12:38,910 --> 01:12:40,860
+What's her address?
+
+807
+01:12:41,540 --> 01:12:43,590
+Where does she live?
+
+808
+01:12:44,470 --> 01:12:46,900
+Why do you wanna know, Doc?
+
+809
+01:12:47,900 --> 01:12:50,900
+ -You don't have to report this, do you? -It's regulations.
+
+810
+01:12:51,070 --> 01:12:55,780
+But it was an accident. She had too much to drink, didn't know what she was doing.
+
+811
+01:12:55,950 --> 01:12:57,990
+There was no suicide note or anything.
+
+812
+01:12:58,140 --> 01:13:01,140
+ -I'm not thinkin' about myself. -Aren't you?
+
+813
+01:13:01,310 --> 01:13:04,590
+She's got a family, and there's the people at the office.
+
+814
+01:13:04,740 --> 01:13:08,460
+Can't you forget you're a doctor, just say you're here as a neighbor?
+
+815
+01:13:08,630 --> 01:13:11,390
+Well, as a doctor, I can't prove it wasn't an accident.
+
+816
+01:13:11,540 --> 01:13:14,540
+But as your neighbor, I'd like to kick you around the block.
+
+817
+01:13:14,700 --> 01:13:17,140
+ -Mind if I cool this off? -Help yourself.
+
+818
+01:13:17,300 --> 01:13:19,590
+I don't know what you did to that girl...
+
+819
+01:13:19,740 --> 01:13:22,150
+...but it was bound to happen, the way you carry on.
+
+820
+01:13:22,300 --> 01:13:24,710
+Live now, pay later. Diners Club!
+
+821
+01:13:26,500 --> 01:13:29,340
+Why don't you grow up, Baxter? Be a mensch.
+
+822
+01:13:29,500 --> 01:13:31,740
+ -You know what that means? -I'm not sure.
+
+823
+01:13:31,900 --> 01:13:33,940
+A mensch! A human being!
+
+824
+01:13:34,820 --> 01:13:37,700
+So you got off easy this time. So you were lucky.
+
+825
+01:13:37,860 --> 01:13:42,380
+But you're not out of the woods yet, because most of 'em try it again.
+
+826
+01:13:43,340 --> 01:13:45,860
+Well, you know where I am if you need me.
+
+827
+01:14:54,890 --> 01:14:57,610
+Mr. Baxter! Open up already.
+
+828
+01:15:00,700 --> 01:15:02,580
+Oh.
+
+829
+01:15:02,730 --> 01:15:05,970
+ -Mrs. Lieberman. -Who did you think it was? Kriss Kringle?
+
+830
+01:15:06,130 --> 01:15:08,090
+What was going on here last night?
+
+831
+01:15:08,250 --> 01:15:11,450
+ -Last night? -All that marching! Tramp, tramp, tramp!
+
+832
+01:15:11,610 --> 01:15:15,050
+ -Army maneuvers maybe? -I'll never invite those people again.
+
+833
+01:15:15,210 --> 01:15:19,210
+What you get from renting to bachelors. All night I didn't sleep ten minutes.
+
+834
+01:15:19,370 --> 01:15:24,650
+ -And I'm sure you woke up Dr. Dreyfuss. -Don't worry. He was out on a case.
+
+835
+01:15:24,810 --> 01:15:29,680
+I'm warning you, Mr. Baxter. This is a respectable house, not a honky-tonky.
+
+836
+01:15:29,850 --> 01:15:31,850
+Come on, Oscar.
+
+837
+01:15:57,690 --> 01:16:02,120
+Operator, I want White Plains, New York. Mr. J.D. Sheldrake.
+
+838
+01:16:02,290 --> 01:16:04,280
+Make that person-to-person.
+
+839
+01:16:08,850 --> 01:16:11,720
+Five, four, three, two, one...
+
+840
+01:16:11,890 --> 01:16:14,320
+Let her rip!
+
+841
+01:16:14,490 --> 01:16:16,000
+I'll get the phone.
+
+842
+01:16:16,160 --> 01:16:18,960
+Hey, Dad, why don't we put a fly in the nose cone?
+
+843
+01:16:19,130 --> 01:16:21,880
+ -See if we can bring it back alive. -That's a thought.
+
+844
+01:16:22,040 --> 01:16:25,930
+Maybe we should put in two flies and see if they'll propagate in orbit.
+
+845
+01:16:26,080 --> 01:16:30,040
+ -See if they'll what? -Propagate. You know. Multiply.
+
+846
+01:16:30,200 --> 01:16:33,800
+ -Baby flies? -Oh. Oh!
+
+847
+01:16:34,570 --> 01:16:37,000
+ -It's for you, Dad. -Thanks, Jeff.
+
+848
+01:16:37,170 --> 01:16:40,200
+A Mr. Baxter. Person-to-person.
+
+849
+01:16:40,360 --> 01:16:42,840
+Come on. Help me round up some flies.
+
+850
+01:16:43,010 --> 01:16:48,370
+ -Hello? What's on your mind, Baxter? -Something came up that's important.
+
+851
+01:16:48,520 --> 01:16:51,720
+I think you should see me at the apartment as soon as possible.
+
+852
+01:16:51,880 --> 01:16:55,400
+ -What's this all about? -I didn't wanna tell you over the phone.
+
+853
+01:16:55,560 --> 01:17:00,440
+But that certain party... You know who I mean. I found her here last night.
+
+854
+01:17:00,600 --> 01:17:03,640
+ -She took an overdose of sleeping pills. -What?!
+
+855
+01:17:04,920 --> 01:17:08,710
+ -What is it, Jeff? Who's on the phone? -One of our employees had an accident.
+
+856
+01:17:08,880 --> 01:17:12,120
+I don't know why they bother me with these things on Christmas Day.
+
+857
+01:17:12,280 --> 01:17:14,000
+Yes, Baxter.
+
+858
+01:17:14,160 --> 01:17:16,360
+Just how serious is it?
+
+859
+01:17:16,520 --> 01:17:20,000
+It was touch and go there for a while, but she's sleeping it off now.
+
+860
+01:17:20,150 --> 01:17:23,080
+I thought maybe you'd like to be here when she wakes up.
+
+861
+01:17:24,040 --> 01:17:28,310
+That's impossible. You'll have to handle the situation yourself, Baxter.
+
+862
+01:17:28,480 --> 01:17:32,680
+ -As a matter of fact, I'm counting on you. -Yes, sir. I understand.
+
+863
+01:17:32,830 --> 01:17:36,990
+She left a letter. Would you like me to open it and read it to you?
+
+864
+01:17:37,160 --> 01:17:39,720
+Well, it was just a suggestion.
+
+865
+01:17:39,880 --> 01:17:43,590
+No, don't worry. I kept your name out of it, so there'll be no trouble...
+
+866
+01:17:43,750 --> 01:17:46,200
+...policewise or newspaperwise.
+
+867
+01:17:47,350 --> 01:17:51,510
+You see, the doctor is a friend of mine, so we were very lucky in that respect.
+
+868
+01:17:51,670 --> 01:17:54,070
+Actually, he thinks she's my girl.
+
+869
+01:17:54,880 --> 01:17:57,000
+No, he just jumped to the conclusion.
+
+870
+01:17:57,150 --> 01:17:59,830
+Around here I'm known as quite a ladies' man.
+
+871
+01:17:59,990 --> 01:18:04,030
+Of course, we're not out of the woods yet. Sometimes they try it again.
+
+872
+01:18:04,190 --> 01:18:07,870
+Yes, sir. I'll do my best. It'll take her a couple of days to fully recover...
+
+873
+01:18:08,030 --> 01:18:11,230
+...and I may have a little problem with the landlady.
+
+874
+01:18:11,870 --> 01:18:15,190
+OK, Mr. Sheldrake. I'll keep her in the apartment as long as I can.
+
+875
+01:18:15,350 --> 01:18:18,750
+Isn't there some sort of message you want me to give her?
+
+876
+01:18:19,190 --> 01:18:21,310
+Well, I'll... think of something.
+
+877
+01:18:21,830 --> 01:18:23,910
+Yes, sir. Goodbye, Mr. Sheldrake.
+
+878
+01:18:26,630 --> 01:18:28,670
+I'm sorry.
+
+879
+01:18:29,310 --> 01:18:32,790
+ -I'm sorry, Mr. Baxter. -What are you doing out of bed?
+
+880
+01:18:32,950 --> 01:18:35,990
+I didn't know. I had no idea this was your apartment.
+
+881
+01:18:36,150 --> 01:18:38,750
+Here. Let me help you.
+
+882
+01:18:39,230 --> 01:18:41,150
+Oh, I'm so ashamed.
+
+883
+01:18:41,310 --> 01:18:43,230
+Why didn't you just let me die?
+
+884
+01:18:43,390 --> 01:18:48,660
+What kind of talk is that? You got a little overemotional, but you're fine now.
+
+885
+01:18:48,830 --> 01:18:50,230
+Oh!
+
+886
+01:18:50,390 --> 01:18:54,470
+Oh, my head! It feels just like a big wad of chewing gum.
+
+887
+01:18:54,630 --> 01:18:57,270
+ -What time is it? -Two o'clock.
+
+888
+01:18:57,430 --> 01:18:59,550
+Oh, my dress. I have to go home.
+
+889
+01:18:59,710 --> 01:19:02,020
+You're in no shape to go anywhere but back to bed.
+
+890
+01:19:02,190 --> 01:19:04,510
+ -You don't want me here. -Sure I do. I...
+
+891
+01:19:04,670 --> 01:19:07,670
+It's always nice to have company for Christmas.
+
+892
+01:19:07,820 --> 01:19:11,190
+ -I'm stronger than you are. -I just wanna brush my teeth.
+
+893
+01:19:11,340 --> 01:19:14,710
+Oh. Of course. I think I can find a new toothbrush somewhere.
+
+894
+01:19:14,860 --> 01:19:17,460
+Here. Put that on.
+
+895
+01:19:44,940 --> 01:19:48,500
+ -How about some breakfast? -No. I don't want anything.
+
+896
+01:19:48,660 --> 01:19:50,580
+I'll fix you some coffee.
+
+897
+01:19:50,750 --> 01:19:54,860
+Oh! We're all out of coffee. You had quite a lot last night.
+
+898
+01:19:55,020 --> 01:19:56,980
+Back in a minute.
+
+899
+01:20:06,020 --> 01:20:08,180
+Mrs. Dreyfuss, could I borrow some coffee?
+
+900
+01:20:08,340 --> 01:20:11,980
+ -And an orange and a couple of eggs? -Eggs, he asks me for! Oranges!
+
+901
+01:20:12,140 --> 01:20:16,420
+What you need is a good horsewhipping! From me the doctor has no secrets.
+
+902
+01:20:16,580 --> 01:20:18,700
+Poor girl. How could you do such a thing?
+
+903
+01:20:18,860 --> 01:20:21,740
+I didn't do anything. Honest. It's just...
+
+904
+01:20:22,530 --> 01:20:27,780
+You take a girl out just for laughs and she thinks you're serious marriagewise.
+
+905
+01:20:27,930 --> 01:20:31,210
+Big shot! For you, I wouldn't lift a finger!
+
+906
+01:20:31,380 --> 01:20:34,410
+But for her, I'll fix a little something to eat.
+
+907
+01:20:42,580 --> 01:20:44,180
+Who are you calling?
+
+908
+01:20:44,330 --> 01:20:46,370
+My sister, to tell her what happened to me.
+
+909
+01:20:46,540 --> 01:20:51,330
+Wait a minute! Let's talk it over first. Just what are you gonna tell her?
+
+910
+01:20:52,010 --> 01:20:55,810
+ -I haven't figured it out exactly. -Well, you'd better figure it out exactly.
+
+911
+01:20:55,970 --> 01:20:58,900
+Suppose she asks you why you didn't come home last night.
+
+912
+01:20:59,050 --> 01:21:00,890
+I'll say I spent the night with a friend.
+
+913
+01:21:01,050 --> 01:21:02,970
+ -Who? -Someone from the office.
+
+914
+01:21:03,140 --> 01:21:04,810
+ -Where are you now? -In his apartment.
+
+915
+01:21:04,980 --> 01:21:07,210
+ -In his apartment? -In her apartment.
+
+916
+01:21:07,370 --> 01:21:09,450
+ -What's your friend's name? -Baxter.
+
+917
+01:21:09,610 --> 01:21:12,570
+ -What's her first name? -Miss.
+
+918
+01:21:12,730 --> 01:21:15,370
+ -When are you comin' home? -As soon as I can walk.
+
+919
+01:21:15,530 --> 01:21:17,450
+ -Your legs hurt? -No, my stomach.
+
+920
+01:21:17,620 --> 01:21:20,290
+ -Your stomach? -They had to pump it out!
+
+921
+01:21:20,450 --> 01:21:25,130
+You shouldn't call anybody. Not till you get the chewing gum out of your head.
+
+922
+01:21:25,290 --> 01:21:28,290
+They'll be worried about me. They might call the police.
+
+923
+01:21:28,450 --> 01:21:31,490
+We have to be careful. We don't wanna involve anybody.
+
+924
+01:21:31,650 --> 01:21:34,610
+After all, Mr. Sheldrake's a married man.
+
+925
+01:21:35,370 --> 01:21:37,410
+Thanks for reminding me!
+
+926
+01:21:40,970 --> 01:21:42,890
+I didn't mean it that way.
+
+927
+01:21:43,050 --> 01:21:47,010
+I was just talking to him on the phone. He's very concerned about you.
+
+928
+01:21:47,170 --> 01:21:49,770
+He doesn't give a damn about me.
+
+929
+01:21:49,930 --> 01:21:53,450
+ -You're wrong. He told me... -He's a liar.
+
+930
+01:21:53,600 --> 01:21:55,770
+But that's not the worst part.
+
+931
+01:21:55,930 --> 01:21:58,250
+The worst part is I still love him.
+
+932
+01:22:02,090 --> 01:22:04,160
+Oh. That must be Mrs. Dreyfuss.
+
+933
+01:22:04,330 --> 01:22:07,680
+Remember the doctor from last night? That's his wife.
+
+934
+01:22:09,280 --> 01:22:11,290
+So where's the victim?
+
+935
+01:22:12,250 --> 01:22:14,240
+Max the Knife!
+
+936
+01:22:16,720 --> 01:22:20,760
+ -Nu, little lady, how are we feeling today? -I don't know. Kind of dizzy.
+
+937
+01:22:20,920 --> 01:22:26,040
+The best thing for dizzy is noodle soup with chicken white meat and a glass tea.
+
+938
+01:22:26,210 --> 01:22:30,400
+ -No, thank you. I'm really not hungry. -Go ahead, eat. Enjoy.
+
+939
+01:22:30,560 --> 01:22:33,360
+You wouldn't have such a thing as a napkin, would you?
+
+940
+01:22:33,530 --> 01:22:36,560
+ -I have some paper towels. -Beatnik.
+
+941
+01:22:36,720 --> 01:22:40,000
+In my kitchen, third drawer, under the good silver, are napkins.
+
+942
+01:22:40,160 --> 01:22:41,440
+Yes, Mrs. Dreyfuss.
+
+943
+01:22:41,600 --> 01:22:44,120
+So, what are you waiting for? A singing commercial?
+
+944
+01:22:44,280 --> 01:22:46,200
+ -I can't eat. -You must eat.
+
+945
+01:22:46,370 --> 01:22:49,320
+And you must get healthy and you must forget him.
+
+946
+01:22:49,480 --> 01:22:52,640
+Such a fine boy he seemed when he first moved in here.
+
+947
+01:22:52,800 --> 01:22:55,640
+Clean and cut, a regular lvy Leaguer.
+
+948
+01:22:55,800 --> 01:23:00,000
+Turns out he's King Farouk, with the drinking, with the cha-cha.
+
+949
+01:23:00,160 --> 01:23:02,080
+With the no napkins.
+
+950
+01:23:02,240 --> 01:23:06,080
+A girl like you, for the rest of your life you wanna cry in your noodle soup?
+
+951
+01:23:06,240 --> 01:23:08,720
+Who needs it? Now you listen to me.
+
+952
+01:23:08,880 --> 01:23:12,800
+You'll find yourself a nice, substantial man... a widower, maybe...
+
+953
+01:23:12,960 --> 01:23:16,480
+...and settle down, instead of noshing all those sleeping pills.
+
+954
+01:23:16,640 --> 01:23:19,640
+For what? For whom? For some good-time Charlie?
+
+955
+01:23:22,030 --> 01:23:24,470
+One napkin comin' up. Wish we had some champagne to wrap it around.
+
+956
+01:23:25,760 --> 01:23:28,760
+ -What did I tell you? -Mrs. Dreyfuss, you don't have to wait.
+
+957
+01:23:28,910 --> 01:23:32,630
+ -I'll wash the dishes. -You'd break 'em. I'll come back for them.
+
+958
+01:23:32,800 --> 01:23:35,280
+If he makes trouble, give me a yell.
+
+959
+01:23:36,480 --> 01:23:40,150
+ -She doesn't seem to like you very much. -Oh, I don't mind.
+
+960
+01:23:40,310 --> 01:23:42,710
+As a matter of fact, I'm sort of flattered.
+
+961
+01:23:42,880 --> 01:23:47,870
+That anybody'd think a girl like you would do a thing like this over a guy like me.
+
+962
+01:23:49,030 --> 01:23:51,960
+Did you find something here? An envelope?
+
+963
+01:23:52,110 --> 01:23:53,600
+Yes. I've got it.
+
+964
+01:23:53,750 --> 01:23:57,910
+Don't you think we'd better destroy it so it won't fall in the wrong hands?
+
+965
+01:23:58,070 --> 01:24:00,070
+Open it.
+
+966
+01:24:03,510 --> 01:24:05,990
+There's nothing here but a $100 bill.
+
+967
+01:24:06,150 --> 01:24:09,430
+That's right. Will you see that Mr. Sheldrake gets it?
+
+968
+01:24:10,510 --> 01:24:12,470
+Sure.
+
+969
+01:24:13,920 --> 01:24:15,910
+Take this away, will you?
+
+970
+01:24:16,550 --> 01:24:19,230
+Would you like me to move the television set in here?
+
+971
+01:24:19,390 --> 01:24:22,030
+ -You play gin rummy? -I'm not very good at it.
+
+972
+01:24:22,190 --> 01:24:25,990
+ -I am. Let me get the cards. -You don't have to entertain me.
+
+973
+01:24:26,150 --> 01:24:29,710
+There's nothing I'd like better. You know. Togetherness.
+
+974
+01:24:29,870 --> 01:24:34,350
+Guess what I did last Christmas. Had dinner at the automat, went to the zoo...
+
+975
+01:24:34,510 --> 01:24:37,110
+...then came home and cleaned up after Mr. Eichelberger.
+
+976
+01:24:37,270 --> 01:24:39,510
+He had a little eggnog party here.
+
+977
+01:24:39,670 --> 01:24:41,870
+So I'm way ahead this year.
+
+978
+01:24:42,030 --> 01:24:44,630
+Three across. Spades double?
+
+979
+01:24:44,780 --> 01:24:46,750
+High deals.
+
+980
+01:24:47,340 --> 01:24:49,390
+6,8.
+Six? Eight.
+
+981
+01:24:57,030 --> 01:24:59,830
+I think I'm gonna give it all up.
+
+982
+01:25:00,940 --> 01:25:02,710
+Give what up?
+
+983
+01:25:05,580 --> 01:25:08,470
+Why do people have to love people, anyway?
+
+984
+01:25:09,820 --> 01:25:11,830
+I know what you mean.
+
+985
+01:25:14,870 --> 01:25:16,910
+Queen.
+
+986
+01:25:19,510 --> 01:25:21,900
+ -I don't want it. -Pick a card.
+
+987
+01:25:26,510 --> 01:25:30,660
+What do you call it when somebody keeps gettin' smashed up in car accidents?
+
+988
+01:25:30,820 --> 01:25:34,020
+ -Bad insurance risk? -That's me with men.
+
+989
+01:25:35,580 --> 01:25:40,140
+I was jinxed from the word go. First time I was ever kissed was in a cemetery.
+
+990
+01:25:40,310 --> 01:25:42,300
+A cemetery?
+
+991
+01:25:42,460 --> 01:25:45,060
+I was 15. We used to go there to smoke.
+
+992
+01:25:45,230 --> 01:25:49,220
+His name was George and he threw me over for a drum majorette.
+
+993
+01:25:50,540 --> 01:25:52,580
+Uh, gin.
+
+994
+01:25:55,820 --> 01:26:00,860
+That's 10, 20... 36. And 25 makes 61 and two boxes.
+
+995
+01:26:01,020 --> 01:26:02,980
+I have this talent for falling in love...
+
+996
+01:26:03,140 --> 01:26:06,490
+...with the wrong guy in the wrong place at the wrong time.
+
+997
+01:26:07,180 --> 01:26:09,260
+Well, how many guys were there?
+
+998
+01:26:10,380 --> 01:26:12,140
+Three.
+
+999
+01:26:12,300 --> 01:26:16,060
+The last one was the manager of a finance company back home in Pittsburgh.
+
+1000
+01:26:16,220 --> 01:26:18,140
+They found a shortage in his accounts.
+
+1001
+01:26:18,300 --> 01:26:21,900
+He asked me to wait for him. He'll be out in 1965.
+
+1002
+01:26:23,330 --> 01:26:25,380
+Cut.
+
+1003
+01:26:25,980 --> 01:26:30,810
+So I came to New York and moved in with my sister and her husband, a cab driver.
+
+1004
+01:26:30,980 --> 01:26:35,620
+They sent me to secretarial school and then I applied for a job at Consolidated.
+
+1005
+01:26:35,780 --> 01:26:37,850
+But I flunked the typing test.
+
+1006
+01:26:38,020 --> 01:26:40,610
+ -Too slow? -No. I can type up a storm.
+
+1007
+01:26:40,780 --> 01:26:42,820
+I just can't spell.
+
+1008
+01:26:43,780 --> 01:26:48,610
+So they gave me a pair of white gloves and stuck me in an elevator.
+
+1009
+01:26:48,770 --> 01:26:51,170
+And that's how I met Jeff.
+
+1010
+01:26:52,290 --> 01:26:54,820
+Oh God, I'm so fouled up.
+
+1011
+01:26:54,980 --> 01:26:57,340
+What am I gonna do now?
+
+1012
+01:26:59,370 --> 01:27:01,580
+Better win a hand. You're on a blitz.
+
+1013
+01:27:03,090 --> 01:27:05,810
+Was he very upset when you told him?
+
+1014
+01:27:05,980 --> 01:27:07,970
+Mr. Sheldrake? Yeah, very.
+
+1015
+01:27:09,170 --> 01:27:12,690
+Maybe he does love me, only he doesn't have the nerve to tell his wife.
+
+1016
+01:27:12,850 --> 01:27:14,210
+I'm sure that's it.
+
+1017
+01:27:14,370 --> 01:27:17,610
+ -You really think so? -No doubt about it.
+
+1018
+01:27:18,970 --> 01:27:21,090
+Would you hand me that pad and pencil?
+
+1019
+01:27:21,250 --> 01:27:24,130
+ -What for? -I'm gonna write to Mrs. Sheldrake.
+
+1020
+01:27:24,290 --> 01:27:26,530
+ -You what? -As one woman to another.
+
+1021
+01:27:26,690 --> 01:27:30,450
+ -I'm sure she'll understand. -I don't think that's a very good idea.
+
+1022
+01:27:30,610 --> 01:27:33,850
+ -Why not? -For one thing, you can't spell.
+
+1023
+01:27:34,010 --> 01:27:38,010
+Secondly, if you did something like that, you'd hate yourself.
+
+1024
+01:27:39,090 --> 01:27:41,690
+I don't like myself very much anyway.
+
+1025
+01:27:43,490 --> 01:27:45,810
+Pick up the cards. Let's go.
+
+1026
+01:27:45,970 --> 01:27:48,930
+ -Do I have to? -You bet. I got a terrific hand.
+
+1027
+01:27:55,410 --> 01:27:58,120
+ -You really wanna discard that? -Sure.
+
+1028
+01:27:58,290 --> 01:28:00,090
+Gin.
+
+1029
+01:28:04,200 --> 01:28:09,010
+10, 20, 40, 52 and 25... 77.
+
+1030
+01:28:09,690 --> 01:28:13,050
+Spades are double... 154.
+
+1031
+01:28:17,970 --> 01:28:19,970
+Blitzed. Two games.
+
+1032
+01:29:46,360 --> 01:29:49,550
+All right, all right, Mrs. Dreyfuss.
+
+1033
+01:29:57,070 --> 01:29:58,800
+ -Hi, Baxter. -What do you want?
+
+1034
+01:29:58,950 --> 01:30:00,880
+What do I want? Just a minute.
+
+1035
+01:30:01,030 --> 01:30:03,550
+ -You can't come in! -What's the matter with you?
+
+1036
+01:30:03,720 --> 01:30:05,670
+I made a reservation for four o'clock.
+
+1037
+01:30:05,840 --> 01:30:07,990
+You can't stay. Take your champagne and go.
+
+1038
+01:30:08,160 --> 01:30:11,510
+I don't wanna pull rank on you, but I told the little lady it was all set.
+
+1039
+01:30:11,680 --> 01:30:15,310
+Are you gonna leave, Mr. Kirkeby, or do I have to throw you out?
+
+1040
+01:30:16,150 --> 01:30:18,790
+Buddy-boy, why didn't you say so?
+
+1041
+01:30:18,950 --> 01:30:21,990
+ -Got yourself a little playmate, huh? -Now will you get out?
+
+1042
+01:30:27,430 --> 01:30:30,630
+Hey, come on! What are we waiting for? Open up, will you?
+
+1043
+01:30:30,790 --> 01:30:32,750
+Mildred!
+
+1044
+01:30:34,270 --> 01:30:38,510
+ -What's holding things up? -Say, let's have a party, the four of us.
+
+1045
+01:30:38,670 --> 01:30:40,670
+No!
+
+1046
+01:30:44,670 --> 01:30:46,830
+Well, I don't blame you.
+
+1047
+01:30:46,990 --> 01:30:49,870
+So you hit the jackpot, eh, kid? I mean Kubelikwise.
+
+1048
+01:30:50,030 --> 01:30:52,430
+Don't worry. I won't say a word to anybody.
+
+1049
+01:30:52,750 --> 01:30:54,750
+Stay with it, Buddy-boy.
+
+1050
+01:31:09,180 --> 01:31:11,150
+Who was that?
+
+1051
+01:31:11,780 --> 01:31:15,220
+Just somebody delivering a bottle of champagne. Like some?
+
+1052
+01:31:15,980 --> 01:31:18,630
+Would you mind opening that window?
+
+1053
+01:31:21,230 --> 01:31:26,350
+ -Now don't get any ideas, Miss Kubelik. -I just want some fresh air.
+
+1054
+01:31:26,500 --> 01:31:29,700
+It's only one storey down. The best you could do is break a leg.
+
+1055
+01:31:29,870 --> 01:31:32,500
+So they'll shoot me, like a horse.
+
+1056
+01:31:32,740 --> 01:31:35,950
+Please, you gotta promise me you won't do anything foolish.
+
+1057
+01:31:36,100 --> 01:31:38,510
+ -Who'd care? -I would.
+
+1058
+01:31:44,020 --> 01:31:47,780
+Why can't I ever fall in love with somebody nice like you?
+
+1059
+01:31:48,660 --> 01:31:50,670
+Yeah. Well...
+
+1060
+01:31:51,260 --> 01:31:54,140
+That's the way it crumbles, cookiewise.
+
+1061
+01:31:55,420 --> 01:31:57,820
+Go to sleep.
+
+1062
+01:32:30,500 --> 01:32:35,130
+ -Good morning, Mr. Sheldrake. -Miss Olsen, come into my office, please.
+
+1063
+01:32:44,100 --> 01:32:47,900
+ -Did you have a nice Christmas? -Lovely. You were a great help!
+
+1064
+01:32:48,060 --> 01:32:50,570
+Your pep talk to Miss Kubelik at the office party.
+
+1065
+01:32:50,730 --> 01:32:55,140
+ -Sorry, Jeff. I never could hold my liquor. -I thought you could hold your tongue.
+
+1066
+01:32:55,300 --> 01:32:57,700
+ -It won't happen again. -You bet it won't.
+
+1067
+01:32:57,860 --> 01:33:00,650
+I'll arrange for you to get a month's severance pay.
+
+1068
+01:33:00,810 --> 01:33:03,740
+That's right, Miss Olsen. I'm letting you go.
+
+1069
+01:33:04,420 --> 01:33:06,820
+You let me go four years ago, Jeff.
+
+1070
+01:33:06,970 --> 01:33:11,220
+And were cruel enough to make me sit out there and watch the new models pass by.
+
+1071
+01:33:11,370 --> 01:33:14,330
+I'd appreciate it if you'd be out of here as soon as you can.
+
+1072
+01:33:14,500 --> 01:33:16,530
+Yes, Mr. Sheldrake.
+
+1073
+01:33:24,890 --> 01:33:28,890
+Operator, this is Mr. Sheldrake. I'd like Mr. Baxter's home telephone number.
+
+1074
+01:33:29,050 --> 01:33:31,890
+He's in Ordinary Premium Accounting.
+
+1075
+01:33:47,450 --> 01:33:50,970
+ -Hello? -Hello. Jeff Sheldrake. Can you talk?
+
+1076
+01:33:51,610 --> 01:33:53,370
+Yes. She's in the shower.
+
+1077
+01:33:53,530 --> 01:33:56,090
+ -She's coming along fine, considering. -Good.
+
+1078
+01:33:56,250 --> 01:33:59,690
+ -Is there anything you need? Money? -No, thank you, Mr. Sheldrake.
+
+1079
+01:33:59,850 --> 01:34:02,850
+As a matter of fact, I have some money for you. $100.
+
+1080
+01:34:03,010 --> 01:34:04,320
+Oh.
+
+1081
+01:34:04,490 --> 01:34:08,130
+ -If there's anything I can do for you... -For me? I don't think so.
+
+1082
+01:34:08,280 --> 01:34:10,970
+But I was hoping maybe you could do something for her.
+
+1083
+01:34:11,210 --> 01:34:14,400
+Like what? Put yourself in my place, Baxter.
+
+1084
+01:34:14,570 --> 01:34:16,720
+How can I help her? My hands are tied.
+
+1085
+01:34:17,930 --> 01:34:20,330
+Well... at least you can talk to her.
+
+1086
+01:34:21,360 --> 01:34:24,840
+Let me put her on. And please, be gentle.
+
+1087
+01:34:25,490 --> 01:34:27,850
+There's a call for you!
+
+1088
+01:34:28,010 --> 01:34:30,410
+ -For me? -Yeah. Mr. Sheldrake.
+
+1089
+01:34:32,250 --> 01:34:34,160
+I don't wanna talk to him.
+
+1090
+01:34:34,330 --> 01:34:36,160
+I think you should.
+
+1091
+01:34:36,320 --> 01:34:41,480
+I gotta run down to the grocery anyway. There's nothing left here but frozen pizza.
+
+1092
+01:34:42,240 --> 01:34:44,240
+I'll be right back. OK?
+
+1093
+01:35:03,840 --> 01:35:05,840
+Hello, Jeff.
+
+1094
+01:35:07,200 --> 01:35:10,200
+ -Yes, I'm all right. -Why did you do it, Fran?
+
+1095
+01:35:10,360 --> 01:35:12,720
+It's so childish, and it never solves anything.
+
+1096
+01:35:12,880 --> 01:35:15,440
+I oughta be very angry with you, scaring me that way.
+
+1097
+01:35:15,600 --> 01:35:20,120
+But let's forget the whole thing, pretend it never happened. What do you say?
+
+1098
+01:35:20,280 --> 01:35:22,320
+Fran?
+
+1099
+01:35:22,680 --> 01:35:25,200
+Are you there, Fran?
+
+1100
+01:35:26,560 --> 01:35:30,840
+Of course I'm not here, because the whole thing never happened.
+
+1101
+01:35:31,000 --> 01:35:34,670
+I never took those pills, I never loved you...
+
+1102
+01:35:34,840 --> 01:35:37,030
+...we never even met.
+
+1103
+01:35:38,160 --> 01:35:42,000
+ -Isn't that the way you want it, Jeff? -You know I didn't mean it that way.
+
+1104
+01:35:42,150 --> 01:35:44,800
+You just get well. Do what the nurse says. I mean Baxter.
+
+1105
+01:35:44,950 --> 01:35:47,960
+I'll see you as soon as I can. Goodbye, Fran.
+
+1106
+01:36:05,510 --> 01:36:07,950
+Hello, Mrs. Sheldrake. This is Miss Olsen.
+
+1107
+01:36:08,110 --> 01:36:12,150
+Fine, thank you. I was wondering if we could have lunch together.
+
+1108
+01:36:12,960 --> 01:36:16,470
+I don't know how important it is, but you might find it educational.
+
+1109
+01:36:16,640 --> 01:36:19,190
+It concerns your husband.
+
+1110
+01:36:19,350 --> 01:36:22,960
+All right. One o'clock, Longchamps, Madison and 59th.
+
+1111
+01:36:28,950 --> 01:36:31,110
+Don't worry. I'm on my way.
+
+1112
+01:36:31,270 --> 01:36:33,230
+Just making a personal call.
+
+1113
+01:36:34,830 --> 01:36:36,830
+Here's a dime.
+
+1114
+01:36:39,470 --> 01:36:41,030
+Going down.
+
+1115
+01:36:52,870 --> 01:36:55,310
+Oh, Mr. Baxter! I'm glad you're here.
+
+1116
+01:36:55,470 --> 01:36:57,990
+ -I was just going to get the passkey. -What for?
+
+1117
+01:36:58,150 --> 01:37:00,790
+I thought I smelled gas coming from your apartment.
+
+1118
+01:37:00,950 --> 01:37:02,940
+Gas?!
+
+1119
+01:37:11,620 --> 01:37:13,670
+Miss Kubelik?
+
+1120
+01:37:15,430 --> 01:37:17,390
+Miss Kubelik!
+
+1121
+01:37:19,950 --> 01:37:21,990
+ -You all right? -Sure!
+
+1122
+01:37:22,790 --> 01:37:25,820
+ -What's that funny smell? -Gas! Didn't you turn it on?
+
+1123
+01:37:25,990 --> 01:37:28,790
+Yes, to boil water to get the coffee stains out of my dress.
+
+1124
+01:37:28,940 --> 01:37:32,220
+ -You turned it on but you didn't light it. -Are you supposed to?
+
+1125
+01:37:32,380 --> 01:37:35,980
+In this house you're supposed to. Hey, what are you doing with that?
+
+1126
+01:37:36,140 --> 01:37:39,420
+I was washing my stockings, so I thought I'd wash your socks too.
+
+1127
+01:37:39,590 --> 01:37:43,550
+ -Oh. Thank you. -Very curious. I could only find 3 1/2 pair.
+
+1128
+01:37:43,700 --> 01:37:46,110
+Things are a little disorganized around here.
+
+1129
+01:37:46,260 --> 01:37:49,900
+I'd say. What's a tennis racket doing in the kitchen?
+
+1130
+01:37:50,070 --> 01:37:54,780
+Tennis racket? Oh, I remember. I was cooking myself an Italian dinner.
+
+1131
+01:37:54,940 --> 01:37:57,500
+I used it to strain the spaghetti.
+
+1132
+01:37:57,660 --> 01:38:00,100
+ -Why not? -In fact, I'm a pretty good cook.
+
+1133
+01:38:00,260 --> 01:38:02,950
+ -Only I'm a lousy housekeeper. -Yes, you are.
+
+1134
+01:38:03,100 --> 01:38:07,260
+When I was straightening up the couch, I found six hairpins, a lipstick...
+
+1135
+01:38:07,420 --> 01:38:10,940
+...a pair of false eyelashes and a swizzle stick from the Stork Club.
+
+1136
+01:38:11,100 --> 01:38:14,220
+It's just that I'm the kind of guy who can't say no.
+
+1137
+01:38:14,380 --> 01:38:18,300
+ -I don't mean to girls. I mean... -To someone like Mr. Sheldrake.
+
+1138
+01:38:18,460 --> 01:38:21,420
+ -I guess so. -I know so.
+
+1139
+01:38:23,020 --> 01:38:25,420
+ -He's a taker. -What?
+
+1140
+01:38:25,980 --> 01:38:28,060
+Some people take, some people get took.
+
+1141
+01:38:28,220 --> 01:38:32,060
+And they know they're gettin' took and there's nothin' they can do about it.
+
+1142
+01:38:32,220 --> 01:38:34,220
+I wouldn't say that.
+
+1143
+01:38:34,940 --> 01:38:36,850
+What would you like for dinner, huh?
+
+1144
+01:38:37,020 --> 01:38:40,060
+Hey. Onion soup, and canned asparagus...
+
+1145
+01:38:40,220 --> 01:38:42,100
+I really should be getting home.
+
+1146
+01:38:42,260 --> 01:38:45,100
+ -My family'll be flipping by now. -You can't leave yet.
+
+1147
+01:38:45,250 --> 01:38:49,490
+The doctor said it takes 48 hours to get that stuff out of your system.
+
+1148
+01:38:50,500 --> 01:38:54,570
+How long does it take to get someone you're stuck on out of your system?
+
+1149
+01:38:54,740 --> 01:38:57,540
+If only they'd invent some kind of pump for that.
+
+1150
+01:38:57,690 --> 01:39:03,100
+I know how you feel, Miss Kubelik. You think it's the end of the world. But it's not.
+
+1151
+01:39:03,250 --> 01:39:05,650
+I went through exactly the same thing myself.
+
+1152
+01:39:05,810 --> 01:39:07,650
+ -You did? -Well, not exactly the same.
+
+1153
+01:39:07,820 --> 01:39:09,500
+I tried to do it with a gun.
+
+1154
+01:39:09,660 --> 01:39:12,570
+ -Over a girl? -Worse. It was the wife of my best friend.
+
+1155
+01:39:12,740 --> 01:39:17,530
+And I was mad about her. But I knew it was hopeless and I decided to end it all.
+
+1156
+01:39:17,690 --> 01:39:21,650
+I went to a pawnshop and I bought a.45 automatic and I drove up to Eden Park...
+
+1157
+01:39:21,820 --> 01:39:23,770
+ -Do you know Cincinnati? -No, I don't.
+
+1158
+01:39:23,940 --> 01:39:26,450
+Anyway, I parked the car and I loaded that gun...
+
+1159
+01:39:26,610 --> 01:39:30,770
+You read in the papers that people shoot themselves. Believe me, it's not that easy.
+
+1160
+01:39:30,930 --> 01:39:34,450
+I mean, how do you do it? Here? Here? Here?
+
+1161
+01:39:35,730 --> 01:39:38,290
+ -Know where I finally shot myself? -Where?
+
+1162
+01:39:38,460 --> 01:39:40,210
+ -Here. -In the knee?!
+
+1163
+01:39:40,370 --> 01:39:42,770
+Yeah! I was sittin' there, tryin' to decide.
+
+1164
+01:39:42,930 --> 01:39:45,170
+A cop came up because I was illegally parked.
+
+1165
+01:39:45,330 --> 01:39:48,530
+I tried to hide the gun under the seat and it went off.
+
+1166
+01:39:48,690 --> 01:39:52,170
+ -That's terrible! -It was a year till I could bend the knee.
+
+1167
+01:39:52,330 --> 01:39:55,370
+But I got over the girl in three weeks.
+
+1168
+01:39:56,850 --> 01:40:00,400
+Still lives in Cincinnati. Has four kids and gained 20 pounds.
+
+1169
+01:40:00,570 --> 01:40:02,850
+Sends me a fruitcake every Christmas.
+
+1170
+01:40:03,000 --> 01:40:05,320
+Are you just making this up to make me feel better?
+
+1171
+01:40:05,490 --> 01:40:07,400
+Of course not! Here's the fruitcake.
+
+1172
+01:40:07,570 --> 01:40:09,650
+ -Do you wanna see my knee? -No, thank you.
+
+1173
+01:40:09,810 --> 01:40:12,930
+The fellas in the office might get the wrong idea how I found out.
+
+1174
+01:40:13,090 --> 01:40:17,000
+Let 'em! Look, I'm gonna cook dinner for us. We'll have fruitcake for dessert.
+
+1175
+01:40:17,170 --> 01:40:20,250
+You just sit there and rest. You've done enough for today.
+
+1176
+01:40:20,410 --> 01:40:23,560
+ -Yes, Nurse. -[Baxter hums opera music]
+
+1177
+01:40:37,080 --> 01:40:40,200
+ -Can I help you? -I'm lookin' for Miss Kubelik.
+
+1178
+01:40:40,360 --> 01:40:45,320
+ -So am I. She didn't report this morning. -She didn't? Who's in charge here?
+
+1179
+01:40:45,490 --> 01:40:49,600
+That comes under General Office Administration. Mr. Dobisch, 21 st floor.
+
+1180
+01:40:49,760 --> 01:40:51,490
+Thanks.
+
+1181
+01:40:53,850 --> 01:40:58,120
+So I take Sylvia up to the apartment, and guess who he's stashed in the bedroom.
+
+1182
+01:40:58,290 --> 01:40:59,480
+ -Who? -Kubelik.
+
+1183
+01:40:59,640 --> 01:41:02,600
+No kiddin'? Buddy-boy and Kubelik having a little toot?
+
+1184
+01:41:02,770 --> 01:41:07,080
+Toot? More like a lost weekend. Neither of 'em showed up for work today.
+
+1185
+01:41:07,240 --> 01:41:08,760
+AWOL, hm?
+
+1186
+01:41:08,920 --> 01:41:11,360
+What gripes me is they guzzled my champagne...
+
+1187
+01:41:11,520 --> 01:41:14,960
+...while Sylvia and I wound up at the Guggenheim Museum.
+
+1188
+01:41:16,520 --> 01:41:18,520
+ -Mr. Dobisch? -Yeah.
+
+1189
+01:41:19,480 --> 01:41:23,480
+I'm Karl Matuschka. My sister-in-law runs one of the elevators. Fran Kubelik.
+
+1190
+01:41:23,640 --> 01:41:25,040
+ -Miss Kubelik? -You know her?
+
+1191
+01:41:25,200 --> 01:41:28,880
+Of course. We have a lot of employees, but we're one big, happy family.
+
+1192
+01:41:29,040 --> 01:41:31,320
+She lives with us, and my wife's nervous
+
+1193
+01:41:31,480 --> 01:41:33,960
+cause Fran hasn't been home for two days.
+
+1194
+01:41:34,120 --> 01:41:35,400
+That so?
+
+1195
+01:41:35,560 --> 01:41:38,440
+So we wondered if somebody here knew what happened to her.
+
+1196
+01:41:38,600 --> 01:41:39,960
+I see.
+
+1197
+01:41:40,120 --> 01:41:43,560
+What do you think, Al? Can we help the man?
+
+1198
+01:41:43,720 --> 01:41:46,950
+Why not? We don't owe Buddy-boy anything.
+
+1199
+01:41:47,120 --> 01:41:50,520
+Yeah. What's Buddy-boy done for us lately?
+
+1200
+01:41:52,550 --> 01:41:54,870
+Who is Buddy-boy?
+
+1201
+01:42:18,030 --> 01:42:21,710
+ -Are we dressing for dinner? -No. Just come as you are.
+
+1202
+01:42:21,880 --> 01:42:25,880
+ -You're pretty good with that racket. -You should see my backhand.
+
+1203
+01:42:27,790 --> 01:42:30,630
+Wait till you see me serve the meatballs.
+
+1204
+01:42:30,800 --> 01:42:34,670
+ -Shall I light the candles? -It's a must, gracious livingwise.
+
+1205
+01:42:37,800 --> 01:42:39,110
+Meatball
+
+1206
+01:42:42,750 --> 01:42:44,310
+Meatball
+
+1207
+01:42:52,990 --> 01:42:55,870
+ -You bought some napkins. -Might as well go all the way.
+
+1208
+01:42:59,150 --> 01:43:01,430
+You know, I used to live like Robinson Crusoe.
+
+1209
+01:43:01,590 --> 01:43:03,710
+Shipwrecked, among eight million people.
+
+1210
+01:43:03,870 --> 01:43:06,910
+And then one day I saw a footprint in the sand...
+
+1211
+01:43:07,070 --> 01:43:09,030
+...and there you were.
+
+1212
+01:43:09,870 --> 01:43:12,030
+It's a wonderful thing, dinner for two.
+
+1213
+01:43:12,190 --> 01:43:15,860
+ -Do you usually eat alone? -No. Sometimes I eat with Ed Sullivan.
+
+1214
+01:43:16,030 --> 01:43:18,670
+Or sometimes Dinah Shore or Perry Como.
+
+1215
+01:43:18,830 --> 01:43:22,630
+The other night it was Mae West. She was much younger then. Cheers.
+
+1216
+01:43:22,790 --> 01:43:25,500
+ -Cheers. -Know what we're gonna do after dinner?
+
+1217
+01:43:25,670 --> 01:43:27,620
+ -The dishes. -I mean after that.
+
+1218
+01:43:27,790 --> 01:43:29,940
+ -What? -You don't have to if you don't want to.
+
+1219
+01:43:30,110 --> 01:43:32,390
+ -Oh, I don't? -We're gonna finish the gin game.
+
+1220
+01:43:32,540 --> 01:43:35,150
+So keep a clear head.
+
+1221
+01:43:35,910 --> 01:43:39,740
+Cause I don't wanna take advantage of you, the way I did yesterday in bed.
+
+1222
+01:43:39,910 --> 01:43:41,990
+ -Baxter? -Yes.
+
+1223
+01:43:50,740 --> 01:43:53,300
+What's with you, Fran? Did you forget where you live?
+
+1224
+01:43:53,470 --> 01:43:56,980
+ -My brother-in-law, Karl Matuschka. -Oh! How do you do, Mr. Matusch...
+
+1225
+01:43:57,150 --> 01:44:01,300
+ -Get dressed. I got the cab downstairs. -Wait. I know what you're thinking, but...
+
+1226
+01:44:01,460 --> 01:44:04,100
+It's none of my business what you do. You're over 21.
+
+1227
+01:44:04,260 --> 01:44:07,710
+ -But your sister thinks you're a lady. -All we were gonna do was eat!
+
+1228
+01:44:07,860 --> 01:44:10,220
+If there wasn't a lady present, I'd clobber you.
+
+1229
+01:44:10,380 --> 01:44:13,180
+All right, Karl! I'll get dressed.
+
+1230
+01:44:21,980 --> 01:44:24,020
+Want a martini?
+
+1231
+01:44:27,780 --> 01:44:31,540
+How about some spaghetti with meat sauce that I cooked myself?
+
+1232
+01:44:36,820 --> 01:44:39,540
+Your sister-in-law sure is terrific.
+
+1233
+01:44:42,580 --> 01:44:46,900
+It must be murder drivin' a cab in New York with the cross-town traffic.
+
+1234
+01:44:51,210 --> 01:44:53,140
+Hi, Baxter. How's the patient?
+
+1235
+01:44:53,290 --> 01:44:55,220
+Oh, uh... I'm fine, Doc.
+
+1236
+01:44:55,370 --> 01:44:57,340
+Not you. Miss Kubelik.
+
+1237
+01:44:58,020 --> 01:45:02,740
+ -What's the matter with Miss Kubelik? -This is Mr. Matuschka. He's... got a cab.
+
+1238
+01:45:02,890 --> 01:45:05,210
+ -Fran been sick? -No. Just a little accident.
+
+1239
+01:45:05,380 --> 01:45:09,140
+ -What does he mean, accident? -Well... these things happen all the time.
+
+1240
+01:45:09,300 --> 01:45:11,330
+What things? What kind of a doctor are you?
+
+1241
+01:45:11,490 --> 01:45:14,530
+Not that kind! He just gave her a shot, pumped out her stomach.
+
+1242
+01:45:14,700 --> 01:45:17,780
+ -What for? -I took sleeping pills. But I'm fine now.
+
+1243
+01:45:17,940 --> 01:45:20,340
+ -Why'd you take sleeping pills? -On account of me.
+
+1244
+01:45:20,500 --> 01:45:22,420
+You?
+
+1245
+01:45:22,570 --> 01:45:24,330
+Who else?
+
+1246
+01:45:28,980 --> 01:45:30,970
+Leave him alone!
+
+1247
+01:45:33,210 --> 01:45:36,420
+Oh, you fool. You damn fool.
+
+1248
+01:45:38,410 --> 01:45:41,450
+ -[Karl] Come on, Fran. -Goodbye, Mr. Baxter.
+
+1249
+01:45:47,090 --> 01:45:49,130
+Goodbye, Doctor.
+
+1250
+01:45:50,890 --> 01:45:55,530
+Well, I don't wanna gloat, but just between us, you had it coming to you.
+
+1251
+01:45:57,650 --> 01:46:00,410
+You're gonna have a shiner tomorrow.
+
+1252
+01:46:00,570 --> 01:46:02,410
+Let me get my bag.
+
+1253
+01:46:04,370 --> 01:46:06,290
+Don't bother, Doc.
+
+1254
+01:46:06,450 --> 01:46:08,440
+It doesn't hurt a bit.
+
+1255
+01:46:29,330 --> 01:46:31,530
+Mr. Sheldrake's office? This is C.C. Baxter.
+
+1256
+01:46:31,690 --> 01:46:34,770
+Please tell him I'd like to come up and see him. It's important.
+
+1257
+01:46:34,920 --> 01:46:36,960
+Will you call me back, please?
+
+1258
+01:46:39,560 --> 01:46:42,560
+Mr. Sheldrake, I've got good news for you.
+
+1259
+01:46:43,690 --> 01:46:45,640
+All your troubles are over.
+
+1260
+01:46:46,760 --> 01:46:49,530
+I'm gonna take Miss Kubelik off your hands.
+
+1261
+01:46:50,280 --> 01:46:52,680
+The plain fact is, I love her.
+
+1262
+01:46:53,530 --> 01:46:56,000
+I thought you should be the first to know.
+
+1263
+01:46:56,160 --> 01:46:58,890
+After all, you don't really want her, and I do.
+
+1264
+01:46:59,040 --> 01:47:02,960
+And though it may sound presumptuous, she needs somebody like me.
+
+1265
+01:47:03,120 --> 01:47:06,400
+So I think it would be best all around.
+
+1266
+01:47:06,570 --> 01:47:07,920
+Solutionwise.
+
+1267
+01:47:08,080 --> 01:47:09,280
+Yes?
+
+1268
+01:47:09,440 --> 01:47:11,490
+I'll be right up.
+
+1269
+01:47:11,640 --> 01:47:14,880
+Mr. Sheldrake, I've got good news for you.
+
+1270
+01:47:15,040 --> 01:47:17,000
+All your troubles are over.
+
+1271
+01:47:21,120 --> 01:47:23,200
+19.
+
+1272
+01:47:23,360 --> 01:47:26,880
+ -Hi, Buddy-boy. What happened to you? -Hit by a swinging door?
+
+1273
+01:47:27,040 --> 01:47:29,800
+ -Or a yellow cab? -That guy really must've belted him.
+
+1274
+01:47:29,960 --> 01:47:32,960
+Yeah. He's punchy. Talking to himself.
+
+1275
+01:47:33,120 --> 01:47:34,560
+27.
+
+1276
+01:47:34,720 --> 01:47:37,040
+Those two days she spent in the apartment...
+
+1277
+01:47:37,190 --> 01:47:40,040
+...made me realize how lonely I'd been before.
+
+1278
+01:47:40,200 --> 01:47:43,560
+But, thanks to you, I'm in a financial position to marry her.
+
+1279
+01:47:43,720 --> 01:47:46,600
+If I can ever square things with her family.
+
+1280
+01:47:46,760 --> 01:47:49,110
+Good morning. C.C. Baxter.
+
+1281
+01:47:52,870 --> 01:47:54,880
+ -Mr. Baxter is here. -Send him in.
+
+1282
+01:47:57,000 --> 01:47:59,760
+Mr. Sheldrake, I've got good news for you.
+
+1283
+01:47:59,910 --> 01:48:01,920
+And I've got good news for you, Baxter.
+
+1284
+01:48:02,080 --> 01:48:04,310
+ -All your troubles are over. -Sir?
+
+1285
+01:48:04,640 --> 01:48:07,680
+I know how worried you were about Miss Kubelik. Stop worrying.
+
+1286
+01:48:07,830 --> 01:48:10,560
+I'm going to take her off your hands.
+
+1287
+01:48:10,720 --> 01:48:13,430
+ -You're gonna take her off my hands? -That's right.
+
+1288
+01:48:13,600 --> 01:48:15,990
+I've moved out of the house.
+
+1289
+01:48:16,880 --> 01:48:19,710
+I'm gonna be staying in town, at the Athletic Club.
+
+1290
+01:48:19,880 --> 01:48:22,720
+ -You left your wife. -If you must know, I fired my secretary.
+
+1291
+01:48:22,880 --> 01:48:27,470
+My secretary got to my wife, and my wife fired me. Ain't that a kick in the head?
+
+1292
+01:48:27,640 --> 01:48:29,110
+Yeah.
+
+1293
+01:48:29,270 --> 01:48:31,120
+Now what's your news, Baxter?
+
+1294
+01:48:33,150 --> 01:48:36,670
+It's about Miss Kubelik. She's feeling all right again so she went home.
+
+1295
+01:48:36,830 --> 01:48:39,830
+Swell. And don't think I've forgotten what you did for me.
+
+1296
+01:48:40,000 --> 01:48:41,950
+This way, Baxter.
+
+1297
+01:48:45,190 --> 01:48:47,510
+Sit down. Try it on for size.
+
+1298
+01:48:48,470 --> 01:48:50,870
+ -You like? It's all yours. -Mine?
+
+1299
+01:48:51,030 --> 01:48:55,990
+My assistant has been shifted to the Denver office and you're taking his place.
+
+1300
+01:48:56,150 --> 01:48:58,470
+What's the matter? You don't seem very excited.
+
+1301
+01:48:58,630 --> 01:49:02,710
+Well, it's just that so many things have been happening so fast.
+
+1302
+01:49:02,870 --> 01:49:05,460
+I'm very pleased. Especially for Miss Kubelik.
+
+1303
+01:49:05,630 --> 01:49:10,380
+I think she's the kind of girl that definitely ought to be married to... someone.
+
+1304
+01:49:10,550 --> 01:49:15,830
+Sure, sure. But first the property has to be settled. Then it takes six weeks in Reno.
+
+1305
+01:49:15,980 --> 01:49:18,710
+Meanwhile I'm going to enjoy being a bachelor for a while.
+
+1306
+01:49:18,870 --> 01:49:22,150
+Oh, Baxter, you now can have lunch in the executive dining room.
+
+1307
+01:49:22,300 --> 01:49:24,830
+That's one of the privileges that goes with this job.
+
+1308
+01:49:24,990 --> 01:49:29,390
+You also get a nice little expense account, use of the executive washroom...
+
+1309
+01:49:29,540 --> 01:49:31,830
+Say, what happened to you, Baxter?
+
+1310
+01:49:31,990 --> 01:49:34,630
+ -I got kicked in the head too. -Oh?
+
+1311
+01:49:54,860 --> 01:49:56,820
+Good evening, Mr. Baxter.
+
+1312
+01:49:56,990 --> 01:49:58,380
+Oh.
+
+1313
+01:49:58,540 --> 01:50:01,180
+Miss Kubelik. How are you feeling?
+
+1314
+01:50:01,340 --> 01:50:03,900
+ -I feel fine. How's your eye? -Oh, fine.
+
+1315
+01:50:04,070 --> 01:50:06,740
+ -How are things at the apartment? -Nothing's changed.
+
+1316
+01:50:06,900 --> 01:50:09,780
+ -We never did finish that gin game. -I know.
+
+1317
+01:50:11,380 --> 01:50:13,630
+I suppose you heard about Mr. Sheldrake.
+
+1318
+01:50:13,780 --> 01:50:16,220
+Leaving his wife? Yeah. I'm very happy for you.
+
+1319
+01:50:16,380 --> 01:50:18,860
+ -I never thought he'd do it. -I told you all along.
+
+1320
+01:50:19,030 --> 01:50:22,340
+ -You were wrong about Mr. Sheldrake. -I guess so.
+
+1321
+01:50:22,510 --> 01:50:24,420
+You were wrong about me too.
+
+1322
+01:50:24,580 --> 01:50:27,580
+What you said about those who take and those who get took.
+
+1323
+01:50:27,740 --> 01:50:30,780
+Mr. Sheldrake wasn't using me. I was using him. See?
+
+1324
+01:50:30,940 --> 01:50:35,220
+Last month I was at desk 861 on the 19th floor. Now I'm on the 27th floor.
+
+1325
+01:50:35,380 --> 01:50:37,300
+A paneled office, three windows.
+
+1326
+01:50:37,460 --> 01:50:40,340
+So it all worked out fine. We're both getting what we wanted.
+
+1327
+01:50:40,500 --> 01:50:43,260
+Yes. Will you walk me to the subway?
+
+1328
+01:50:43,420 --> 01:50:48,930
+No, thank you. Well, I... To tell you the truth, I have this heavy date for tonight.
+
+1329
+01:50:52,210 --> 01:50:55,420
+ -Aren't you meeting Mr. Sheldrake? -No. You know how people talk.
+
+1330
+01:50:55,580 --> 01:51:00,610
+I decided it was best not to see each other until everything was settled, divorcewise.
+
+1331
+01:51:00,780 --> 01:51:02,780
+That's very wise.
+
+1332
+01:51:03,820 --> 01:51:06,210
+ -Good night, Mr. Baxter. -Good night.
+
+1333
+01:51:40,740 --> 01:51:43,970
+ -Baxter, could you step in here a minute? -Yes, Mr. Sheldrake.
+
+1334
+01:51:44,130 --> 01:51:46,100
+ -There you are. -Much obliged.
+
+1335
+01:51:47,850 --> 01:51:53,410
+Here are the figures on staff turnover. 37% of females leave to get married and 22%...
+
+1336
+01:51:53,570 --> 01:51:56,370
+Baxter, you work too hard. It's New Year's Eve. Relax!
+
+1337
+01:51:56,530 --> 01:51:59,370
+ -Yes, sir. -I suppose you'll be celebrating tonight.
+
+1338
+01:51:59,530 --> 01:52:01,610
+ -Naturally. -I'm taking Miss Kubelik out.
+
+1339
+01:52:01,780 --> 01:52:03,690
+ -I finally talked her into it. -I see.
+
+1340
+01:52:03,850 --> 01:52:08,010
+The only thing is, I'm staying at the Athletic Club and it's strictly stag, so...
+
+1341
+01:52:08,170 --> 01:52:10,250
+If you don't mind?
+
+1342
+01:52:11,010 --> 01:52:14,370
+ -Don't mind what? -You know my key to your apartment?
+
+1343
+01:52:14,530 --> 01:52:17,570
+When we had that little scare about Miss Kubelik...
+
+1344
+01:52:17,730 --> 01:52:21,570
+...I threw it out the window of the train. -Very clever.
+
+1345
+01:52:21,730 --> 01:52:23,960
+So now I'll have to borrow your key.
+
+1346
+01:52:25,360 --> 01:52:28,050
+ -Sorry, Mr. Sheldrake. -What do you mean, sorry?
+
+1347
+01:52:28,200 --> 01:52:30,490
+You're not bringing anybody to my apartment.
+
+1348
+01:52:30,650 --> 01:52:34,810
+ -It's not just anybody. It's Miss Kubelik. -Especially not Miss Kubelik.
+
+1349
+01:52:34,960 --> 01:52:38,090
+ -How's that again? -No key.
+
+1350
+01:52:39,840 --> 01:52:44,250
+Baxter, I picked you for my team because I thought you were a bright young man.
+
+1351
+01:52:44,410 --> 01:52:47,690
+Do you realize what you're doing? Not to me, but to yourself?
+
+1352
+01:52:47,840 --> 01:52:51,040
+Normally it takes years to work your way up to the 27th floor.
+
+1353
+01:52:51,210 --> 01:52:54,080
+But it only takes 30 seconds to be out on the street again.
+
+1354
+01:52:54,250 --> 01:52:56,760
+ -You dig? -I dig.
+
+1355
+01:52:57,840 --> 01:52:59,850
+So what's it going to be?
+
+1356
+01:53:06,320 --> 01:53:09,320
+ -Now you're being bright. -Thank you, sir.
+
+1357
+01:53:26,000 --> 01:53:28,560
+ -Baxter, you gave me the wrong key. -No, I didn't.
+
+1358
+01:53:28,720 --> 01:53:31,240
+But this is the key to the executive washroom.
+
+1359
+01:53:31,400 --> 01:53:35,000
+That's right. I won't be needing it because I'm all washed up around here.
+
+1360
+01:53:35,160 --> 01:53:38,400
+ -What's gotten into you? -Just following doctor's orders.
+
+1361
+01:53:38,560 --> 01:53:42,600
+I've decided to become a mensch. Know what that means? A human being.
+
+1362
+01:53:42,760 --> 01:53:46,520
+ -Now hold on, Baxter. -The old payola won't work any more.
+
+1363
+01:53:46,680 --> 01:53:48,680
+Goodbye, Mr. Sheldrake.
+
+1364
+01:54:22,800 --> 01:54:26,560
+ -We're having a party and ran out of ice. -Sure, Doc.
+
+1365
+01:54:26,720 --> 01:54:28,710
+How come you're alone on New Year's Eve?
+
+1366
+01:54:28,880 --> 01:54:30,720
+Well, I got things to do.
+
+1367
+01:54:30,870 --> 01:54:34,870
+ -What's this? You're packing? -Yeah. I'm giving up the apartment.
+
+1368
+01:54:35,030 --> 01:54:36,800
+Where are you moving to?
+
+1369
+01:54:36,950 --> 01:54:39,840
+I don't know. All I know is I gotta get outta this place.
+
+1370
+01:54:39,990 --> 01:54:41,920
+Sorry to lose you, Baxter.
+
+1371
+01:54:42,070 --> 01:54:46,600
+Me? Oh, my body. Don't worry, it'll go to the university, Doc. I'll put it in writing.
+
+1372
+01:54:46,750 --> 01:54:49,790
+ -Could you use some champagne? -Booze we don't need.
+
+1373
+01:54:49,950 --> 01:54:51,670
+Say, why don't you join us?
+
+1374
+01:54:51,830 --> 01:54:56,590
+We got two brain surgeons, a proctologist and three nurses from Bellevue.
+
+1375
+01:54:56,750 --> 01:54:58,590
+No, thanks. I don't feel like it.
+
+1376
+01:54:58,750 --> 01:55:02,790
+In case I don't see you again, how much do I owe you for taking care of that girl?
+
+1377
+01:55:02,950 --> 01:55:06,630
+Forget it. I didn't do it as a doctor. I did it as a neighbor.
+
+1378
+01:55:06,790 --> 01:55:09,390
+By the way, whatever happened to her?
+
+1379
+01:55:10,590 --> 01:55:13,430
+You know me with girls. Easy come, easy go.
+
+1380
+01:55:13,590 --> 01:55:16,190
+ -Goodbye, Doc. -Happy New Year.
+
+1381
+01:55:57,830 --> 01:56:00,110
+Sorry I took so long on the phone. We're all set.
+
+1382
+01:56:00,260 --> 01:56:02,580
+ -For what? -I rented a car. It'll be here at one.
+
+1383
+01:56:02,750 --> 01:56:05,460
+ -We're driving to Atlantic City. -Atlantic City?
+
+1384
+01:56:05,620 --> 01:56:10,020
+I know it's a drag, but you can't find a hotel room in town on New Year's Eve.
+
+1385
+01:56:10,980 --> 01:56:13,710
+Ring out the old year, ring in the new.
+
+1386
+01:56:13,860 --> 01:56:16,020
+Ring-a-ding-ding.
+
+1387
+01:56:16,460 --> 01:56:19,660
+I didn't plan it this way. It's Baxter's fault.
+
+1388
+01:56:19,820 --> 01:56:20,740
+Baxter?
+
+1389
+01:56:20,900 --> 01:56:24,260
+He wouldn't give me the key to the apartment.
+
+1390
+01:56:24,420 --> 01:56:26,860
+ -He wouldn't? -No. He just walked out on me. Quit.
+
+1391
+01:56:27,020 --> 01:56:29,980
+Threw that big, fat job right in my face.
+
+1392
+01:56:31,300 --> 01:56:35,180
+ -The nerve. -The little punk. After all I did for him.
+
+1393
+01:56:35,340 --> 01:56:39,460
+Said I couldn't bring anybody to the apartment, especially not Miss Kubelik.
+
+1394
+01:56:39,620 --> 01:56:42,300
+What's he got against you, anyway?
+
+1395
+01:56:42,460 --> 01:56:48,140
+I don't know. I guess that's the way it crumbles, cookiewise.
+
+1396
+01:56:50,060 --> 01:56:52,420
+What are you talking about?
+
+1397
+01:56:53,380 --> 01:56:56,700
+I'd spell it out for you, only I can't spell.
+
+1398
+01:57:01,460 --> 01:57:06,290
+# Should auld acquaintance be forgot Should auld acquaintance be forgot
+
+1399
+01:57:06,460 --> 01:57:11,210
+And never brought to mind...
+
+1400
+01:57:12,460 --> 01:57:14,450
+Happy New Year, Fran.
+
+1401
+01:57:16,410 --> 01:57:20,660
+# And days of auld lang syne And days of auld lang syne
+
+1402
+01:57:21,460 --> 01:57:26,370
+# For auld lang syne, my dear For auld lang syne, my dear
+
+1403
+01:57:26,540 --> 01:57:31,290
+# For auld lang syne For auld lang syne
+
+1404
+01:57:31,460 --> 01:57:36,450
+# We'll drink a cup of kindness yet We'll drink a cup of kindness yet
+
+1405
+01:57:36,620 --> 01:57:42,010
+# For auld lang syne For auld lang syne
+
+1406
+01:57:53,250 --> 01:57:55,250
+Fran?
+
+1407
+01:57:56,450 --> 01:57:58,450
+Where are you, Fran?
+
+1408
+01:58:15,810 --> 01:58:17,810
+Mr. Baxter!
+
+1409
+01:58:18,050 --> 01:58:19,210
+Mr. Baxter!
+
+1410
+01:58:19,530 --> 01:58:22,440
+Mr. Baxter! Mr. Baxter!
+
+1411
+01:58:25,290 --> 01:58:26,530
+Oh!
+
+1412
+01:58:26,690 --> 01:58:29,650
+ -Are you all right? -I'm fine.
+
+1413
+01:58:29,810 --> 01:58:32,210
+Are you sure? How's your knee?
+
+1414
+01:58:32,890 --> 01:58:34,890
+I'm fine all over.
+
+1415
+01:58:36,810 --> 01:58:40,130
+ -Mind if I come in? -Of course not.
+
+1416
+01:58:43,680 --> 01:58:45,690
+Let me get another glass.
+
+1417
+01:58:48,490 --> 01:58:50,480
+ -Where are you going? -Who knows?
+
+1418
+01:58:50,650 --> 01:58:53,800
+Another neighborhood, another town, another job.
+
+1419
+01:58:53,960 --> 01:58:56,170
+I'm on my own.
+
+1420
+01:58:56,320 --> 01:58:58,330
+That's funny. So am I.
+
+1421
+01:58:59,450 --> 01:59:01,610
+What'd you do with the cards?
+
+1422
+01:59:01,760 --> 01:59:03,760
+In there.
+
+1423
+01:59:14,600 --> 01:59:16,520
+What about Mr. Sheldrake?
+
+1424
+01:59:16,680 --> 01:59:19,680
+I'm gonna send him a fruitcake every Christmas.
+
+1425
+01:59:22,000 --> 01:59:24,000
+Cut.
+
+1426
+01:59:25,560 --> 01:59:27,570
+I love you, Miss Kubelik.
+
+1427
+01:59:28,040 --> 01:59:29,760
+3 Three.
+
+1428
+01:59:29,920 --> 01:59:31,040
+Queen.
+
+1429
+01:59:31,200 --> 01:59:35,080
+Did you hear what I said, Miss Kubelik? I absolutely adore you.
+
+1430
+01:59:37,600 --> 01:59:39,600
+Shut up and deal.
+

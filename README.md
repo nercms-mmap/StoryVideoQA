@@ -9,8 +9,7 @@ Due to the large scale of the StoryVideo dataset, we have made it available on t
 
 You can access the datasets via the following links:
 
-- 🤗[StoryVideoQA Dataset - QAs](#)
-- 🤗[Character Face Repository](#)
+- 🤗[StoryVideoQA Dataset - QAs](#[ZQFive/StoryVideoQA · Datasets at Hugging Face](https://huggingface.co/datasets/ZQFive/StoryVideoQA))
 
 
 

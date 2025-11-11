@@ -48,12 +48,11 @@ StoryMindv2/
 
 ```bash
 # Run the QAsGen script with specified parameters
-CUDA_VISIBLE_DEVICES=0 python QAsGen.py \
-        --gemini_model gemini-2.0-flash \                           
-        --gemini_key "Replace with your Gemini API key" \           
-        --gemini_proxy "Replace with your Gemini proxy address" \ 
-        --each_type_num 100 \                    # Number of QAs for each fine-grained topic
-        --vid_dir Friends                        # The script will use data from aligned_script/{vid_dir}
+CUDA_VISIBLE_DEVICES=0 python QAsGen.py --gemini_model gemini-2.0-flash \                           
+           --gemini_key "Replace with your Gemini API key" \           
+           --gemini_proxy "Replace with your Gemini proxy address" \ 
+           --each_type_num 100 \                    # Number of QAs for each fine-grained topic
+           --vid_dir Friends                        # The script will use data from aligned_script/{vid_dir}
 ```
 
 - **QAs Filtration**

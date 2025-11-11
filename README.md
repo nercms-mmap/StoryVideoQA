@@ -4,7 +4,7 @@ Offical repository for "StoryVideoQA: Scaling Deep Video Understanding with a La
 
 ------
 
-## StoryVideoQA Datasets
+## 📊 StoryVideoQA Datasets
 
 Due to the large scale of the StoryVideo dataset, we have made it available on the Hugging Face platform for better management and accessibility. The StoryVideoQA dataset includes Question-Answer pairs (QAs) and a character face repository, enabling researchers and developers to easily engage in deep video understanding tasks.
 
@@ -16,7 +16,7 @@ You can access the datasets via the following links:
 
 ------
 
-## StoryMindv2 for the construction of StoryVideoQA
+## ⚙️ StoryMindv2 for the construction of StoryVideoQA
 
 ![StoryMindv2](./assets/StoryMindv2.png)
 
@@ -95,7 +95,7 @@ python diff_measure.py --questions_path json/filter_QAs.json \               # p
 
 ------
 
-## PlotTree for Deep Video Understanding Task
+## ⚙️ PlotTree for Deep Video Understanding Task
 
 ![PlotTree](./assets/PlotTree.png)
 

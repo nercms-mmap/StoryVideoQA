@@ -57,7 +57,7 @@ CUDA_VISIBLE_DEVICES=0 python QAsGen.py --gemini_model gemini-2.0-flash \
 ```
 
 3.  **QAs Filtration**
-  
+
   This stage can be executed by running the script `sh sh/QAsFil.sh` directly, i.e., 
 
 
@@ -80,7 +80,7 @@ python export.py --vid_dir Friends \                           # Filter QAs base
 ```
 
 4. **Difficulty Measure**
-    
+   
     This stage can be executed by running the script `sh sh/QAsDiff.sh` directly, i.e., 
 
 
@@ -130,11 +130,13 @@ Before running the code, please make sure to prepare the Python environment prop
 
 #### Video Data Preparation
 
-- Due to copyright restrictions associated with TV series and movies, researchers are therefore required to **obtain the relevant videos independently** and place them in the `data/video` directory.
-- Once the videos are prepared, you can extract keyframes using the script `data_extraction/extract_images.py`, which samples frames at a default rate of 1 fps.
+- Due to copyright restrictions associated with TV series and movies, researchers are therefore required to **obtain the relevant videos independently** and place them in the `data/video` directory. In addition, please download and unzip the character library from [Character.zip · ZQFive/StoryVideoQA](https://huggingface.co/datasets/ZQFive/StoryVideoQA/blob/main/Character.zip)  to  `data/Character` directory.
+- Once the videos are prepared, you can extract keyframes using the script `data_extraction/extract_images.py`, which samples frames at a default rate of `1 fps`.
 -  After obtaining keyframes, you can perform plot captioning using the provided shell script `sh/cap.sh`.
 
 For convenience, we have provided **pre-generated plot captioning results** for the *StoryVideoQA-G* subset in the `data/captions` directory.
+
+
 
 #### PlotTree Construction and PlotTreeQA
 

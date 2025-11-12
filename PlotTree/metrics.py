@@ -10,22 +10,21 @@ from scipy import spatial
 import re
 
 def extract_options(input_string):
-    # 定义正则表达式模式，匹配 (A)、(B)、(C)、(D)、(E)
-    pattern = r'\(([A-E])\)'  # 只匹配 A 到 E
-    matches = re.findall(pattern, input_string)  # 查找所有匹配项
-    return matches  # 返回匹配项列表
+    # Define a regex to match (A)、(B)、(C)、(D)、(E)
+    pattern = r'\(([A-E])\)'  # Match only A to E
+    matches = re.findall(pattern, input_string)  # Find all matches
+    return matches  
     
 def extract_options_is(input_string):
-    # 定义正则表达式模式
-    # 匹配 (A)、(B)、(C)、(D)、(E) 和 option is A/B/C...
-    pattern_parentheses = r'\(([A-E])\)'  # 匹配括号中的 A-E
-    pattern_option_is = r'option is ([A-E])'  # 匹配 "option is A/B/C..."
+    # Define a regex to match (A)、(B)、(C)、(D)、(E)
+    pattern_parentheses = r'\(([A-E])\)'  
+    # Define a regex to match "option is A/B/C..."
+    pattern_option_is = r'option is ([A-E])'  
 
-    # 查找所有匹配项
+    # Find all matches
     matches_parentheses = re.findall(pattern_parentheses, input_string)
     matches_option_is = re.findall(pattern_option_is, input_string)
 
-    # 处理 "option is A/B/C..." 的匹配结果
     if matches_option_is:
         matches_parentheses.extend(matches_option_is)
 
@@ -125,7 +124,7 @@ def check_answer_json(results_json, model_name, ini_model_name=None):
                     'Total': 0}
     answer_dicts = dict()
     if model_name in ['SINGULARITY','VIOLETv2','Vid-TLDR','VideoChatGPT','SeViLA']:
-        # 直接返回答案的模型
+        # Process model that directly returns the answer
         for q_dict in results_json:
             vid_dir = q_dict['vid'].split("-")[0] if q_dict['vid'].split("-")[0] in ['Friends','GOT','BigBang'] else 'Movie' 
             if q_dict['GT'] == q_dict[f'{model_name}_answer']:
@@ -146,7 +145,7 @@ def check_answer_json(results_json, model_name, ini_model_name=None):
                 question_num[q_dict['attribution']+"-"+'Movie'] += 1
             answer_dicts[vid_dir+ f"-{q_dict['id']}"] = q_dict[f'{model_name}_answer']
     elif model_name in ['VILAMP','PlotTree', 'PlotTree_wo_plot', 'VideoTree','Video2RAG']:
-        # 直接返回选项的模型
+        # Process model that directly returns options
         for q_dict in results_json:
             vid_dir = q_dict['vid'].split("-")[0] if q_dict['vid'].split("-")[0] in ['Friends','GOT','BigBang'] else 'Movie' 
             if q_dict['option'] == q_dict[f'{model_name}_answer'] or q_dict['option'] == q_dict[f'{model_name}_answer'][0]:
@@ -167,7 +166,7 @@ def check_answer_json(results_json, model_name, ini_model_name=None):
             answer_dicts[vid_dir+ f"-{q_dict['id']}"] = q_dict[f'{model_name}_answer']
                 
     elif model_name in ['VideoChat2']:
-        # 直接返回 A),B),...的模型，直接取第一个字母作为option
+        # Process model that directly return a model of A),B),..., and take the first letter as the option.
         for q_dict in results_json:
             vid_dir = q_dict['vid'].split("-")[0] if q_dict['vid'].split("-")[0] in ['Friends','GOT','BigBang'] else 'Movie' 
             if q_dict['option'] == q_dict[f'{model_name}_answer'][0]:
@@ -187,7 +186,7 @@ def check_answer_json(results_json, model_name, ini_model_name=None):
                 question_num[q_dict['attribution']+"-"+'Movie'] += 1
             answer_dicts[vid_dir+ f"-{q_dict['id']}"] = q_dict[f'{model_name}_answer']
     elif model_name in ['videollama3','ChatUniVi','MALMM','TimeChat','VideoLLaMA2','Video-XL']:
-        # 返回答案包含 (A),(B),...的模型，查找第一个作为答案
+        # Process model that directly return a model of (A),(B),..., and take the first letter as the option.
         for q_dict in results_json:
             vid_dir = q_dict['vid'].split("-")[0] if q_dict['vid'].split("-")[0] in ['Friends','GOT','BigBang'] else 'Movie' 
             extract_answers = extract_options_is(q_dict[f'{model_name}_answer'])
@@ -231,10 +230,10 @@ if __name__ == '__main__':
         if 'Video2RAG' in model_name:
             model_name = 'Video2RAG'
         for vid_dir in ['GOT', 'BigBang', 'Friends', 'Movie']:
-            # 全自动全集
+            # Fully Automatic full set
             # if os.path.exists(f"{base_dir}/{vid_dir}_{model_name}.json"):
             #     questions += load_json(f"{base_dir}/{vid_dir}_{model_name}.json")
-            # # 手工标注的正确题目，和提取的重合部分
+            # The manually annotated correct questions and the extracted overlapping parts
             # if os.path.exists(f"{base_dir}/{vid_dir}_{model_name}_correctv1.json"):
             #     questions += load_json(f"{base_dir}/{vid_dir}_{model_name}_correctv1.json")
             #     print(f"Loaded {base_dir}/{vid_dir}_{model_name}_correctv1.json", len(questions))

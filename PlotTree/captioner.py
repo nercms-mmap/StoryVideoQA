@@ -22,7 +22,7 @@ from typing import Dict, Any, List, Tuple
 import argparse
 
 
-# 假设 insightface 和其他库已安装
+# Assuming insightface and other libraries are installed
 import insightface
 from insightface.app import FaceAnalysis
 
@@ -73,7 +73,7 @@ class InsightfaceRecognizer:
         self.profile_dir = profile_dir
         self.colors = ["red", "green", "blue", "yellow", "magenta", "cyan"]
 
-        # 加载映射文件和角色库
+        # Load mapping files and character library
         with open(video_to_imdb_json_path, 'r') as f:
             self.video_to_imdb_map = json.load(f)
         with open(charbank_path, 'r') as f:
@@ -82,21 +82,21 @@ class InsightfaceRecognizer:
         self.tv_char_base_dir = tv_char_base_dir
         self.tv_names = tv_names
         self.cache_path = cache_path
-        # --- 缓存加载逻辑 ---
+        # --- Cache loading logic ---
         if os.path.exists(self.cache_path):
             print(f"Loading known faces from cached file: {self.cache_path}")
             self.known_faces_db = self._load_db_from_cache()
         else:
             print("No cache found. Building feature database from scratch...")
-            # 1. 从零开始构建数据库
+            # 1. Building a face library from scratch
             self.known_faces_db = self._build_db_from_scratch()
-            # 2. 将新建的数据库保存到缓存
+            # 2. Save the newly created face library to the cache.
             self._save_db_to_cache()
             print(f"Feature database built and saved to cache: {self.cache_path}")
 
         print("Recognizer ready.")
     def _load_db_from_cache(self):
-        """从 pickle 文件加载特征数据库。"""
+        """Load the feature database from the pickle file"""
         with open(self.cache_path, 'rb') as f:
             db = pickle.load(f)
         for imdbid in db:
@@ -105,7 +105,7 @@ class InsightfaceRecognizer:
         return db
     
     def _save_db_to_cache(self):
-        """将特征数据库保存到 pickle 文件。"""
+        """Save the feature database to a pickle file"""
         db_to_save = {}
         for imdbid, data in self.known_faces_db.items():
             db_to_save[imdbid] = data.copy() # 浅拷贝
@@ -116,7 +116,7 @@ class InsightfaceRecognizer:
             pickle.dump(db_to_save, f)
     
     def _build_db_from_scratch(self) -> Dict:
-        """ 提取并存储所有已知角色的面部特征。"""
+        """Extract and store the facial features of all known characters."""
         db = {}
         print("Building known faces feature database from imdb character bank...")
         
@@ -129,12 +129,10 @@ class InsightfaceRecognizer:
                 char_id = char_info['id']
                 if f"{char_id}.jpg" in all_profile_names:
                     try:
-                        # img_path = os.path.join(self.profile_dir, f"{char_id}.jpg")
-                        # image_np = np.array(Image.open(img_path).convert("RGB"))
                         image = np.array(Image.open(os.path.join(self.profile_dir, char_id+ ".jpg")).convert("RGB"))
                         faces = self.app.get(image)
                         if faces:
-                            # 标准化 embedding
+                            # Standardized embedding
                             feat = torch.tensor(faces[0]['embedding'])
                             feat_norm = feat / feat.norm(dim=-1, keepdim=True)
                             cast_features.append(feat_norm)
@@ -145,7 +143,7 @@ class InsightfaceRecognizer:
         
             if cast_features:
                 db[imdbid] = {
-                    "features": cast_features, # 将特征放到GPU上以加速计算
+                    "features": cast_features, # Features are placed on the GPU to accelerate computation.
                     "names": cast_names,
                     # "ids": cast_ids,
                 }
@@ -160,7 +158,7 @@ class InsightfaceRecognizer:
             char_features_temp = {} 
             for character_name in tqdm(os.listdir(tv_characters_dir)):
                 character_dir = os.path.join(tv_characters_dir, character_name)
-                # 临时存储每个角色的所有特征向量
+                # Store all feature vectors for each character at the time.
                 char_features_temp[character_name] = []
                 num_char += len(os.listdir(character_dir))
                 for image_name in os.listdir(character_dir):
@@ -179,12 +177,11 @@ class InsightfaceRecognizer:
                 
             for char_name, feats_list in char_features_temp.items():
                 if feats_list:
-                    # 将一个角色的所有特征向量求平均，得到一个更鲁棒的特征
+                    # Averaging all feature vectors of a character yields a more robust feature vector.
                     avg_feat = torch.stack(feats_list).mean(dim=0)
-                    # 对平均后的特征进行归一化
                     avg_feat_norm = avg_feat / avg_feat.norm(dim=-1, keepdim=True)
                     
-                    # 将最终的特征和名字添加到数据库
+                    # Add the final features and name to the database.
                     db[imdbid]["features"].append(avg_feat_norm)
                     db[imdbid]["names"].append(char_name)
             if char_features_temp:
@@ -192,20 +189,20 @@ class InsightfaceRecognizer:
 
         print("\nFinalizing feature database...")
         for imdbid in db.keys():
-            # 将 list of tensors 堆叠成一个 tensor，并放到 GPU
+            # A list of tensors is stacked into a single tensor and then loaded onto the GPU.
             db[imdbid]["features"] = torch.stack(db[imdbid]["features"]).cuda()
 
         return db
 
     def recognize_and_draw(self, image: Image.Image, video_face_key: str, score_thresh: float = 0.25) -> Tuple[Image.Image, str]:
         """
-        对单张图片进行识别和绘制。
+        Recognize and draw a single image.
         Args:
-            image (Image.Image): 输入的PIL图片。
-            video_face_key (str): 当前图片所属的视频/剧集名 (用于查找imdbid)。
-            score_thresh (float): 识别的余弦相似度阈值。
+            image (Image.Image): The input PIL image.
+            video_face_key (str): The name of the video/series to which the current image belongs (used to search imdbid).
+            score_thresh (float): The cosine similarity threshold for identification.
         Returns:
-            Tuple[Image.Image, str]: 带标注的图片 和 描述文本。
+            Tuple[Image.Image, str]: Image with annotations and description text.
         """
 
         imdbid = self.video_to_imdb_map.get(video_face_key)
@@ -232,7 +229,7 @@ class InsightfaceRecognizer:
             feat = torch.tensor(face['embedding']).cuda()
             feat_norm = feat / feat.norm(dim=-1, keepdim=True)
             
-            # 计算余弦相似度
+            # Calculate cosine similarity
             cos_sim = feat_norm @ known_features.transpose(0, 1)
             best_match = torch.max(cos_sim, -1)
             
@@ -240,7 +237,7 @@ class InsightfaceRecognizer:
                 pred_idx = best_match[1].item()
                 name = known_names[pred_idx]
                 
-                # 分配颜色并绘制
+                # Assign colors and draw
                 if name not in recognized_people:
                     color = self.colors[len(recognized_people) % len(self.colors)]
                     recognized_people[name] = color
@@ -248,9 +245,8 @@ class InsightfaceRecognizer:
                 color_to_draw = recognized_people[name]
                 left, top, right, bottom = int(bbox[0]), int(bbox[1]), int(bbox[2]), int(bbox[3])
                 draw.rectangle(((left, top), (right, bottom)), outline=color_to_draw, width=3)
-                # ... (省略了标签绘制代码以保持简洁，可以像之前一样添加)
 
-        # 3. 生成描述字符串
+        # 3. Generate description string
         char_text = ", ".join([f"{name} ({color})" for name, color in recognized_people.items()])
         characters_info = ", ".join([f"{name}" for name, color in recognized_people.items()])
         print(char_text)
@@ -261,13 +257,10 @@ def get_subtitles_for_scene(temp_second,  subtitles: List[srt.Subtitle]) -> str:
     """
     Extracts subtitle text for a given scene based on timecodes.
     """
-    scene_start_seconds = temp_second
-    scene_end_seconds = temp_second
     scene_subtitles = []
     for sub in subtitles:
         sub_start_seconds = sub.start.total_seconds()
         sub_end_seconds = sub.end.total_seconds()
-        # print(sub_start_seconds, sub_end_seconds)
         if sub_start_seconds<= temp_second and temp_second <= sub_end_seconds:
             scene_subtitles.append(sub.content)
     return " ".join(scene_subtitles)
@@ -280,7 +273,7 @@ def plot_captioning(image_path, video_face_key, subtitle, recognizer) -> str:
     # Each value in "content" has to be a list of dicts with types ("text", "image") 
 
     annotated_image, face_info_text, characters_info = recognizer.recognize_and_draw(original_image, video_face_key)
-    save_base_dir = "/mnt/disk6new/wzq/repetition/VideoTree/data/annotated_images"
+    save_base_dir = "data/annotated_images"
     try:
         path_components = image_path.split(os.sep)[-3:]
         
@@ -297,7 +290,6 @@ def plot_captioning(image_path, video_face_key, subtitle, recognizer) -> str:
     # 最基本的Caption方法
     base_prompt_text = "Please generate a brief caption of this image (Describe 'Who' is doing 'What' in 'Where')"
     final_prompt_text = f"{base_prompt_text}. Recognized faces are annotated by boundingbox with color: {face_info_text}. Directly use character's name to narrate, and don't use boundingbox's color." if face_info_text else base_prompt_text
-    # final_prompt_text = base_prompt_text 
     final_prompt_text = final_prompt_text + f" Subtitle: {subtitle}" if subtitle else final_prompt_text
     conversation = [
         {
@@ -320,7 +312,7 @@ def plot_captioning(image_path, video_face_key, subtitle, recognizer) -> str:
 def captioning(image_path, video_face_key, subtitle, recognizer) -> str:
     original_image = Image.open(image_path)
     face_info_text, characters_info = "", "" 
-    # 最基本的Caption方法
+    # Basic Caption method
     base_prompt_text = "Please generate a brief caption of this image (Describe 'Who' is doing 'What' in 'Where')"
     final_prompt_text = base_prompt_text
     conversation = [
@@ -340,7 +332,8 @@ def captioning(image_path, video_face_key, subtitle, recognizer) -> str:
     caption = processor.decode(output[0][inputs["input_ids"].shape[1]:], skip_special_tokens=True).replace("\"", "")
     return caption, face_info_text, characters_info 
 
-# video_face_key决定了使用哪个人脸库（GOT是权游，Friends是老友记，BigBang是生活大爆炸，电影类似于IMDB-XXX-XX的形式）
+# video_face_key determines which face database is used 
+# (GOT is Game of Thrones, Friends is Friends, BigBang is The Big Bang Theory, and movies are similar to IMDB-XXX-XX format).
 def caption_dir(images_dir, video_face_key, srt_path, fps, recognizer, captype):
     image_names_list = sorted(os.listdir(images_dir), key=lambda x: int(x[:-4]))
     captions_list = []
@@ -356,8 +349,6 @@ def caption_dir(images_dir, video_face_key, srt_path, fps, recognizer, captype):
             image_caption, face_info_text, characters_info  = plot_captioning(image_path, video_face_key, subtitle, recognizer)
         else:
             image_caption, face_info_text, characters_info  = captioning(image_path, video_face_key, subtitle, recognizer)
-        # if subtitle:
-        #     image_caption += f" Subtitle: {subtitle}"
         print(name, image_caption)
         print(face_info_text, characters_info)
         print(format_time(second),":", subtitle)
@@ -395,9 +386,9 @@ if __name__== "__main__":
     face_app.prepare(ctx_id=0, det_size=(640, 640))
     print("Insightface model ready.")
 
-    PROFILE_DIR = "data/Character/Movie" # 存放角色肖像照
-    CHARBANK_PATH = "data/Character/Movie.json" # 角色库
-    VIDEO_TO_IMDB_PATH = "data/name2imdbid.json" # 视频名到imdbid的映射
+    PROFILE_DIR = "data/Character/Movie" # Character portrait
+    CHARBANK_PATH = "data/Character/Movie.json" # Character library
+    VIDEO_TO_IMDB_PATH = "data/name2imdbid.json" # Mapping from video name to imdbid
     TV_CHAR_BASE_DIR = "data/Character"
 
     recognizer = InsightfaceRecognizer(

@@ -10,15 +10,14 @@ from sentence_transformers import SentenceTransformer
 from utils.localllm import QwenChatbot, get_llm, chat
 
 
-# os.environ['CUDA_VISIBLE_DEVICES']= '0'
-os.environ['SENTENCE_TRANSFORMERS_HOME'] = "/mnt/disk6new/wzq/ckpt"
+os.environ['SENTENCE_TRANSFORMERS_HOME'] = "ckpt"
 
 def read_json(json_path):
     data = None
     if os.path.exists(json_path):
         with open(json_path, "r", encoding="utf-8") as file:
             json_str = file.read()
-            # 使用json.loads()方法解析JSON字符串
+            # Use the json.loads() method to parse JSON strings.
             data = json.loads(json_str)
     return data
 
@@ -29,19 +28,10 @@ def save_json(json_path, data):
 def choices_str(choice_list):
     choices = ""
     for i, choice in enumerate(choice_list):
-        choices += "(" + chr(65+i)+")" + f" {choice}\n"    # 65表示字符'A'
+        choices += "(" + chr(65+i)+")" + f" {choice}\n"    # 65 stands for char 'A'
     return choices
 
 
-# def cosine_similarity_distance(query_vectors, candidate_vectors):
-#     query_vectors = query_vectors.to(torch.float32)
-#     candidate_vectors = candidate_vectors.to(torch.float32)
-#     query_vectors_normalized = F.normalize(query_vectors, dim=1)
-#     candidate_vectors_normalized = F.normalize(candidate_vectors, dim=1)
-#     similarity_matrix = torch.mm(query_vectors_normalized, candidate_vectors_normalized.transpose(0, 1)) 
-#     distances = 1 - similarity_matrix
-
-#     return distances
 
 def get_embedding_from_text(text: str, model: SentenceTransformer) -> torch.Tensor:
     return model.encode([text], convert_to_tensor=True, device=model.device, prompt_name="query").squeeze(0)
@@ -78,7 +68,6 @@ def get_llm_qa(prompt, llm_model, args) -> str:
          # print(f"{llm_model}: {summary}")
     if summary.startswith(prompt):
         summary = summary[len(prompt):].strip()
-     # 简单截断以防过长
     # if len(summary) > 500: summary = summary[:500] + "..."
     return summary
 
@@ -90,36 +79,34 @@ def retrieve_context_with_bnsr(
     max_context_tokens: int = 2000
 ) -> list[str]:
     """
-    利用 BNSR (Best-Node & Siblings Retrieval) 策略进行 RAG 上下文检索。
-    找到与问题最相似的节点，并召回其父节点和所有兄弟节点。
+    Perform RAG contextual retrieval directly on the tree.
 
     Args:
-        question_embedding (torch.Tensor): 查询的嵌入 (1, D)。
-        plot_tree_nodes_list (list[dict]): 整个 PlotTree 的节点列表。
-        rag_embedding_model (SentenceTransformer): 用于将节点嵌入移到设备。
-        max_context_tokens (int): 最终召回上下文的最大token数。
+        question_embedding (torch.Tensor): The query is embedded in (1, D).
+        plot_tree_nodes_list (list[dict]): The entire list of nodes in the PlotTree.
+        rag_embedding_model (SentenceTransformer): Used to embed nodes into devices.
+        max_context_tokens (int): The maximum number of tokens in the final recall context.
 
     Returns:
-        list[str]: 召回的 PlotSummary 文本列表，按时间顺序排列。
+        list[str]: A list of recalled PlotSummary texts, arranged chronologically.
     """
     if not plot_tree_nodes_list:
         return []
 
     node_map = {node["node_id"]: node for node in plot_tree_nodes_list}
 
-    # 计算问题嵌入与所有候选节点嵌入的距离
+    # Calculate the distance between the problem embedding and the embeddings of all candidate nodes.
     distances = cosine_similarity_distance(candidate_embeddings, question_embedding) # (N_candidates,)
     sorted_distances, sorted_indices = torch.sort(distances)
     top_k_indices = sorted_indices[:max_rag_nodes]
     collected_summaries_with_info = [] # [(start_frame_idx, plot_summary)]
     for idx in top_k_indices:
-        node = plot_tree_nodes_list[int(idx.item())] # 假设 plot_tree_nodes_list 保持了原始节点顺序
+        node = plot_tree_nodes_list[int(idx.item())] # Assuming plot_tree_nodes_list maintains the original node order
         collected_summaries_with_info.append((node["node_id"], node["start_frame_idx"], node["plot_summary"]))
 
 
-    # 3. 上下文整合与排序，并限制token数
-    collected_summaries_with_info.sort(key=lambda x: x[1]) # 最终按起始帧索引排序
-    # print("Extract summary", len(collected_summaries_with_info))
+    # Context integration and sorting, and limiting the number of tokens.
+    collected_summaries_with_info.sort(key=lambda x: x[1]) # Finally sorted by the starting frame index
     final_context_summaries = []
     for _, _, summary_text in collected_summaries_with_info:
         final_context_summaries.append(summary_text)
@@ -136,54 +123,47 @@ def retrieve_context_with_bnsrv2(
     level_retrieve_counts:dict = None,
 ) -> list[str]:
     """
-    利用 BNSR (Best-Node & Siblings Retrieval) 策略进行 RAG 上下文检索。
-    找到与问题最相似的节点，并召回其父节点和所有兄弟节点。
+    Perform RAG contextual retrieval directly on the tree.
 
     Args:
-        question_embedding (torch.Tensor): 查询的嵌入 (1, D)。
-        plot_tree_nodes_list (list[dict]): 整个 PlotTree 的节点列表。
-        rag_embedding_model (SentenceTransformer): 用于将节点嵌入移到设备。
-        max_context_tokens (int): 最终召回上下文的最大token数。
-
+        question_embedding (torch.Tensor): The query is embedded in (1, D).
+        plot_tree_nodes_list (list[dict]): The entire list of nodes in the PlotTree.
+        rag_embedding_model (SentenceTransformer): Used to embed nodes into devices.
+        max_context_tokens (int): The maximum number of tokens in the final recall context.
     Returns:
-        list[str]: 召回的 PlotSummary 文本列表，按时间顺序排列。
+        list[str]: A list of recalled PlotSummary texts, arranged chronologically.
     """
     if not plot_tree_nodes_list:
         return []
 
-    # if level_retrieve_counts is None:
-    #     # 默认每个level检索1个节点
-    #     all_levels = set(node.get("level", 0) for node in plot_tree_nodes_list)
-    #     level_retrieve_counts = {level: 1 for level in all_levels}
-        
     node_map = {node["node_id"]: node for node in plot_tree_nodes_list}
 
-    # 计算问题嵌入与所有候选节点嵌入的距离
+    # Calculate the distance between the problem embedding and the embeddings of all candidate nodes
     distances = cosine_similarity_distance(candidate_embeddings, question_embedding) # (N_candidates,)
     sorted_distances, sorted_indices = torch.sort(distances)
-    # top_k_indices = sorted_indices[:max_rag_nodes]
-    collected_nodes = {} # 存储每个level已经收集到的节点数量
-    final_selected_node_indices = set() # 存储最终选中的节点在 plot_tree_nodes_list 中的索引
-    # 遍历排序后的索引，尝试为每个level收集节点
+   
+    collected_nodes = {} # Store the number of nodes collected at each level
+    final_selected_node_indices = set() # Store the index of the finally selected node in plot_tree_nodes_list
+    # Traverse the sorted indices and attempt to collect nodes for each level
     if level_retrieve_counts:
         for idx in sorted_indices:
             node_idx = int(idx.item())
             node = plot_tree_nodes_list[node_idx]
             node_level = node.get("level", 0) # 假设默认level为0
 
-            # 如果这个level还没有达到目标数量，并且这个节点还没有被选中过
+            # If this level has not yet reached the target number, and this node has not been selected yet.
             if collected_nodes.get(node_level, 0) < level_retrieve_counts.get(node_level, 1):
                 if node_idx not in final_selected_node_indices:
                     final_selected_node_indices.add(node_idx)
                     collected_nodes[node_level] = collected_nodes.get(node_level, 0) + 1
         
-            # 检查是否已经满足了所有level的检索数量，并且达到了max_rag_nodes
+            # Check if the retrieval count for all levels has been met and if max_rag_nodes has been reached.
             if len(final_selected_node_indices) >= max_rag_nodes:
-                    # 也可以在这里检查是否所有level都已达到其目标数量
                     # all_levels_met = all(collected_nodes.get(lvl, 0) >= count for lvl, count in level_retrieve_counts.items())
                     # if all_levels_met:
                 break
-    # 如果通过分层检索的节点数量不足 max_rag_nodes，则补充剩余最相似的节点
+    # If the number of nodes retrieved through hierarchical retrieval is less than max_rag_nodes, then supplement with the remaining most similar nodes.
+    # In default setting, we only use this to retrieve nodes
     if len(final_selected_node_indices) < max_rag_nodes:
         remaining_count = max_rag_nodes - len(final_selected_node_indices)
         for idx in sorted_indices:
@@ -206,12 +186,9 @@ def retrieve_context_with_bnsrv2(
     level_keys = sorted(list(nodel_levels.keys()))
     for key in level_keys:
         print(f"Level {key} extract nodes:",len(nodel_levels[key]))
-    # for idx in top_k_indices:
-    #     node = plot_tree_nodes_list[int(idx.item())] # 假设 plot_tree_nodes_list 保持了原始节点顺序
-    #     collected_summaries_with_info.append((node["node_id"], node["start_frame_idx"], node["plot_summary"]))
-        
-    # 3. 上下文整合与排序，并限制token数
-    collected_summaries_with_info.sort(key=lambda x: (x[1], -x[2])) # 最终按起始帧索引排序, 以及level越大越前
+
+    # 3. Context integration and sorting, and limiting the number of tokens.
+    collected_summaries_with_info.sort(key=lambda x: (x[1], -x[2])) # Finally, sort by the starting frame index, and prioritize frames with higher levels.
     print("Extract summary", len(collected_summaries_with_info), collected_nodes)
     final_context_summaries = []
     for _, node_index, node_level, summary_text in collected_summaries_with_info:
@@ -235,26 +212,26 @@ def extract_option(response):
         if match:
             response = match.group(1)
         else:
-            response = response# 无法识别的答案
+            response = response # Unrecognized answer
     return response
 
 def plot_tree_qa(args, question_text: str, choices: list[str], episode_id: str, 
                  rag_embedding_model: SentenceTransformer, llm_model: str,  tree_output_base_dir: Path,
                  max_rag_nodes: int = 5) -> str:
     """
-    通过检索预构建的 PlotTree 来回答问题。
+    Answer questions by retrieving pre-built PlotTrees.
 
     Args:
-        question_text (str): 原始问题文本。
-        choices (list[str]): 问题的选项。
-        episode_id (str): 对应视频的剧集ID (例如 "Friends-S01E01")。
-        rag_embedding_model (SentenceTransformer): 用于编码问题和节点嵌入的模型。
-        llm_model (str): 用于生成答案的本地LLM模型名称。
+        question_text (str): Original question text.
+        choices (list[str]): Options to the question.
+        episode_id (str): The episode ID of the corresponding video (e.g., "Friends-S01E01").
+        rag_embedding_model (SentenceTransformer): A model for encoding problems and node embedding.
+        llm_model (str): The name of the local LLM model used to generate the answer.
 
-        max_rag_nodes (int): 检索时最多召回的 PlotTree 节点数量。
+        max_rag_nodes (int): The maximum number of PlotTree nodes that can be recalled during retrieval.
 
     Returns:
-        str: LLM 生成的答案 (通常是选项 A/B/C/D/E)。
+        str: The answer generated by LLM (usually options A/B/C/D/E).
     """
     global plot_tree_nodes_list_dict, candidate_embeddings_dict
     
@@ -262,11 +239,11 @@ def plot_tree_qa(args, question_text: str, choices: list[str], episode_id: str,
         plot_tree_nodes_list = plot_tree_nodes_list_dict[episode_id]
         candidate_embeddings = candidate_embeddings_dict[episode_id]
     else:
-        # 1. 加载对应剧集的 PlotTree 节点
+        # 1. Load the PlotTree node for the corresponding episode.
         if episode_id.split("-")[0] in ['Friends', 'BigBang', 'GOT']:
-            plot_tree_path = tree_output_base_dir / f"{episode_id}.json" # 假设文件名格式
+            plot_tree_path = tree_output_base_dir / f"{episode_id}.json" 
         else:
-            plot_tree_path = tree_output_base_dir / f"Movie-{episode_id}.json" # 假设文件名格式
+            plot_tree_path = tree_output_base_dir / f"Movie-{episode_id}.json" 
         if not os.path.exists(plot_tree_path):
             print("####################################################################################")
             print(f"#")
@@ -274,7 +251,7 @@ def plot_tree_qa(args, question_text: str, choices: list[str], episode_id: str,
             print(f"#")
             print("####################################################################################")
         plot_tree_nodes_list = read_json(plot_tree_path)
-        # 如果非PlotTree，采用Video2RAG的一维节点策略
+        # If it is not a PlotTree, use the one-dimensional node strategy of Video2RAG.
         if not 'PlotTree' in args.plotTree_name:
             new_node_list = []
             print(args.plotTree_name, "Only extract first level nodes !!!")
@@ -282,7 +259,7 @@ def plot_tree_qa(args, question_text: str, choices: list[str], episode_id: str,
                 if node['level']==0:
                     new_node_list.append(node)
             plot_tree_nodes_list = new_node_list
-        # lc的神奇想法
+        # Ablation study of PlotTree on plot captioning
         if args.description_type !='full':
             new_node_list = []
             print(args.plotTree_name, "Only extract summary text, not character and subtitle for all nodes !!!")
@@ -314,55 +291,13 @@ def plot_tree_qa(args, question_text: str, choices: list[str], episode_id: str,
         candidate_embeddings_dict[episode_id] = candidate_embeddings
         
     question_embedding = get_embedding_from_text(question_text+ choices_str(choices), rag_embedding_model)
-    # candidate_nodes = [node for node in plot_tree_nodes_list if node.get("parent_id") is not None] # 排除根节点
-    
-    # if not candidate_nodes:
-    #     # 如果只有根节点或没有节点，则直接返回根节点或空
-    #     root_nodes = [node for node in plot_tree_nodes_list if node.get("parent_id") is None]
-    #     if root_nodes:
-    #         tqdm.write("  BNSR: Only root node available. Retrieving root summary.")
-    #         return [root_nodes[0]["plot_summary"]]
-    #     return []
-    # nodes_summary = [node['plot_summary'] for node in candidate_nodes]
-    # candidate_embeddings = rag_embedding_model.encode(nodes_summary, convert_to_tensor=True, device=rag_embedding_model.device)    
 
-    # 3. 遍历树节点进行 RAG 检索
-    # 策略：遍历所有节点（或只遍历叶子节点，或只遍历中间层节点），计算与问题的相似度，然后召回最相关的 K 个
-    # 这里我们遍历所有非叶子节点和叶子节点（除了根节点），因为它们都有plot_embedding和plot_summary
-    
-    # 提取所有节点的 plot_embedding 和 node_id
-    # all_node_embeddings = []
 
-    # nodes_summary = [node['plot_summary'] for node in plot_tree_nodes_list]
-    # all_node_ids = [node["node_id"] for node in plot_tree_nodes_list]
-    # all_node_embeddings_tensor = rag_embedding_model.encode(nodes_summary, convert_to_tensor=True, device=rag_embedding_model.device).squeeze(0)
-    
-
-    # all_node_embeddings_tensor = torch.stack(all_node_embeddings) # Shape: (N_nodes, D)
-
-    # 计算问题嵌入与所有节点嵌入的距离
-    # cosine_similarity_distance 期望 (N_query, D) 和 (N_candidate, D)
-    # distances = cosine_similarity_distance(all_node_embeddings_tensor, question_embedding) # Shape: (N_nodes,)
-
-    # # 召回最相似的 max_rag_nodes 个节点 (距离最小)
-    # # torch.topk 默认返回最大值，我们想要最小值，所以可以取负数然后取最大值，或者直接用 argmin/sort
-    # # 或者用 sort 得到升序排列的索引
-    # sorted_distances, sorted_indices = torch.sort(distances)
-    
-    # # 获取 top_k 召回节点的索引 (在 all_node_embeddings_tensor 中的索引)
-    # top_k_indices = sorted_indices[:max_rag_nodes]
-
-    # 构建 RAG 背景知识
     retrieved_context_summaries = []
     retrieved_node_ids = []
     retrieved_start_frames = []
 
-    # --- MODIFICATION: 使用新的 BNSR 检索逻辑 ---
-    # retrieved_context_summaries, node_list = retrieve_context_with_bnsr(
-    #     question_embedding=question_embedding,
-    #     plot_tree_nodes_list=plot_tree_nodes_list,
-    #     candidate_embeddings=candidate_embeddings, max_rag_nodes = max_rag_nodes
-    # )
+    # --- MODIFICATION: Using the new retrieval logic --- ---
     retrieved_context_summaries, node_list = retrieve_context_with_bnsrv2(
         question_embedding=question_embedding,
         plot_tree_nodes_list=plot_tree_nodes_list,
@@ -371,7 +306,7 @@ def plot_tree_qa(args, question_text: str, choices: list[str], episode_id: str,
 
     # retrieved_nodes_info = [] # [(start_frame_idx, plot_summary)]
     # for idx in top_k_indices:
-    #     node = plot_tree_nodes_list[idx.item()] # 假设 plot_tree_nodes_list 保持了原始节点顺序
+    #     node = plot_tree_nodes_list[idx.item()] 
     #     retrieved_nodes_info.append((node["start_frame_idx"], node["plot_summary"]))
     
     # retrieved_nodes_info.sort(key=lambda x: x[0]) # 按起始帧索引排序
@@ -379,10 +314,10 @@ def plot_tree_qa(args, question_text: str, choices: list[str], episode_id: str,
     # for _, summary in retrieved_nodes_info:
     #     retrieved_context_summaries.append(summary)
 
-    # 4. 组装 Prompt
+    # 4. Construction of Prompt
     context_str = "\n".join([f"({index}): {text}" for index, text in retrieved_context_summaries])
     
-    # 根据 LLM 期望的格式组装问题和选项
+    # Assembly issues and options based on LLM's desired format.
     context = f"You are presented with a textual description of a video clip, it consists of frame captions sparsely sampled from the video. Your task is to answer a question solely based on these textual description, choosing the correct option out of five possible answers. Please provide the answer with a single-letter (A, B, C, D, E) \n\n###\n\n  Description: \n{context_str}\n\n"
     question = f"{context}\nQuestion: {question_text}\n\nPlease select one best option from following choices directly:\n" + choices_str(choices) + "\nAnswer: ("
     
@@ -390,7 +325,7 @@ def plot_tree_qa(args, question_text: str, choices: list[str], episode_id: str,
     
     response = get_llm_qa(question, llm_model, args)
     # print("initial_response",response)
-    # 提取 LLM 答案的选项字母
+    # Extracting the option letters from LLM answers
     response = response.strip().upper()
     response = extract_option(response)
 
@@ -436,10 +371,10 @@ if __name__ == '__main__':
     
     save_json_path = f"{hyper_insert_save_dir}/{vid_dir}-{model_name}.json"
     
-    # 加载 RAG Embedding 模型 (全局只加载一次)
+    # Load the RAG Embedding model (loaded globally only once).
     tqdm.write("Loading RAG Embedding Model...")
     rag_embedding_model = SentenceTransformer("Qwen/Qwen3-Embedding-0.6B")
-    # 将模型移动到合适的设备 (GPU/CPU)
+    # Move the model to a suitable device (GPU/CPU).
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     rag_embedding_model.to(device)
 
@@ -461,15 +396,15 @@ if __name__ == '__main__':
         question = q_dict['question']
         choices = q_dict['choices']
         episode_id = q_dict['vid']
-        # blind test
-        # --- 核心：使用 PlotTree RAG 进行问答 ---
+
+        # --- Core: Using PlotTree RAG for question answering ---
         response, node_list = plot_tree_qa(
             args,
             question_text=q_dict['question'],
             choices=choices,
             episode_id=episode_id,
             rag_embedding_model=rag_embedding_model,
-            llm_model=args.llm_model, # LLM模型名，plot_tree_qa内部根据此调用
+            llm_model=args.llm_model, # LLM model
             tree_output_base_dir = tree_output_base_dir,
             max_rag_nodes=args.max_rag_nodes
         )

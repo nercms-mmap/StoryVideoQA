@@ -1,6 +1,8 @@
 # StoryVideoQA: Scaling Deep Video Understanding with a Large-Scale, Multi-Genre and Auto-Generated Dataset
 
-Offical repository for "StoryVideoQA: Scaling Deep Video Understanding with a Large-Scale, Multi-Genre and Auto-Generated Dataset"
+<img alt="Static Badge" src="https://img.shields.io/badge/huggingface-StoryVideoQA_Dataset-blue?logo=huggingface&link=https%3A%2F%2Fhuggingface.co%2Fdatasets%2FZQFive%2FStoryVideoQA">
+
+
 
 ------
 

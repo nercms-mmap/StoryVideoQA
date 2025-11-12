@@ -287,7 +287,7 @@ def plot_captioning(image_path, video_face_key, subtitle, recognizer) -> str:
     except Exception as e:
         print(f"Warning: Could not save annotated image for {image_path}. Error: {e}")
 
-    # 最基本的Caption方法
+    # Caption
     base_prompt_text = "Please generate a brief caption of this image (Describe 'Who' is doing 'What' in 'Where')"
     final_prompt_text = f"{base_prompt_text}. Recognized faces are annotated by boundingbox with color: {face_info_text}. Directly use character's name to narrate, and don't use boundingbox's color." if face_info_text else base_prompt_text
     final_prompt_text = final_prompt_text + f" Subtitle: {subtitle}" if subtitle else final_prompt_text

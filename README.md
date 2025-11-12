@@ -1,6 +1,6 @@
 # StoryVideoQA: Scaling Deep Video Understanding with a Large-Scale, Multi-Genre and Auto-Generated Dataset
 
-<img alt="Static Badge" src="https://img.shields.io/badge/huggingface-StoryVideoQA_Dataset-blue?logo=huggingface&link=https%3A%2F%2Fhuggingface.co%2Fdatasets%2FZQFive%2FStoryVideoQA">
+<a href='https://huggingface.co/orange-sk/ViLAMP-llava-qwen'><img alt="Static Badge" src="https://img.shields.io/badge/huggingface-StoryVideoQA_Dataset-blue?logo=huggingface"></a>
 
 
 

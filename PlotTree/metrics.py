@@ -59,7 +59,7 @@ def extract_dict_key(json_data, extract_keys=['id', 'vid', 'option', 'VILAMP_ans
             accumulative_score = 1
         else:
             accumulative_score = 0
-        temp_dict['type'].append(f"{q_dict['question_type']}-{q_dict['story_elements']}")
+        temp_dict['type'].append(f"{q_dict['question_type']}-{q_dict['story_element']}")
         temp_dict['times'].append(q_dict['times'])
         temp_dict['score'].append(accumulative_score)
         
@@ -129,14 +129,14 @@ def check_answer_json(results_json, model_name, ini_model_name=None):
             vid_dir = q_dict['vid'].split("-")[0] if q_dict['vid'].split("-")[0] in ['Friends','GOT','BigBang'] else 'Movie' 
             if q_dict['GT'] == q_dict[f'{model_name}_answer']:
                 score_dict['Total'] +=1
-                score_dict[q_dict['question_type']+"-"+q_dict['story_elements']] += 1
+                score_dict[q_dict['question_type']+"-"+q_dict['story_element']] += 1
                 score_dict['TV'] = score_dict['TV']+1 if vid_dir != 'Movie' else score_dict['TV']
                 if vid_dir in ['Friends','GOT','BigBang']:
                     score_dict[q_dict['question_type']+"-"+'TV'] += 1
                 else:
                     score_dict[q_dict['question_type']+"-"+'Movie'] += 1
 
-            question_num[q_dict['question_type']+"-"+q_dict['story_elements']] += 1
+            question_num[q_dict['question_type']+"-"+q_dict['story_element']] += 1
             question_num['TV'] = question_num['TV'] + 1 if vid_dir != 'Movie' else question_num['TV']
             question_num['Total'] +=1
             if vid_dir in ['Friends','GOT','BigBang']:
@@ -150,13 +150,13 @@ def check_answer_json(results_json, model_name, ini_model_name=None):
             vid_dir = q_dict['vid'].split("-")[0] if q_dict['vid'].split("-")[0] in ['Friends','GOT','BigBang'] else 'Movie' 
             if q_dict['option'] == q_dict[f'{model_name}_answer'] or q_dict['option'] == q_dict[f'{model_name}_answer'][0]:
                 score_dict['Total'] +=1
-                score_dict[q_dict['question_type']+"-"+q_dict['story_elements']] += 1
+                score_dict[q_dict['question_type']+"-"+q_dict['story_element']] += 1
                 score_dict['TV'] = score_dict['TV']+1 if vid_dir != 'Movie' else score_dict['TV']
                 if vid_dir in ['Friends','GOT','BigBang']:
                     score_dict[q_dict['question_type']+"-"+'TV'] += 1
                 else:
                     score_dict[q_dict['question_type']+"-"+'Movie'] += 1
-            question_num[q_dict['question_type']+"-"+q_dict['story_elements']] += 1
+            question_num[q_dict['question_type']+"-"+q_dict['story_element']] += 1
             question_num['TV'] = question_num['TV'] + 1 if vid_dir != 'Movie' else question_num['TV']
             question_num['Total'] +=1
             if vid_dir in ['Friends','GOT','BigBang']:
@@ -171,13 +171,13 @@ def check_answer_json(results_json, model_name, ini_model_name=None):
             vid_dir = q_dict['vid'].split("-")[0] if q_dict['vid'].split("-")[0] in ['Friends','GOT','BigBang'] else 'Movie' 
             if q_dict['option'] == q_dict[f'{model_name}_answer'][0]:
                 score_dict['Total'] +=1
-                score_dict[q_dict['question_type']+"-"+q_dict['story_elements']] += 1
+                score_dict[q_dict['question_type']+"-"+q_dict['story_element']] += 1
                 score_dict['TV'] = score_dict['TV']+1 if vid_dir != 'Movie' else score_dict['TV']
                 if vid_dir in ['Friends','GOT','BigBang']:
                     score_dict[q_dict['question_type']+"-"+'TV'] += 1
                 else:
                     score_dict[q_dict['question_type']+"-"+'Movie'] += 1
-            question_num[q_dict['question_type']+"-"+q_dict['story_elements']] += 1
+            question_num[q_dict['question_type']+"-"+q_dict['story_element']] += 1
             question_num['TV'] = question_num['TV'] + 1 if vid_dir != 'Movie' else question_num['TV']
             question_num['Total'] +=1
             if vid_dir in ['Friends','GOT','BigBang']:
@@ -192,13 +192,13 @@ def check_answer_json(results_json, model_name, ini_model_name=None):
             extract_answers = extract_options_is(q_dict[f'{model_name}_answer'])
             if len(extract_answers)>0 and q_dict['option'] == extract_options_is(q_dict[f'{model_name}_answer'])[0]:
                 score_dict['Total'] +=1
-                score_dict[q_dict['question_type']+"-"+q_dict['story_elements']] += 1
+                score_dict[q_dict['question_type']+"-"+q_dict['story_element']] += 1
                 score_dict['TV'] = score_dict['TV']+1 if vid_dir != 'Movie' else score_dict['TV']
                 if vid_dir in ['Friends','GOT','BigBang']:
                     score_dict[q_dict['question_type']+"-"+'TV'] += 1
                 else:
                     score_dict[q_dict['question_type']+"-"+'Movie'] += 1
-            question_num[q_dict['question_type']+"-"+q_dict['story_elements']] += 1
+            question_num[q_dict['question_type']+"-"+q_dict['story_element']] += 1
             question_num['TV'] = question_num['TV'] + 1 if vid_dir != 'Movie' else question_num['TV']
             question_num['Total'] +=1
             if vid_dir in ['Friends','GOT','BigBang']:

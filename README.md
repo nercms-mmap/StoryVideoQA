@@ -1,9 +1,8 @@
 # StoryVideoQA: Scaling Deep Video Understanding with a Large-Scale, Multi-Genre and Auto-Generated Dataset
 
 <div style='display:flex; gap: 0.5rem; '>
-    <a href='https://huggingface.co/datasets/ZQFive/StoryVideoQA'><img alt="Static Badge" src="https://img.shields.io/badge/huggingface-StoryVideoQA_Dataset-yellow?logo=huggingface"></a>
-    	<a href='https://github.com/nercms-mmap'><img alt="Static Badge" src="https://img.shields.io/badge/Github-NERCMS--MMAP-blue?logo=github"></a>
-
+        	<a href='https://github.com/nercms-mmap'><img alt="Static Badge" src="https://img.shields.io/badge/Github-NERCMS--MMAP-blue?logo=github"></a>
+    <a href='https://huggingface.co/datasets/ZQFive/StoryVideoQA'><img alt="Static Badge" src="https://img.shields.io/badge/huggingface-StoryVideoQA_Dataset-orange?logo=huggingface"></a>
 
 
 ------

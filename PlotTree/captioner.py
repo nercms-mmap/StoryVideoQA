@@ -368,8 +368,8 @@ def save_json(data, fn, indent=4):
 
 
 
-processor = LlavaNextProcessor.from_pretrained("llava-hf/llava-v1.6-vicuna-7b-hf",cache_dir="/mnt/disk6new/wzq/ckpt")
-model = LlavaNextForConditionalGeneration.from_pretrained("llava-hf/llava-v1.6-vicuna-7b-hf", torch_dtype=torch.float16, low_cpu_mem_usage=True, cache_dir="/mnt/disk6new/wzq/ckpt") 
+processor = LlavaNextProcessor.from_pretrained("llava-hf/llava-v1.6-vicuna-7b-hf",cache_dir="./ckpt")
+model = LlavaNextForConditionalGeneration.from_pretrained("llava-hf/llava-v1.6-vicuna-7b-hf", torch_dtype=torch.float16, low_cpu_mem_usage=True, cache_dir="./ckpt") 
 model.to("cuda")
 
 if __name__== "__main__":

@@ -1,10 +1,12 @@
 ## ⚙️ StoryMindv2 for the construction of StoryVideoQA
 
-![StoryMindv2](../assets/StoryMindv2.png)
+![StoryMindv2](C:\Users\wzq\Desktop\IJCV-Github\StoryVideoQA-github\assets\StoryMindv2.png)
 
 ### **Environment Setup (This project work in StoryMindv2 directory):**
 
 ```bash
+conda create --name StoryMindv2 python=3.10
+conda activate StoryMindv2
 cd StoryMindv2
 pip install -r requirements.txt
 ```

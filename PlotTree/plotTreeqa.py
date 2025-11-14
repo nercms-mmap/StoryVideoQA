@@ -7,7 +7,7 @@ from tqdm import tqdm
 import torch
 import torch.nn.functional as F
 from sentence_transformers import SentenceTransformer
-from utils.localllm import QwenChatbot, get_llm, chat
+from utils.llm import QwenChatbot, get_llm, chat
 
 
 os.environ['SENTENCE_TRANSFORMERS_HOME'] = "ckpt"

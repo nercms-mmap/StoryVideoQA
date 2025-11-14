@@ -26,6 +26,8 @@ You can access the datasets via the following links:
 ### **Environment Setup (This project work in StoryMindv2 directory):**
 
 ```bash
+conda create --name StoryMindv2 python=3.10
+conda activate StoryMindv2
 cd StoryMindv2
 pip install -r requirements.txt
 ```
@@ -113,6 +115,8 @@ Before running the code, please make sure to prepare the Python environment prop
    We recommend creating a clean virtual environment (e.g., via `conda` or `venv`) and then installing the required dependencies:
 
    ```bash
+   conda create --name PlotTree python=3.10
+   conda activate PlotTree
    cd PlotTree
    pip install -r requirements.txt
    ```
@@ -120,14 +124,16 @@ Before running the code, please make sure to prepare the Python environment prop
 2. **Update `kmeans-pytorch` library  (Since we revise the distance for K-means)**
 
    ```bash
+   cd kmeans_new
    git clone https://github.com/subhadarship/kmeans_pytorch
    cd kmeans_pytorch
+   cp __init__.py kmeans_pytorch/kmeans_pytorch
    ```
-
-   Replace the `__init__.py` file in the `kmeans_pytorch` directory with the modified version provided in `./kmeans_pytorch` of this repository.
-
+   
+   By doing this, you can replace the `__init__.py` file in the `kmeans_pytorch` directory with the modified version we provided in `./kmeans_new` of this repository.
+   
    Then, install the updated package locally:
-
+   
    ```bash
    pip install --editable .
    ```

@@ -13,7 +13,7 @@ from sentence_transformers import SentenceTransformer
 import time
 
 from kmeans_pytorch import kmeans # Please install the dependence according to the README file.
-from utils.localllm import QwenChatbot, get_llm, chat
+from utils.llm import QwenChatbot, get_llm, chat
 os.environ['SENTENCE_TRANSFORMERS_HOME'] = "ckpt"
 
 

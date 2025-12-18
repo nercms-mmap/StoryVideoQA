@@ -367,7 +367,7 @@ if __name__ == '__main__':
     compaere_model = "PlotTree"
     print("Result Output Directory: ", hyper_insert_save_dir)
     if not os.path.exists(hyper_insert_save_dir):
-        os.mkdir(hyper_insert_save_dir)
+        os.mkdirs(hyper_insert_save_dir)
     
     save_json_path = f"{hyper_insert_save_dir}/{vid_dir}-{model_name}.json"
     

@@ -234,7 +234,7 @@ def pairwise_plot(data1, data2, device=torch.device('cpu')):
 
     # return N*N matrix for pairwise distance
     cosine_dis = 1 - cosine.sum(dim=-1).squeeze() + distance_ids
-    cosine_dis = distance_ids
+    # cosine_dis = distance_ids
     return cosine_dis
 
 

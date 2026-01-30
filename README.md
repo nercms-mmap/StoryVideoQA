@@ -6,7 +6,7 @@
 
 ------
 
-![face](./assets/storyvideoqa_introduction.png)
+![face](./assets/storyvideoqa_introduction.jpg)
 
 
 ------

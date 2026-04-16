@@ -145,21 +145,3 @@ def prompt_engine(generated_questions ,video_info, prompt_type="qg", feedback = 
         return "To do."
 
 
-
-# for filename in sorted(subtitle_script_align_files)[0:1]:
-#     SE_id = "_".join(filename.split('.')[0].split("_")[1:])
-#     SE_id_short = SE_id[:3]
-#     subtitle_script_align_file_path = os.path.join(subtitle_script_align_root, filename)
-#     subtitle_script_contents = pd.read_excel(subtitle_script_align_file_path,sheet_name= None)
-
-#     result_sheet = subtitle_script_contents['results_human']
-#     script_sheet = subtitle_script_contents['script']
-#     scripts = sheet_to_str(script_sheet, result_sheet, boundingbox = False)
-#     print(scripts)
-
-if __name__=="__main__":
-    subtitle_script_align_root = "/mnt/disk6new/wzq/experiment/AAAIext/HP/script_HP_align"
-    with open("test.txt",'w') as f:
-        file_path = os.path.join(subtitle_script_align_root, 'result_HP1_Harry_Potter_and_the_Philosophers_Stone.xlsx')
-        script_str = script_to_str(file_path)
-        f.write(script_str)

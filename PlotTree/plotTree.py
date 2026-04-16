@@ -13,7 +13,7 @@ from sentence_transformers import SentenceTransformer
 import time
 
 from kmeans_pytorch import kmeans # Please install the dependence according to the README file.
-from utils.llm import QwenChatbot, get_llm, chat
+from utils.llm import get_llm, chat
 os.environ['SENTENCE_TRANSFORMERS_HOME'] = "ckpt"
 
 
@@ -81,17 +81,9 @@ def get_llm_summary(args, plot_descriptions_list: list[str], llm_model) -> str:
     )
     
     global chatbot, llm
-    if llm_model == "Qwen/Qwen3-30B-A3B":
-        if not chatbot:
-            chatbot = QwenChatbot(model_name="Qwen/Qwen3-30B-A3B", cache_dir = "/mnt/disk6new/wzq/LLM/ckpt")
-            print(f"Loading {llm_model} first Time.")
-        summary = chatbot.generate_response(prompt)
-    else:
-        if not llm:
-            llm = get_llm(llm_model, args)
-            print(f"Loading {llm_model} first Time.")
-            
-        summary = chat(llm, question=prompt)
+    llm = get_llm(llm_model, args)
+    print(f"Loading {llm_model} first Time.")
+    summary = chat(llm, question=prompt)
         # print(f"{llm_model}: {summary}")
     if summary.startswith(prompt):
         summary = summary[len(prompt):].strip()

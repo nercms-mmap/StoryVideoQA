@@ -7,7 +7,7 @@ from tqdm import tqdm
 import torch
 import torch.nn.functional as F
 from sentence_transformers import SentenceTransformer
-from utils.llm import QwenChatbot, get_llm, chat
+from utils.llm import get_llm, chat
 
 
 os.environ['SENTENCE_TRANSFORMERS_HOME'] = "ckpt"
@@ -54,18 +54,10 @@ chatbot = None
 llm = None
 def get_llm_qa(prompt, llm_model, args) -> str:
     global chatbot, llm
-    if llm_model == "Qwen3-30B-A3B":
-        if not chatbot:
-            chatbot = QwenChatbot(model_name="Qwen/"+"Qwen3-30B-A3B", cache_dir = "/mnt/disk6new/wzq/LLM/ckpt")
-            print(f"Loading {llm_model} first Time.")
-        summary = chatbot.generate_response(prompt)
-        # print(f"{llm_model}: {summary}")
-    else:
-        if not llm:
-            llm = get_llm(llm_model, args)
-            print(f"Loading {llm_model} first Time.")
-        summary = chat(llm, question=prompt)
-         # print(f"{llm_model}: {summary}")
+    llm = get_llm(llm_model, args)
+    print(f"Loading {llm_model} first Time.")
+    summary = chat(llm, question=prompt)
+    # print(f"{llm_model}: {summary}")
     if summary.startswith(prompt):
         summary = summary[len(prompt):].strip()
     # if len(summary) > 500: summary = summary[:500] + "..."

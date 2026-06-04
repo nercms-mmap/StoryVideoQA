@@ -212,4 +212,38 @@ For convenience, we have provided **pre-generated plot captioning results** for 
 
 ## Citation
 
-If you find this repository useful, please consider giving ⭐.
+If you find this repository useful, please consider giving ⭐ or citing:
+
+   ```
+@Article{StoryVideoQA2026,
+    author={Wu, Zhengqian and Liu, Zhixian and Chen, Aodong and Zhang, Jingyang and Li, Ruizhe and Ge, Hanlin and Wang, Zhongyuan and Xiao, Chunxia and Liang, Chao},
+    title={StoryVideoQA: Scaling Deep Video Understanding with a Large-Scale, Multi-Genre and Auto-Generated Dataset},
+    journal={International Journal of Computer Vision},
+    year={2026},
+    month={Jun},
+    day={04},
+    volume={134},
+    number={6},
+    pages={308},
+}
+   ```
+
+and its conference version:
+
+```
+@article{FriendsQA2025, 
+    title={FriendsQA: A New Large-Scale Deep Video Understanding Dataset with Fine-grained Topic Categorization for Story Videos}, 
+    volume={39}, 
+    url={https://ojs.aaai.org/index.php/AAAI/article/view/32920}, 
+    DOI={10.1609/aaai.v39i8.32920}, 
+    number={8}, 
+    journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+    author={Wu, Zhengqian and Li, Ruizhe and Xu, Zijun and Wang, Zhongyuan and Xiao, Chunxia and Liang, Chao}, 
+    year={2025}, 
+    month={Apr.}, 
+    pages={8523-8531} 
+}
+```
+
+ 
+

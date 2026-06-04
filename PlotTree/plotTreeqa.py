@@ -54,8 +54,9 @@ chatbot = None
 llm = None
 def get_llm_qa(prompt, llm_model, args) -> str:
     global chatbot, llm
-    llm = get_llm(llm_model, args)
-    print(f"Loading {llm_model} first Time.")
+    if not llm:
+        llm = get_llm(llm_model, args)
+        print(f"Loading {llm_model} first Time.")
     summary = chat(llm, question=prompt)
     # print(f"{llm_model}: {summary}")
     if summary.startswith(prompt):
